@@ -13,10 +13,15 @@ To invite Robo Data you can click the link [here](https://discord.com/oauth2/aut
 _________________________
 
 # Commands
-/frames
+- /frames
 Show frame data for a move.
 <img width="397" height="488" alt="image" src="https://github.com/user-attachments/assets/45f191fb-5e5b-4a15-8fef-3ab900f2410e" />
 
+- /hitboxes
+Show hitboxes for a move.
+<img width="593" height="330" alt="image" src="https://github.com/user-attachments/assets/83f5ad93-b94c-4f79-8e17-2e376ed1bd2f" />
+
+_________________________
 
 # Credits
 - [Dustloop](https://www.dustloop.com/w/Main_Page) for providing the character data.

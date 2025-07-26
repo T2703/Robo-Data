@@ -1542,7 +1542,7 @@ def get_move_data(character, move):
 
 def get_move_list_data(character):
     try:
-        with open(f"char_data/{character}/move.txt", "r") as f:
+        with open(f"char_data/{character.lower()}/move.txt", "r") as f:
             return json.load(f)
     except Exception as e:
         print(f"Error loading movelist: {e}")
@@ -1550,7 +1550,7 @@ def get_move_list_data(character):
 
 def get_character_info(character):
     try:
-        with open(f"char_data/{character}/info.txt", "r") as f:
+        with open(f"char_data/{character.lower()}/info.txt", "r") as f:
             return json.load(f)[0]
     except Exception as e:
         print(f"Error loading character info: {e}")

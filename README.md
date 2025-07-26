@@ -29,11 +29,6 @@ Visualize startup active, and recovery frames.
 <img width="611" height="504" alt="image" src="https://github.com/user-attachments/assets/3ab56291-3c35-4cd3-a50a-e2d445f43c8b" />
 
 ---
-### `/meter`
-Visualize startup active, and recovery frames.
-<img width="611" height="504" alt="image" src="https://github.com/user-attachments/assets/3ab56291-3c35-4cd3-a50a-e2d445f43c8b" />
-
----
 ### `/info`
 Get detailed info/stats for a character.
 <img width="425" height="531" alt="image" src="https://github.com/user-attachments/assets/a1abcc65-98eb-446f-9d3c-cd0bd59ca032" />

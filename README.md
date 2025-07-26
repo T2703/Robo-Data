@@ -13,5 +13,5 @@ To invite Robo Data you can click the link [here](https://discord.com/oauth2/aut
 _________________________
 
 # Credits
-[Dustloop](https://www.dustloop.com/w/Main_Page) for providing the character data.
-[yakiimoninja's](https://github.com/yakiimoninja) [baiken](https://github.com/yakiimoninja/baiken?tab=readme-ov-file) for the inspiration.  
+- [Dustloop](https://www.dustloop.com/w/Main_Page) for providing the character data.
+- [yakiimoninja's](https://github.com/yakiimoninja) [baiken](https://github.com/yakiimoninja/baiken?tab=readme-ov-file) for the inspiration.  

@@ -23,6 +23,10 @@ Show hitboxes for a move.
 
 _________________________
 
+# Technologies:
+- Python
+- Discord
+_________________________
 # Credits
 - [Dustloop](https://www.dustloop.com/w/Main_Page) for providing the character data.
 - [yakiimoninja's](https://github.com/yakiimoninja) [baiken](https://github.com/yakiimoninja/baiken?tab=readme-ov-file) for the inspiration.  

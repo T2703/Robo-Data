@@ -1,0 +1,1126 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "2",
+    "recovery": "9",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGAC_Bridget_5P.png/210px-GGAC_Bridget_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGXXACPR_Bridget_5P-Hitbox.png/210px-GGXXACPR_Bridget_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "22",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "5",
+    "recovery": "11",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_Bridget_5K.png/210px-GGAC_Bridget_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Bridget_5K-Hitbox.png/210px-GGXXACPR_Bridget_5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "22 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "2(10)2",
+    "recovery": "12",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/8/85/GGAC_Bridget_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGXXACPR_Bridget_cS-1-Hitbox.png/178px-GGXXACPR_Bridget_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGXXACPR_Bridget_cS-2-Hitbox.png/179px-GGXXACPR_Bridget_cS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "34",
+    "guard": "Mid",
+    "invincibility": "3-4F Feet",
+    "startup": "7",
+    "active": "6",
+    "recovery": "18",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGAC_Bridget_fS.png/210px-GGAC_Bridget_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGXXACPR_Bridget_fS-1-Hitbox.png/210px-GGXXACPR_Bridget_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGXXACPR_Bridget_fS-2-Hitbox.png/210px-GGXXACPR_Bridget_fS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGXXACPR_Bridget_fS-3-Hitbox.png/210px-GGXXACPR_Bridget_fS-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGXXACPR_Bridget_fS-4-Hitbox.png/210px-GGXXACPR_Bridget_fS-4-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D",
+    "move": "5D",
+    "damage": "17",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "30",
+    "active": "6",
+    "recovery": "24",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/9/95/GGAC_Bridget_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGXXACPR_Bridget_5D-1-Hitbox.png/210px-GGXXACPR_Bridget_5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGXXACPR_Bridget_5D-2-Hitbox.png/168px-GGXXACPR_Bridget_5D-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6P",
+    "move": "6P",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-2F, 13-14F Upper Body, 3-12F Above Knees",
+    "startup": "11",
+    "active": "6",
+    "recovery": "14",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_Bridget_6P.png/202px-GGAC_Bridget_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGXXACPR_Bridget_6P-1-Hitbox.png/169px-GGXXACPR_Bridget_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Bridget_6P-2-Hitbox.png/185px-GGXXACPR_Bridget_6P-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGXXACPR_Bridget_6P-3-Hitbox.png/210px-GGXXACPR_Bridget_6P-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "3P",
+    "move": "3P",
+    "damage": "24",
+    "guard": "All",
+    "invincibility": "1-19F Lower Body, 20-21F Feet",
+    "startup": "8",
+    "active": "12",
+    "recovery": "7",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/9/9a/GGAC_Bridget_3P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/0/0a/GGXXACPR_Bridget_3P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/43/GGXXACPR_Bridget_3P-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6K",
+    "move": "6K",
+    "damage": "40",
+    "guard": "High",
+    "invincibility": "9-19F Feet, 23-34F Low Profile",
+    "startup": "23",
+    "active": "6",
+    "recovery": "15",
+    "block": "-4",
+    "frc_window": "24-25F",
+    "proration": "70%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/c/cf/GGAC_Bridget_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Bridget_6K-1-Hitbox.png/210px-GGXXACPR_Bridget_6K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGXXACPR_Bridget_6K-2-Hitbox.png/210px-GGXXACPR_Bridget_6K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6S",
+    "move": "6S",
+    "damage": "46",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "6",
+    "recovery": "29",
+    "block": "-18",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Bridget_6S.png/210px-GGAC_Bridget_6S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGACR_Bridget_6S_Hitbox_1.png/210px-GGACR_Bridget_6S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGACR_Bridget_6S_Hitbox_2.png/210px-GGACR_Bridget_6S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGACR_Bridget_6S_Hitbox_3.png/210px-GGACR_Bridget_6S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGACR_Bridget_6S_Hitbox_4.png/210px-GGACR_Bridget_6S_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGACR_Bridget_6S_Hitbox_5.png/210px-GGACR_Bridget_6S_Hitbox_5.png"
+    ]
+  },
+  {   
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "3",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGAC_Bridget_2P.png/210px-GGAC_Bridget_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/99/GGXXACPR_Bridget_2P-1-Hitbox.png/210px-GGXXACPR_Bridget_2P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGXXACPR_Bridget_2P-2-Hitbox.png/210px-GGXXACPR_Bridget_2P-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "1-9F Low Profile",
+    "startup": "5",
+    "active": "3",
+    "recovery": "6",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGAC_Bridget_2K.png/210px-GGAC_Bridget_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3c/GGXXACPR_Bridget_2K-Hitbox.png/210px-GGXXACPR_Bridget_2K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2S",
+    "move": "2S",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-3F, 30-33F Low Profile, 14-21F Feet",
+    "startup": "10",
+    "active": "12",
+    "recovery": "12",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGAC_Bridget_2S.png/210px-GGAC_Bridget_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGXXACPR_Bridget_2S-1-Hitbox.png/210px-GGXXACPR_Bridget_2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGXXACPR_Bridget_2S-2-Hitbox.png/210px-GGXXACPR_Bridget_2S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGXXACPR_Bridget_2S-3-Hitbox.png/210px-GGXXACPR_Bridget_2S-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ef/GGXXACPR_Bridget_2S-4-Hitbox.png/210px-GGXXACPR_Bridget_2S-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/01/GGXXACPR_Bridget_2S-5-Hitbox.png/210px-GGXXACPR_Bridget_2S-5-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGXXACPR_Bridget_2S-6-Hitbox.png/210px-GGXXACPR_Bridget_2S-6-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2D",
+    "move": "2D",
+    "damage": "32",
+    "guard": "Low",
+    "invincibility": "7-16F Feet",
+    "startup": "7",
+    "active": "4",
+    "recovery": "20",
+    "block": "-7",
+    "frc_window": "9-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3d/GGAC_Bridget_2D.png/210px-GGAC_Bridget_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR_Bridget_2D-1-Hitbox.png/210px-GGXXACPR_Bridget_2D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGXXACPR_Bridget_2D-2-Hitbox.png/210px-GGXXACPR_Bridget_2D-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.P",
+    "move": "JP",
+    "damage": "16",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "6",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/57/GGAC_Bridget_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/c/cf/GGXXACPR_Bridget_jP-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.K",
+    "move": "JK",
+    "damage": "24",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "8",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/7/74/GGAC_Bridget_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/6f/GGXXACPR_Bridget_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/6/62/GGXXACPR_Bridget_jK-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.S",
+    "move": "JS",
+    "damage": "30",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "6",
+    "recovery": "19",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGAC_Bridget_jS.png/210px-GGAC_Bridget_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGXXACPR_Bridget_jS-1-Hitbox.png/210px-GGXXACPR_Bridget_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGXXACPR_Bridget_jS-2-Hitbox.png/210px-GGXXACPR_Bridget_jS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.2S",
+    "move": "J2S",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "6",
+    "recovery": "25",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/4/45/GGAC_Bridget_j2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGXXACPR_Bridget_j2S-1-Hitbox.png/210px-GGXXACPR_Bridget_j2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGXXACPR_Bridget_j2S-2-Hitbox.png/210px-GGXXACPR_Bridget_j2S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGXXACPR_Bridget_j2S-3-Hitbox.png/210px-GGXXACPR_Bridget_j2S-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.D",
+    "move": "JD",
+    "damage": "24 x 3",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "3 x 6",
+    "recovery": "16 + 4",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/10/GGAC_Bridget_jD.png/210px-GGAC_Bridget_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGXXACPR_Bridget_jD-1-Hitbox.png/187px-GGXXACPR_Bridget_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e8/GGXXACPR_Bridget_jD-2-Hitbox.png/168px-GGXXACPR_Bridget_jD-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGXXACPR_Bridget_jD-3-Hitbox.png/173px-GGXXACPR_Bridget_jD-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "48",
+    "guard": "45 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6 x 2",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGAC_Bridget_throw.png/128px-GGAC_Bridget_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "55",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGAC_Bridget_airThrow.png/171px-GGAC_Bridget_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-16F All",
+    "startup": "11",
+    "active": "6",
+    "recovery": "14",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_Bridget_6P.png/202px-GGAC_Bridget_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGXXACPR_Bridget_6P-1-Hitbox.png/169px-GGXXACPR_Bridget_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Bridget_6P-2-Hitbox.png/185px-GGXXACPR_Bridget_6P-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGXXACPR_Bridget_6P-3-Hitbox.png/210px-GGXXACPR_Bridget_6P-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "8/9/7/6/5/4H",
+    "move": "Yo-Yo Placement",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Varies On Direction",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Bridget_GroundSet.png/210px-GGAC_Bridget_GroundSet.png"
+    ]
+  },
+  {   
+    "input": "j.8/9/7/6/5/4/3/2/1H",
+    "move": "Air Yo-Yo Placement",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Varies On Direction",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGAC_Bridget_AirSet.png/210px-GGAC_Bridget_AirSet.png"
+    ]
+  },
+  {   
+    "input": "[H]",
+    "move": "Knockdown Yo-Yo Placement",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-End All",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 38",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/6/64/GGAC_Bridget_KnockdownSet.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > H/[H]",
+    "move": "Yo-Yo Recall",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "N/A",
+    "recovery": "Total 20",
+    "block": "+22",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fe/GGAC_Bridget_YoyoCallback-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGAC_Bridget_YoyoCallback-2.png/210px-GGAC_Bridget_YoyoCallback-2.png"
+    ]
+  },
+  {   
+    "input": "Air Yo-Yo Set > H/[H]",
+    "move": "Air Yo-Yo Recall",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "N/A",
+    "recovery": "Total 22",
+    "block": "+22",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fe/GGAC_Bridget_YoyoCallback-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGAC_Bridget_YoyoCallback-2.png/210px-GGAC_Bridget_YoyoCallback-2.png"
+    ]
+  },
+  {   
+    "input": "236K",
+    "move": "Kick Start My Heart",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "3-4F Feet",
+    "startup": "11",
+    "active": "34",
+    "recovery": "9",
+    "block": "-26",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/52/GGAC_Bridget_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/8f/GGXXACPR_Bridget_236K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K > P",
+    "move": "Stop",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "28",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGAC_Bridget_236KP.png/210px-GGAC_Bridget_236KP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGXXACPR_Bridget_236KP-Hitbox.png/210px-GGXXACPR_Bridget_236KP-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K > K",
+    "move": "Shoot",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "2",
+    "active": "12",
+    "recovery": "21 + 20 After Landing",
+    "block": "-39",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGAC_Bridget_236KK.png/210px-GGAC_Bridget_236KK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGXXACPR_Bridget_236KK-Hitbox.png/197px-GGXXACPR_Bridget_236KK-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623P",
+    "move": "Starship",
+    "damage": "22 x 4",
+    "guard": "Mid",
+    "invincibility": "1-9 All, 10-16F Strike",
+    "startup": "13",
+    "active": "3 x 5",
+    "recovery": "25",
+    "block": "-17",
+    "frc_window": "19-20F",
+    "proration": "80%",
+    "guard_bar_plus": "10 x 4",
+    "guard_bar_minus": "7 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGAC_Bridget_623P.png/196px-GGAC_Bridget_623P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGXXACPR_Bridget_623P-Hitbox.png/192px-GGXXACPR_Bridget_623P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.623P",
+    "move": "Air Starship",
+    "damage": "18 x 3",
+    "guard": "All",
+    "invincibility": "1-13F Strike",
+    "startup": "13",
+    "active": "3 x 5",
+    "recovery": "Until Landing + 10",
+    "block": "-17",
+    "frc_window": "19-20F",
+    "proration": "80%",
+    "guard_bar_plus": "6 x 3",
+    "guard_bar_minus": "5 x 3",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGAC_Bridget_623P.png/196px-GGAC_Bridget_623P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGXXACPR_Bridget_j623P-Hitbox.png/166px-GGXXACPR_Bridget_j623P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 236H",
+    "move": "Roger Rush",
+    "damage": "36 x 3",
+    "guard": "All",
+    "invincibility": "1-13F Strike",
+    "startup": "28",
+    "active": "Check Dustloop",
+    "recovery": "Total 32",
+    "block": "+80",
+    "frc_window": "16-17F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/e/e2/GGAC_Bridget_236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/1/16/GGXXACPR_Bridget_236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/24/GGXXACPR_Bridget_236H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/44/GGXXACPR_Bridget_236H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > j.236H",
+    "move": "Air Roger Rush",
+    "damage": "36 x 3",
+    "guard": "All",
+    "invincibility": "1-13F Strike",
+    "startup": "23",
+    "active": "Check Dustloop",
+    "recovery": "Total 42",
+    "block": "N/A",
+    "frc_window": "16-17F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/e/e2/GGAC_Bridget_236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/1/16/GGXXACPR_Bridget_236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/24/GGXXACPR_Bridget_236H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/44/GGXXACPR_Bridget_236H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 214H",
+    "move": "Jagged Roger",
+    "damage": "20 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "38",
+    "active": "105",
+    "recovery": "Total 32",
+    "block": "+36",
+    "frc_window": "22-23F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fe/GGAC_Bridget_214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/3/37/GGXXACPR_Bridget_214H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > j.214H",
+    "move": "Air Jagged Roger",
+    "damage": "20 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "29",
+    "active": "105",
+    "recovery": "Total 37",
+    "block": "+29",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fe/GGAC_Bridget_214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/3/37/GGXXACPR_Bridget_214H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 623H",
+    "move": "Roger Hug",
+    "damage": "30",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "34",
+    "active": "27",
+    "recovery": "Total 40",
+    "block": "+20",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGAC_Bridget_623H.png/210px-GGAC_Bridget_623H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/e/e9/GGXXACPR_Bridget_623H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 421H",
+    "move": "Roger Get",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "Until Landing",
+    "recovery": "Total 30",
+    "block": "N/A",
+    "frc_window": "20-21F",
+    "proration": "Forced 75%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_Bridget_421H-1.png/210px-GGACR_Bridget_421H-1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > j.421H",
+    "move": "Air Roger Get",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "Until Landing",
+    "recovery": "Total 34",
+    "block": "N/A",
+    "frc_window": "20-21F",
+    "proration": "Forced 75%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_Bridget_421H-1.png/210px-GGACR_Bridget_421H-1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 421H High",
+    "move": "Roger Get High",
+    "damage": "20 x 2",
+    "guard": "All, Low",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "Until Landing (11)42",
+    "recovery": "Total 30",
+    "block": "N/A",
+    "frc_window": "20-21F",
+    "proration": "Forced 75%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_Bridget_421H-1.png/210px-GGACR_Bridget_421H-1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > j.421H High",
+    "move": "Air Roger Get High",
+    "damage": "20 x 2",
+    "guard": "All, Low",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "Until Landing (11)42",
+    "recovery": "Total 34",
+    "block": "N/A",
+    "frc_window": "20-21F",
+    "proration": "Forced 75%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_Bridget_421H-1.png/210px-GGACR_Bridget_421H-1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/8/85/GGXXACPR_Bridget_421H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 214K or j.214K",
+    "move": "Rolling Movement",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGAC_Bridget_214K.png/210px-GGAC_Bridget_214K.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 236D",
+    "move": "FB Roger Rush",
+    "damage": "20 x 2, 50",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "10(10)10(18)16",
+    "recovery": "Total 36",
+    "block": "+87",
+    "frc_window": "16-17F",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2, 20",
+    "guard_bar_minus": "8 x 2, 15",
+    "level": "3 x 2, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/e/e2/GGAC_Bridget_236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/1/16/GGXXACPR_Bridget_236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/24/GGXXACPR_Bridget_236H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/44/GGXXACPR_Bridget_236H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > j.236D",
+    "move": "FB Air Roger Rush",
+    "damage": "20 x 2, 50",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "23",
+    "active": "10(10)10(18)16",
+    "recovery": "Total 33",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2, 20",
+    "guard_bar_minus": "8 x 2, 15",
+    "level": "3 x 2, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/e/e2/GGAC_Bridget_236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/1/16/GGXXACPR_Bridget_236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/24/GGXXACPR_Bridget_236H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/44/GGXXACPR_Bridget_236H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 214D",
+    "move": "FB Jagged Roger",
+    "damage": "20 x 5",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "38",
+    "active": "85",
+    "recovery": "Total 39",
+    "block": "+54",
+    "frc_window": "22-23F",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 5",
+    "guard_bar_minus": "7 x 5",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fe/GGAC_Bridget_214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/3/37/GGXXACPR_Bridget_214H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > j.214D",
+    "move": "FB Air Jagged Roger",
+    "damage": "20 x 5",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "29",
+    "active": "85",
+    "recovery": "Total 37",
+    "block": "+47",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 5",
+    "guard_bar_minus": "7 x 5",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fe/GGAC_Bridget_214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/3/37/GGXXACPR_Bridget_214H-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "632146S",
+    "move": "Loop The Loop",
+    "damage": "20 x 7, 60",
+    "guard": "Mid x 7, High",
+    "invincibility": "5-7F Strike",
+    "startup": "5 + 1",
+    "active": "3(6)3(3)3, 6, 3, 6, 3, 9(12)20",
+    "recovery": "16",
+    "block": "-17",
+    "frc_window": "42-45F",
+    "proration": "N/A",
+    "guard_bar_plus": "20, 6 x 6, 15",
+    "guard_bar_minus": "6, 7 x 6, 6",
+    "level": "5, 2 x 6, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/08/GGAC_Bridget_632146S-1.png/210px-GGAC_Bridget_632146S-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/96/GGAC_Bridget_632146S-2.png/210px-GGAC_Bridget_632146S-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGACR_Bridget_632146S_Hitbox_1.png/210px-GGACR_Bridget_632146S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGACR_Bridget_632146S_Hitbox_2.png/210px-GGACR_Bridget_632146S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b6/GGACR_Bridget_632146S_Hitbox_3.png/200px-GGACR_Bridget_632146S_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "4123641236S",
+    "move": "Maintenance Disaster",
+    "damage": "24 x 18",
+    "guard": "Mid",
+    "invincibility": "1-4F All",
+    "startup": "4 + 0",
+    "active": "48",
+    "recovery": "Total 44",
+    "block": "-17",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 18",
+    "guard_bar_minus": "8 x 18",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGAC_Bridget_4123641236S.png/210px-GGAC_Bridget_4123641236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGACR_Bridget_4123641236S_Hitbox.png/210px-GGACR_Bridget_4123641236S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 632146H",
+    "move": "Me And My Killing Machine",
+    "damage": "25 x 12",
+    "guard": "All",
+    "invincibility": "1-4F All, 15-21F Strike",
+    "startup": "1 + 23",
+    "active": "117",
+    "recovery": "Total 32",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 12",
+    "guard_bar_minus": "7 x 12",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGACR_Bridget_632146H.png/210px-GGACR_Bridget_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/3/34/GGACR_Bridget_632146H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Yo-Yo Set > 412364H",
+    "move": "Me And My Killing Machine Delay",
+    "damage": "25 x 6",
+    "guard": "All",
+    "invincibility": "1-1F All",
+    "startup": "1 + 13",
+    "active": "129",
+    "recovery": "Total 24",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 6",
+    "guard_bar_minus": "7 x 6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGACR_Bridget_632146H.png/210px-GGACR_Bridget_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/3/34/GGACR_Bridget_632146H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Shoot The Moon",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "1-7F Strike",
+    "startup": "7 + 6",
+    "active": "12",
+    "recovery": "91",
+    "block": "-86",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "N/A",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_Bridget_IK1.png/156px-GGAC_Bridget_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGAC_Bridget_IK2.png/210px-GGAC_Bridget_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGACR_Bridget_IK_Hitbox_1.png/210px-GGACR_Bridget_IK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGACR_Bridget_IK_Hitbox_2.png/210px-GGACR_Bridget_IK_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGACR_Bridget_IK_Hitbox_3.png/210px-GGACR_Bridget_IK_Hitbox_3.png"
+    ]
+  }
+]

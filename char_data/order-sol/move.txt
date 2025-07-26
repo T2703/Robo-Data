@@ -1,0 +1,1269 @@
+[
+  {
+    "input": "5P",
+    "move": "5P",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "3",
+    "recovery": "4",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b8/GGAC_OSol_5P.png/175px-GGAC_OSol_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGXXACPR_Order-Sol_5P-Hitbox.png/159px-GGXXACPR_Order-Sol_5P-Hitbox.png"
+    ]
+   },
+   {
+    "input": "5K",
+    "move": "5K",
+    "damage": "14",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "3",
+    "active": "3",
+    "recovery": "9",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGAC_OSol_5K.png/201px-GGAC_OSol_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d0/GGXXACPR_Order-Sol_5K-1-Hitbox.png/160px-GGXXACPR_Order-Sol_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGXXACPR_Order-Sol_5K-2-Hitbox.png/200px-GGXXACPR_Order-Sol_5K-2-Hitbox.png"
+    ]
+   },
+   {
+    "input": "c.S",
+    "move": "CS",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "3",
+    "recovery": "14",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_OSol_cS.png/197px-GGAC_OSol_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGXXACPR_Order-Sol_cS-1-Hitbox.png/194px-GGXXACPR_Order-Sol_cS-1-Hitbox.png"
+    ]
+   },
+   {
+    "input": "f.S",
+    "move": "FS",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "2",
+    "recovery": "15",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGAC_OSol_fS.png/210px-GGAC_OSol_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGXXACPR_Order-Sol_fS-Hitbox.png/210px-GGXXACPR_Order-Sol_fS-Hitbox.png"
+    ]
+   }, 
+   {
+    "input": "5H",
+    "move": "5H",
+    "damage": "47",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "2",
+    "recovery": "16",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9b/GGAC_OSol_5H.png/187px-GGAC_OSol_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGXXACPR_Order-Sol_5H-2-Hitbox.png/199px-GGXXACPR_Order-Sol_5H-2-Hitbox.png"
+    ]
+   },
+   {
+    "input": "5D",
+    "move": "5D",
+    "damage": "20",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "24",
+    "active": "3",
+    "recovery": "18",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a1/GGAC_OSol_5D.png/175px-GGAC_OSol_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGXXACPR_Order-Sol_5D-Hitbox.png/175px-GGXXACPR_Order-Sol_5D-Hitbox.png"
+    ]
+   },
+   {
+    "input": "6P",
+    "move": "6P",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "1-17F, 28~31F Upper Body, 18-27F Above Knees",
+    "startup": "20",
+    "active": "3",
+    "recovery": "9",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/78/GGAC_OSol_6P.png/192px-GGAC_OSol_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGXXACPR_Order-Sol_6P-Hitbox.png/210px-GGXXACPR_Order-Sol_6P-Hitbox.png"
+    ]
+   },
+   {
+    "input": "6K",
+    "move": "6K",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-21F Throw",
+    "startup": "12",
+    "active": "10",
+    "recovery": "7",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7a/GGAC_OSol_6K.png/210px-GGAC_OSol_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGXXACPR_Order-Sol_6K-1-Hitbox.png/210px-GGXXACPR_Order-Sol_6K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/99/GGXXACPR_Order-Sol_6K-2-Hitbox.png/210px-GGXXACPR_Order-Sol_6K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/50/GGXXACPR_Order-Sol_6K-3-Hitbox.png/203px-GGXXACPR_Order-Sol_6K-3-Hitbox.png"
+    ]
+   },
+   {
+    "input": "6H",
+    "move": "6H",
+    "damage": "70",
+    "guard": "Mid",
+    "invincibility": "1-17F, 28~31F Upper Body, 18-27F Above Knees",
+    "startup": "17",
+    "active": "1",
+    "recovery": "24",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGAC_OSol_6H.png/210px-GGAC_OSol_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGXXACPR_Order-Sol_6H-Hitbox.png/210px-GGXXACPR_Order-Sol_6H-Hitbox.png"
+    ]
+   },
+   {
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "4",
+    "recovery": "5",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGAC_OSol_2P.png/210px-GGAC_OSol_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGXXACPR_Order-Sol_2P-Hitbox.png/210px-GGXXACPR_Order-Sol_2P-Hitbox.png"
+    ]
+   },
+   {
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "6",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ee/GGAC_OSol_2K.png/210px-GGAC_OSol_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6c/GGXXACPR_Order-Sol_2K-Hitbox.png/210px-GGXXACPR_Order-Sol_2K-Hitbox.png"
+    ]
+   },
+   {
+    "input": "2S",
+    "move": "2S",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "12",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGAC_OSol_2S.png/210px-GGAC_OSol_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6a/GGXXACPR_Order-Sol_2S-Hitbox.png/210px-GGXXACPR_Order-Sol_2S-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Order-Sol_2S-Hitbox1.png/210px-GGXXACPR_Order-Sol_2S-Hitbox1.png"
+    ]
+   },
+   {
+    "input": "2H",
+    "move": "2H",
+    "damage": "32",
+    "guard": "High",
+    "invincibility": "11-22F Lower Body, 17-26F Throw",
+    "startup": "23",
+    "active": "4",
+    "recovery": "13",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_OSol_2H.png/210px-GGAC_OSol_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGXXACPR_Order-Sol_2H-Hitbox.png/210px-GGXXACPR_Order-Sol_2H-Hitbox.png"
+    ]
+   },
+   {
+    "input": "2D",
+    "move": "2D",
+    "damage": "28",
+    "guard": "Low",
+    "invincibility": "6-21F Low Profile",
+    "startup": "9",
+    "active": "4",
+    "recovery": "14",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3d/GGAC_OSol_2D.png/210px-GGAC_OSol_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b6/GGXXACPR_Order-Sol_2D-Hitbox.png/210px-GGXXACPR_Order-Sol_2D-Hitbox.png"
+    ]
+   },
+   {
+    "input": "j.P",
+    "move": "JP",
+    "damage": "11",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "6",
+    "recovery": "4",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/b/ba/GGAC_OSol_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGXXACPR_Order-Sol_jP-1-Hitbox.png/152px-GGXXACPR_Order-Sol_jP-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Order-Sol_jP-2-Hitbox.png/143px-GGXXACPR_Order-Sol_jP-2-Hitbox.png"
+    ]
+   },
+   {
+    "input": "j.K",
+    "move": "JK",
+    "damage": "16",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "8",
+    "recovery": "10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGAC_OSol_jK.png/210px-GGAC_OSol_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Order-Sol_jK-1-Hitbox.png/188px-GGXXACPR_Order-Sol_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGXXACPR_Order-Sol_jK-2-Hitbox.png/188px-GGXXACPR_Order-Sol_jK-2-Hitbox.png"
+    ]
+   },
+   {
+    "input": "j.S",
+    "move": "JS",
+    "damage": "26",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "6",
+    "recovery": "14",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGAC_OSol_jS.png/210px-GGAC_OSol_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGXXACPR_Order-Sol_jS-1-Hitbox.png/198px-GGXXACPR_Order-Sol_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Order-Sol_jS-2-Hitbox.png/137px-GGXXACPR_Order-Sol_jS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.H",
+    "move": "JH",
+    "damage": "34",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "13",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGAC_OSol_jH.png/210px-GGAC_OSol_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/75/GGXXACPR_Order-Sol_jH-1-Hitbox.png/203px-GGXXACPR_Order-Sol_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGXXACPR_Order-Sol_jH-2-Hitbox.png/178px-GGXXACPR_Order-Sol_jH-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.D",
+    "move": "JD",
+    "damage": "42",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "4",
+    "recovery": "7 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fd/GGAC_OSol_jD.png/210px-GGAC_OSol_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f7/GGXXACPR_Order-Sol_jD-Hitbox.png/190px-GGXXACPR_Order-Sol_jD-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H or 4H",
+    "move": "Ground Throw",
+    "damage": "60",
+    "guard": "43 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 40%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_OSol_throw.png/210px-GGAC_OSol_throw.png"
+    ]
+  },
+  {
+    "input": "j.6H or j.4H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6, 7",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a1/GGAC_OSol_airthrow.png/200px-GGAC_OSol_airthrow.png"
+    ]
+  },
+  {
+    "input": "6 + X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-9F All, 10-23F Throw",
+    "startup": "5",
+    "active": "5",
+    "recovery": "17",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_OSol_cS.png/197px-GGAC_OSol_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGXXACPR_Order-Sol_cS-1-Hitbox.png/194px-GGXXACPR_Order-Sol_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGXXACPR_Order-Sol_cS-2-Hitbox.png/189px-GGXXACPR_Order-Sol_cS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "214[D]",
+    "move": "Charge",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "13~",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b7/GGAC_OSol_214D.png/210px-GGAC_OSol_214D.png"
+    ]
+  },
+  {
+    "input": "214[D] > H",
+    "move": "Charge Burst",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "1-28F All",
+    "startup": "19",
+    "active": "4",
+    "recovery": "35",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGAC_OSol_214DH.png/198px-GGAC_OSol_214DH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGACR_OSol_214DH_Hitbox_1.png/198px-GGACR_OSol_214DH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGACR_OSol_214DH_Hitbox_2.png/198px-GGACR_OSol_214DH_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "Special > D",
+    "move": "Action Charge",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 30",
+    "block": "N/A",
+    "frc_window": "7-12F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGAC_OSol_actcharge.png/192px-GGAC_OSol_actcharge.png"
+    ]
+  },
+  {
+    "input": "Special > j.D",
+    "move": "Air Action Charge",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Until Landing + 8",
+    "block": "N/A",
+    "frc_window": "7-12F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_OSol_actchargeair.png/169px-GGAC_OSol_actchargeair.png"
+    ]
+  },
+  {
+    "input": "236P",
+    "move": "Blockhead Buster Level 1",
+    "damage": "10, 16",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "2, 8",
+    "recovery": "Total 42",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "4 x 2",
+    "level": "4, 3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bf/GGAC_OSol_236P.png/210px-GGAC_OSol_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_OSol_236P_Hitbox_1.png/210px-GGACR_OSol_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGACR_OSol_236P_Hitbox_2.png/210px-GGACR_OSol_236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGACR_OSol_236P_Hitbox_3.png/210px-GGACR_OSol_236P_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "236P Level 2",
+    "move": "Blockhead Buster Level 2",
+    "damage": "10, 12 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "2, 6, 6",
+    "recovery": "Total 42",
+    "block": "+11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "4 x 3",
+    "level": "4, 5 x 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_OSol_236P2.png/210px-GGAC_OSol_236P2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_OSol_236P_Hitbox_1.png/210px-GGACR_OSol_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGACR_OSol_236P_Hitbox_2.png/210px-GGACR_OSol_236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6c/GGACR_OSol_236P_Hitbox_4.png/210px-GGACR_OSol_236P_Hitbox_4.png"
+    ]
+  },
+  {
+    "input": "236P Level 3",
+    "move": "Blockhead Buster Level 3",
+    "damage": "10, 12 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "2, 12(8)12(8)12",
+    "recovery": "Total 42",
+    "block": "+37",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "4, 2 x 3",
+    "level": "4, 5 x 3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGAC_OSol_236P3.png/210px-GGAC_OSol_236P3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_OSol_236P_Hitbox_1.png/210px-GGACR_OSol_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGACR_OSol_236P_Hitbox_2.png/210px-GGACR_OSol_236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGACR_OSol_236P_Hitbox_5.png/210px-GGACR_OSol_236P_Hitbox_5.png"
+    ]
+  },
+  {
+    "input": "214S",
+    "move": "Gun Blaze Level 1",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "1-4F Above Knees, 5-16F Above Feet, 17-19F Low Profile",
+    "startup": "23",
+    "active": "14",
+    "recovery": "Total 44",
+    "block": "+9",
+    "frc_window": "27-28F",
+    "proration": "85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGAC_OSol_214S.png/210px-GGAC_OSol_214S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGACR_OSol_214S_Hitbox.png/210px-GGACR_OSol_214S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214S Level 2",
+    "move": "Gun Blaze Level 2",
+    "damage": "30 x 2",
+    "guard": "All",
+    "invincibility": "1-4F Above Knees, 5-24F Above Feet, 25-27F Low Profile",
+    "startup": "23",
+    "active": "14(2)14",
+    "recovery": "Total 50",
+    "block": "+12",
+    "frc_window": "35-36F",
+    "proration": "85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGAC_OSol_214S2.png/210px-GGAC_OSol_214S2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGACR_OSol_214S_Hitbox.png/210px-GGACR_OSol_214S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214S Level 3",
+    "move": "Gun Blaze Level 3",
+    "damage": "30 x 3",
+    "guard": "All",
+    "invincibility": "1-4F Above Knees, 5-30F Above Feet, 31-33F Low Profile",
+    "startup": "17",
+    "active": "14(2), 18, 24",
+    "recovery": "Total 53",
+    "block": "+19",
+    "frc_window": "41-42F",
+    "proration": "85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "4 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGAC_OSol_214S3.png/210px-GGAC_OSol_214S3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGACR_OSol_214S_Hitbox.png/210px-GGACR_OSol_214S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "623H",
+    "move": "Storm Viper Level 1",
+    "damage": "25 x 2",
+    "guard": "Mid",
+    "invincibility": "1-12F All",
+    "startup": "12",
+    "active": "8, 3",
+    "recovery": "22 + 8 After Landing",
+    "block": "-19",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_OSol_623H.png/107px-GGAC_OSol_623H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_OSol_623H_Hitbox_1.png/145px-GGACR_OSol_623H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGACR_OSol_623H_Hitbox_2.png/109px-GGACR_OSol_623H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "j.623H",
+    "move": "Air Storm Viper Level 1",
+    "damage": "25 x 2",
+    "guard": "All",
+    "invincibility": "1-8F All",
+    "startup": "8",
+    "active": "8, 3",
+    "recovery": "Until Landing + 8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_OSol_623H.png/107px-GGAC_OSol_623H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_OSol_623H_Hitbox_1.png/145px-GGACR_OSol_623H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGACR_OSol_623H_Hitbox_2.png/109px-GGACR_OSol_623H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "623H Level 2",
+    "move": "Storm Viper Level 2",
+    "damage": "30 x 3",
+    "guard": "Mid",
+    "invincibility": "1-12F All",
+    "startup": "10",
+    "active": "8, 3(3)3",
+    "recovery": "22 + 8 After Landing",
+    "block": "-26",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_OSol_623H.png/107px-GGAC_OSol_623H.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_OSol_623H2.png/201px-GGAC_OSol_623H2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_OSol_623H_Hitbox_1.png/145px-GGACR_OSol_623H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGACR_OSol_623H_Hitbox_2.png/109px-GGACR_OSol_623H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGACR_OSol_623H_Hitbox_3.png/161px-GGACR_OSol_623H_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "j.623H Level 2",
+    "move": "Air Storm Viper Level 2",
+    "damage": "25 x 2",
+    "guard": "All",
+    "invincibility": "1-8F All",
+    "startup": "8",
+    "active": "8, 3(3)3",
+    "recovery": "Until Landing + 8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_OSol_623H.png/107px-GGAC_OSol_623H.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_OSol_623H2.png/201px-GGAC_OSol_623H2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_OSol_623H_Hitbox_1.png/145px-GGACR_OSol_623H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGACR_OSol_623H_Hitbox_2.png/109px-GGACR_OSol_623H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGACR_OSol_623H_Hitbox_3.png/161px-GGACR_OSol_623H_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "623H Level 3",
+    "move": "Storm Viper Level 3",
+    "damage": "25 x 4",
+    "guard": "Mid",
+    "invincibility": "1-14F All",
+    "startup": "8",
+    "active": "8, 3(3)3(22)7",
+    "recovery": "4 + 8 After Landing",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "100% x 3, Forced 90%",
+    "guard_bar_plus": "10 x 4",
+    "guard_bar_minus": "7 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_OSol_623H.png/107px-GGAC_OSol_623H.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_OSol_623H2.png/201px-GGAC_OSol_623H2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGAC_OSol_623H3.png/210px-GGAC_OSol_623H3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_OSol_623H_Hitbox_1.png/145px-GGACR_OSol_623H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGACR_OSol_623H_Hitbox_2.png/109px-GGACR_OSol_623H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGACR_OSol_623H_Hitbox_3.png/161px-GGACR_OSol_623H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGACR_OSol_623H_Hitbox_4.png/194px-GGACR_OSol_623H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_OSol_623H_Hitbox_5.png/194px-GGACR_OSol_623H_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGACR_OSol_623H_Hitbox_6.png/194px-GGACR_OSol_623H_Hitbox_6.png"
+    ]
+  },
+  {
+    "input": "j.623H Level 3",
+    "move": "Air Storm Viper Level 3",
+    "damage": "25 x 4",
+    "guard": "All",
+    "invincibility": "1-14F All",
+    "startup": "8",
+    "active": "8, 3(3)3(24)7",
+    "recovery": "Until Landing + 8",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "100% x 3, Forced 90%",
+    "guard_bar_plus": "10 x 4",
+    "guard_bar_minus": "7 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_OSol_623H.png/107px-GGAC_OSol_623H.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_OSol_623H2.png/201px-GGAC_OSol_623H2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGAC_OSol_623H3.png/210px-GGAC_OSol_623H3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_OSol_623H_Hitbox_1.png/145px-GGACR_OSol_623H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGACR_OSol_623H_Hitbox_2.png/109px-GGACR_OSol_623H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGACR_OSol_623H_Hitbox_3.png/161px-GGACR_OSol_623H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGACR_OSol_623H_Hitbox_4.png/194px-GGACR_OSol_623H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_OSol_623H_Hitbox_5.png/194px-GGACR_OSol_623H_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGACR_OSol_623H_Hitbox_6.png/194px-GGACR_OSol_623H_Hitbox_6.png"
+    ]
+  },
+  {
+    "input": "236K",
+    "move": "Bandit Revolver Prototype Level 1",
+    "damage": "24",
+    "guard": "High/Air",
+    "invincibility": "1-7F All",
+    "startup": "22",
+    "active": "3",
+    "recovery": "6 + 6 After Landing",
+    "block": "-1",
+    "frc_window": "16-17F",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_OSol_236K.png/198px-GGAC_OSol_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_OSol_236K_Hitbox_1.png/169px-GGACR_OSol_236K_Hitbox_1.png"
+    ]
+  },
+  {
+    "input": "j.236K",
+    "move": "Air Bandit Revolver Prototype Level 1",
+    "damage": "24",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "3",
+    "recovery": "Until Landing + 8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_OSol_236K.png/198px-GGAC_OSol_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_OSol_236K_Hitbox_1.png/169px-GGACR_OSol_236K_Hitbox_1.png"
+    ]
+  },
+  {
+    "input": "236K Level 2",
+    "move": "Bandit Revolver Prototype Level 2",
+    "damage": "26, 28",
+    "guard": "High/Air, High",
+    "invincibility": "1-6F Feet",
+    "startup": "20",
+    "active": "3(9)3",
+    "recovery": "9 + 4 After Landing",
+    "block": "+1",
+    "frc_window": "14-15F",
+    "proration": "80%",
+    "guard_bar_plus": "8, 11",
+    "guard_bar_minus": "7, 9",
+    "level": "3, 4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_OSol_236K.png/198px-GGAC_OSol_236K.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGAC_OSol_236K2.png/210px-GGAC_OSol_236K2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_OSol_236K_Hitbox_1.png/169px-GGACR_OSol_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_OSol_236K_Hitbox_2.png/210px-GGACR_OSol_236K_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "j.236K Level 2",
+    "move": "Air Bandit Revolver Prototype Level 2",
+    "damage": "26, 28",
+    "guard": "High/Air, High",
+    "invincibility": "1-6F Feet",
+    "startup": "19",
+    "active": "3(9)3",
+    "recovery": "Until Landing + 8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11 x 2",
+    "guard_bar_minus": "6, 9",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_OSol_236K.png/198px-GGAC_OSol_236K.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGAC_OSol_236K2.png/210px-GGAC_OSol_236K2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_OSol_236K_Hitbox_1.png/169px-GGACR_OSol_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_OSol_236K_Hitbox_2.png/210px-GGACR_OSol_236K_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236K Level 3",
+    "move": "Bandit Revolver Prototype Level 3",
+    "damage": "30, 42",
+    "guard": "High/Air, High",
+    "invincibility": "1-5F Feet",
+    "startup": "18",
+    "active": "3(8)4",
+    "recovery": "8 + 2 After Landing",
+    "block": "+1",
+    "frc_window": "12-13F",
+    "proration": "85%",
+    "guard_bar_plus": "8, 15",
+    "guard_bar_minus": "7, 9",
+    "level": "3, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_OSol_236K.png/198px-GGAC_OSol_236K.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_OSol_236K3.png/210px-GGAC_OSol_236K3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_OSol_236K_Hitbox_1.png/169px-GGACR_OSol_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGACR_OSol_236K_Hitbox_3.png/210px-GGACR_OSol_236K_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "j.236K Level 3",
+    "move": "Air Bandit Revolver Prototype Level 3",
+    "damage": "30, 42",
+    "guard": "High/Air, High",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "3(8)4",
+    "recovery": "Until Landing + 8",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "11, 15",
+    "guard_bar_minus": "6, 9",
+    "level": "4, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_OSol_236K.png/198px-GGAC_OSol_236K.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_OSol_236K3.png/210px-GGAC_OSol_236K3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_OSol_236K_Hitbox_1.png/169px-GGACR_OSol_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGACR_OSol_236K_Hitbox_3.png/210px-GGACR_OSol_236K_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "236S",
+    "move": "Rock It Level 1",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "16",
+    "recovery": "10",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_OSol_236S.png/210px-GGAC_OSol_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGACR_OSol_236S_Hitbox_1.png/210px-GGACR_OSol_236S_Hitbox_1.png"
+    ]
+  },
+  {
+    "input": "236S Level 2",
+    "move": "Rock It Level 2",
+    "damage": "30 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "17(10)3",
+    "recovery": "12",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10, 20",
+    "guard_bar_minus": "7, 6",
+    "level": "3, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_OSol_236S.png/210px-GGAC_OSol_236S.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGAC_OSol_236S2.png/210px-GGAC_OSol_236S2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGACR_OSol_236S_Hitbox_2.png/210px-GGACR_OSol_236S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGACR_OSol_236S_Hitbox_3.png/210px-GGACR_OSol_236S_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "236S Level 3",
+    "move": "Rock It Level 3",
+    "damage": "30, 25, 20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "15(10)3(15)4",
+    "recovery": "19",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10, 20 x 2",
+    "guard_bar_minus": "7, 6 x 2",
+    "level": "3, 5 x 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_OSol_236S.png/210px-GGAC_OSol_236S.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGAC_OSol_236S2.png/210px-GGAC_OSol_236S2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_OSol_236S3.png/201px-GGAC_OSol_236S3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGACR_OSol_236S_Hitbox_2.png/210px-GGACR_OSol_236S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGACR_OSol_236S_Hitbox_3.png/210px-GGACR_OSol_236S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGACR_OSol_236S_Hitbox_4.png/201px-GGACR_OSol_236S_Hitbox_4.png"
+    ]
+  },
+  {
+    "input": "41236D",
+    "move": "Fafnir",
+    "damage": "70",
+    "guard": "Low",
+    "invincibility": "1-11F Lower Body",
+    "startup": "10",
+    "active": "2",
+    "recovery": "23",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGAC_OSol_236D.png/210px-GGAC_OSol_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e4/GGACR_OSol_41236D_Hitbox.png/210px-GGACR_OSol_41236D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146H",
+    "move": "Tyrant Rave ver. Omega Level 1",
+    "damage": "80",
+    "guard": "Mid",
+    "invincibility": "1-15F All, 16-30F Throw",
+    "startup": "5 + 10",
+    "active": "13",
+    "recovery": "18",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGAC_OSol_632146H.png/210px-GGAC_OSol_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a2/GGACR_OSol_632146H_Hitbox_1.png/210px-GGACR_OSol_632146H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGACR_OSol_632146H_Hitbox_2.png/210px-GGACR_OSol_632146H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6c/GGACR_OSol_632146H_Hitbox_3.png/210px-GGACR_OSol_632146H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGACR_OSol_632146H_Hitbox_4.png/210px-GGACR_OSol_632146H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/86/GGACR_OSol_632146H_Hitbox_5.png/210px-GGACR_OSol_632146H_Hitbox_5.png"
+    ]
+  },
+  {
+    "input": "632146H Level 2",
+    "move": "Tyrant Rave ver. Omega Level 2",
+    "damage": "50, 60",
+    "guard": "Mid",
+    "invincibility": "1-19F All, 20-33F Throw",
+    "startup": "4 + 9",
+    "active": "13(13 + 3)16",
+    "recovery": "16",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "100%, Forced 75%",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGAC_OSol_632146H.png/210px-GGAC_OSol_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3c/GGACR_OSol_632146H_Hitbox_6.png/210px-GGACR_OSol_632146H_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGACR_OSol_632146H_Hitbox_7.png/210px-GGACR_OSol_632146H_Hitbox_7.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGACR_OSol_632146H_Hitbox_8.png/210px-GGACR_OSol_632146H_Hitbox_8.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGACR_OSol_632146H_Hitbox_9.png/210px-GGACR_OSol_632146H_Hitbox_9.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGACR_OSol_632146H_Hitbox_10.png/210px-GGACR_OSol_632146H_Hitbox_10.png"
+    ]
+  },
+  {
+    "input": "632146H Level 3",
+    "move": "Tyrant Rave ver. Omega Level 3",
+    "damage": "50, 60, 128",
+    "guard": "Mid",
+    "invincibility": "1-19F All, 20-33F Throw",
+    "startup": "3 + 8",
+    "active": "13(13 + 3)16(5 + 5)22",
+    "recovery": "26",
+    "block": "-29",
+    "frc_window": "N/A",
+    "proration": "100%, Forced 75%",
+    "guard_bar_plus": "20 x 3",
+    "guard_bar_minus": "6 x 3",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGAC_OSol_632146H.png/210px-GGAC_OSol_632146H.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGAC_OSol_632146H2.png/210px-GGAC_OSol_632146H2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGAC_OSol_632146H3.png/210px-GGAC_OSol_632146H3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGACR_OSol_632146H_Hitbox_11.png/210px-GGACR_OSol_632146H_Hitbox_11.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_OSol_632146H_Hitbox_12.png/210px-GGACR_OSol_632146H_Hitbox_12.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGACR_OSol_632146H_Hitbox_13.png/210px-GGACR_OSol_632146H_Hitbox_13.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_OSol_632146H_Hitbox_14.png/210px-GGACR_OSol_632146H_Hitbox_14.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGACR_OSol_632146H_Hitbox_15.png/207px-GGACR_OSol_632146H_Hitbox_15.png"
+    ]
+  },
+  {
+    "input": "632146P",
+    "move": "Savage Fang Level 1",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "1-2F Strike",
+    "startup": "3 + 2",
+    "active": "6",
+    "recovery": "27",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGAC_OSol_632146P.png/210px-GGAC_OSol_632146P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_OSol_632146P_Hitbox_1.png/210px-GGACR_OSol_632146P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_OSol_632146P_Hitbox_2.png/210px-GGACR_OSol_632146P_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "632146P Level 2",
+    "move": "Savage Fang Level 2",
+    "damage": "40 x 3",
+    "guard": "All",
+    "invincibility": "1-2F Strike",
+    "startup": "3 + 0",
+    "active": "6(4)6(4)6",
+    "recovery": "7",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGAC_OSol_632146P2.png/210px-GGAC_OSol_632146P2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_OSol_632146P_Hitbox_1.png/210px-GGACR_OSol_632146P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_OSol_632146P_Hitbox_2.png/210px-GGACR_OSol_632146P_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "632146P Level 3",
+    "move": "Savage Fang Level 3",
+    "damage": "60 x 5",
+    "guard": "All",
+    "invincibility": "1-2F Strike",
+    "startup": "3 + 1",
+    "active": "3 x 3, 1 x 2",
+    "recovery": "26",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "Forced 80%",
+    "guard_bar_plus": "20 x 5",
+    "guard_bar_minus": "6 x 5",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/81/GGAC_OSol_632146P3.png/210px-GGAC_OSol_632146P3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGACR_OSol_632146P_Hitbox_3.png/210px-GGACR_OSol_632146P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_OSol_632146P_Hitbox_4.png/210px-GGACR_OSol_632146P_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGACR_OSol_632146P_Hitbox_5.png/210px-GGACR_OSol_632146P_Hitbox_5.png"
+    ]
+  },
+  {
+    "input": "632146S > P, K, S, H, D, K, S > 632146H",
+    "move": "Dragon Install: Sakkai",
+    "damage": "30, 20 x 8, 230",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7 + 1",
+    "active": "3",
+    "recovery": "87",
+    "block": "-50",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6, 4 x 8, 7",
+    "level": "5, 3 x 6, 5 x 2, 3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1e/GGAC_OSol_632146S.png/210px-GGAC_OSol_632146S.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGAC_OSol_632146H3.png/210px-GGAC_OSol_632146H3.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/65/GGAC_OSol_632146S2.png/204px-GGAC_OSol_632146S2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4b/GGACR_OSol_632146S_Hitbox.png/210px-GGACR_OSol_632146S_Hitbox.png"
+    ]
+  }
+]

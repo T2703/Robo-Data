@@ -1,0 +1,989 @@
+[
+   {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/2/2a/GGAC_Baiken_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/0/07/GGXXACPR_Baiken_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "14",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "5",
+    "recovery": "6",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGAC_Baiken_5K.png/210px-GGAC_Baiken_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/11/GGXXACPR_Baiken_5K-1-Hitbox.png/210px-GGXXACPR_Baiken_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Baiken_5K-2-Hitbox.png/208px-GGXXACPR_Baiken_5K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "2",
+    "recovery": "11",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d2/GGAC_Baiken_cS.png/210px-GGAC_Baiken_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGXXACPR_Baiken_cS-Hitbox.png/210px-GGXXACPR_Baiken_cS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "8",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b1/GGAC_Baiken_fS.png/210px-GGAC_Baiken_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGXXACPR_Baiken_fS-1-Hitbox.png/210px-GGXXACPR_Baiken_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGXXACPR_Baiken_fS-2-Hitbox.png/210px-GGXXACPR_Baiken_fS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5H",
+    "move": "5H",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "1",
+    "recovery": "24",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGAC_Baiken_5H.png/210px-GGAC_Baiken_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGXXACPR_Baiken_5H-Hitbox.png/210px-GGXXACPR_Baiken_5H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D",
+    "move": "5D",
+    "damage": "20",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "27",
+    "active": "2",
+    "recovery": "26",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "20",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGAC_Baiken_5D.png/210px-GGAC_Baiken_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGXXACPR_Baiken_5D-Hitbox.png/210px-GGXXACPR_Baiken_5D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6P",
+    "move": "6P",
+    "damage": "15, 25",
+    "guard": "Mid",
+    "invincibility": "1-7F Above Chest, 8-13F Above Knees",
+    "startup": "8",
+    "active": "6(2)4",
+    "recovery": "9",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3 x 2",
+    "guard_bar_minus": "8, 5",
+    "level": "1, 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/8/87/GGAC_Baiken_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/f/f9/GGXXACPR_Baiken_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/a/a5/GGXXACPR_Baiken_6P-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/0/02/GGXXACPR_Baiken_6P-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6K",
+    "move": "6K",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "1-11F Throw",
+    "startup": "12",
+    "active": "9",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGAC_Baiken_5K.png/210px-GGAC_Baiken_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/11/GGXXACPR_Baiken_5K-1-Hitbox.png/210px-GGXXACPR_Baiken_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Baiken_5K-2-Hitbox.png/208px-GGXXACPR_Baiken_5K-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6H",
+    "move": "6H",
+    "damage": "56",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "8",
+    "recovery": "28",
+    "block": "-17",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/37/GGAC_Baiken_6H.png/210px-GGAC_Baiken_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGXXACPR_Baiken_6H-1-Hitbox.png/210px-GGXXACPR_Baiken_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGXXACPR_Baiken_6H-2-Hitbox.png/210px-GGXXACPR_Baiken_6H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "7",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGAC_Baiken_2P.png/210px-GGAC_Baiken_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cb/GGXXACPR_Baiken_2P-Hitbox.png/210px-GGXXACPR_Baiken_2P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "5",
+    "recovery": "6",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/1/14/GGAC_Baiken_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/f/fc/GGXXACPR_Baiken_2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/e/e1/GGXXACPR_Baiken_2K-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "3",
+    "recovery": "9",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGAC_Baiken_2S.png/210px-GGAC_Baiken_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGXXACPR_Baiken_2S-Hitbox.png/210px-GGXXACPR_Baiken_2S-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2H",
+    "move": "2H",
+    "damage": "18 x 3",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "4(2)6(2)2",
+    "recovery": "8",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGAC_Baiken_2H.png/210px-GGAC_Baiken_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f3/GGXXACPR_Baiken_2H-2-Hitbox.png/210px-GGXXACPR_Baiken_2H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGXXACPR_Baiken_2H-3-Hitbox.png/201px-GGXXACPR_Baiken_2H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d7/GGXXACPR_Baiken_2H-4-Hitbox.png/210px-GGXXACPR_Baiken_2H-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2D",
+    "move": "2D",
+    "damage": "30",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "9",
+    "recovery": "13",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/63/GGAC_Baiken_2D.png/210px-GGAC_Baiken_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGXXACPR_Baiken_2D-1-Hitbox.png/210px-GGXXACPR_Baiken_2D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b7/GGXXACPR_Baiken_2D-2-Hitbox.png/210px-GGXXACPR_Baiken_2D-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGXXACPR_Baiken_2D-3-Hitbox.png/210px-GGXXACPR_Baiken_2D-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.P",
+    "move": "JP",
+    "damage": "10",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "8",
+    "recovery": "10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGAC_Baiken_jP.png/210px-GGAC_Baiken_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/94/GGXXACPR_Baiken_jP-1-Hitbox.png/210px-GGXXACPR_Baiken_jP-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGXXACPR_Baiken_jP-2-Hitbox.png/210px-GGXXACPR_Baiken_jP-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.K",
+    "move": "JK",
+    "damage": "18",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "8",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Baiken_jK.png/166px-GGAC_Baiken_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGXXACPR_Baiken_jK-1-Hitbox.png/189px-GGXXACPR_Baiken_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Baiken_jK-2-Hitbox.png/189px-GGXXACPR_Baiken_jK-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.S",
+    "move": "JS",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "7",
+    "recovery": "19",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGAC_Baiken_jS.png/210px-GGAC_Baiken_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGXXACPR_Baiken_jS-1-Hitbox.png/210px-GGXXACPR_Baiken_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGXXACPR_Baiken_jS-2-Hitbox.png/210px-GGXXACPR_Baiken_jS-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.H",
+    "move": "JH",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "Until Landing",
+    "recovery": "0",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/51/GGAC_Baiken_jH.png/108px-GGAC_Baiken_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/45/GGXXACPR_Baiken_jH-1-Hitbox.png/113px-GGXXACPR_Baiken_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b6/GGXXACPR_Baiken_jH-2-Hitbox.png/113px-GGXXACPR_Baiken_jH-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.D",
+    "move": "JD",
+    "damage": "50",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3",
+    "recovery": "21 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "9-11F",
+    "proration": "90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "8",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Baiken_jD.png/210px-GGAC_Baiken_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGXXACPR_Baiken_jD-Hitbox.png/210px-GGXXACPR_Baiken_jD-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "60",
+    "guard": "40 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6 x 2",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/65/GGAC_Baiken_throw.png/185px-GGAC_Baiken_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGAC_Baiken_airThrow.png/160px-GGAC_Baiken_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-17F All, 18-20F Throw",
+    "startup": "6",
+    "active": "7(2)3",
+    "recovery": "6",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/8/87/GGAC_Baiken_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/f/f9/GGXXACPR_Baiken_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/a/a5/GGXXACPR_Baiken_6P-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/0/02/GGXXACPR_Baiken_6P-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236K",
+    "move": "Tatami Gaeshi",
+    "damage": "40 [20]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "24",
+    "recovery": "9",
+    "block": "-6",
+    "frc_window": "23-26F",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGAC_Baiken_236K.png/210px-GGAC_Baiken_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGACR_Baiken_236K_Hitbox_1.png/210px-GGACR_Baiken_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/e/ea/GGACR_Baiken_236K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGACR_Baiken_236K_Hitbox_3.png/72px-GGACR_Baiken_236K_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGACR_Baiken_236K_Hitbox_4.png/72px-GGACR_Baiken_236K_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGACR_Baiken_236K_Hitbox_5.png/68px-GGACR_Baiken_236K_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/5/55/GGACR_Baiken_236K_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGACR_Baiken_236K_Hitbox_7.png/210px-GGACR_Baiken_236K_Hitbox_7.png"
+    ]
+  },
+  {    
+    "input": "j.236K",
+    "move": "Air Tatami Gaeshi",
+    "damage": "40 [20]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "N/A",
+    "recovery": "Until Landing + 16",
+    "block": "N/A",
+    "frc_window": "18-19F",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGACR_Baiken_j236K.png/210px-GGACR_Baiken_j236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGACR_Baiken_j236K_Hitbox.png/210px-GGACR_Baiken_j236K_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/e/ea/GGACR_Baiken_236K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGACR_Baiken_236K_Hitbox_3.png/72px-GGACR_Baiken_236K_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGACR_Baiken_236K_Hitbox_4.png/72px-GGACR_Baiken_236K_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGACR_Baiken_236K_Hitbox_5.png/68px-GGACR_Baiken_236K_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/5/55/GGACR_Baiken_236K_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGACR_Baiken_236K_Hitbox_7.png/210px-GGACR_Baiken_236K_Hitbox_7.png"
+    ]
+  },
+  {    
+    "input": "j.623S",
+    "move": "Youzansen",
+    "damage": "44",
+    "guard": "High/Air",
+    "invincibility": "1-3F Strike",
+    "startup": "6",
+    "active": "12",
+    "recovery": "15 + 11 After Landing",
+    "block": "-25",
+    "frc_window": "3-4F",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGAC_Baiken_j623S.png/168px-GGAC_Baiken_j623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Baiken_j623S_Hitbox_1.png/184px-GGACR_Baiken_j623S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ee/GGACR_Baiken_j623S_Hitbox_2.png/146px-GGACR_Baiken_j623S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGACR_Baiken_j623S_Hitbox_3.png/133px-GGACR_Baiken_j623S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGACR_Baiken_j623S_Hitbox_4.png/210px-GGACR_Baiken_j623S_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/39/GGACR_Baiken_j623S_Hitbox_5.png/210px-GGACR_Baiken_j623S_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/03/GGACR_Baiken_j623S_Hitbox_6.png/210px-GGACR_Baiken_j623S_Hitbox_6.png"
+    ]
+  },
+  {    
+    "input": "623P",
+    "move": "Youshijin",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "6",
+    "recovery": "25",
+    "block": "-17",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "12",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9a/GGAC_Baiken_412P.png/174px-GGAC_Baiken_412P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGACR_Baiken_623P_Hitbox_1.png/210px-GGACR_Baiken_623P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGACR_Baiken_623P_Hitbox_2.png/210px-GGACR_Baiken_623P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5d/GGACR_Baiken_623P_Hitbox_3.png/174px-GGACR_Baiken_623P_Hitbox_3.png"
+    ]
+  },
+  {    
+    "input": "63214K",
+    "move": "Suzuran",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "4-25F High Guardpoint",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 30",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGAC_Baiken_63214K.png/210px-GGAC_Baiken_63214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGACR_Baiken_63214K-hitbox.png/210px-GGACR_Baiken_63214K-hitbox.png"
+    ]
+  },
+  {    
+    "input": "41236H",
+    "move": "Kabari",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "20",
+    "active": "11",
+    "recovery": "15",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Baiken_41236H.png/210px-GGAC_Baiken_41236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGACR_Baiken_41236H_Hitbox_1.png/210px-GGACR_Baiken_41236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGACR_Baiken_41236H_Hitbox_2.png/210px-GGACR_Baiken_41236H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGACR_Baiken_41236H_Hitbox_3.png/210px-GGACR_Baiken_41236H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_Baiken_41236H_Hitbox_4.png/210px-GGACR_Baiken_41236H_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "41236H > S",
+    "move": "Tetsuzansen",
+    "damage": "36, 15",
+    "guard": "Mid",
+    "invincibility": "1-5F All, 6-11F Throw, 6-14F Front Leg",
+    "startup": "12",
+    "active": "3(11)4",
+    "recovery": "16",
+    "block": "-17",
+    "frc_window": "12-13F",
+    "proration": "Forced 90%, Forced 80%",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "6, 10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGACR_Baiken_tetsuzansen-2.png/184px-GGACR_Baiken_tetsuzansen-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGACR_Baiken_41236HS_Hitbox_1.png/168px-GGACR_Baiken_41236HS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGACR_Baiken_41236HS_Hitbox_2.png/182px-GGACR_Baiken_41236HS_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "412P",
+    "move": "Zakuro",
+    "damage": "0, 22 x 5, 16",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "1",
+    "recovery": "32",
+    "block": "N/A",
+    "frc_window": "12-13F On Hit",
+    "proration": "Initial 75%, Forced 75%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8, 6 x 6",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGACR_Baiken_Zakuro.png/151px-GGACR_Baiken_Zakuro.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGACR_Baiken_412P_Hitbox.png/140px-GGACR_Baiken_412P_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412K",
+    "move": "Mawarikomi",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-24F Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 34",
+    "block": "N/A",
+    "frc_window": "21-23F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/af/GGAC_Baiken_412K.png/210px-GGAC_Baiken_412K.png"
+    ]
+  },
+  {    
+    "input": "412S",
+    "move": "Sakura",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-8F Above Knees",
+    "startup": "10",
+    "active": "1",
+    "recovery": "34",
+    "block": "-16",
+    "frc_window": "10-11F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "15",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Baiken_412S.png/210px-GGAC_Baiken_412S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f7/GGACR_Baiken_412S_Hitbox.png/210px-GGACR_Baiken_412S_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412H",
+    "move": "Ouren",
+    "damage": "34",
+    "guard": "All",
+    "invincibility": "1-3F High Profile, 14-26F Strike",
+    "startup": "19~",
+    "active": "2",
+    "recovery": "14 + 16 After Landing",
+    "block": "-15",
+    "frc_window": "4-6F",
+    "proration": "70%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGAC_Baiken_412H.png/210px-GGAC_Baiken_412H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGACR_Baiken_412H_Hitbox.png/202px-GGACR_Baiken_412H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412D",
+    "move": "Baku",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-12F Strike",
+    "startup": "11",
+    "active": "2",
+    "recovery": "20",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Baiken_412D.png/210px-GGAC_Baiken_412D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGACR_Baiken_412D_Hitbox.png/210px-GGACR_Baiken_412D_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412D > P/K/S",
+    "move": "Baku: XXX",
+    "damage": "18",
+    "guard": "Mid",
+    "invincibility": "1-42F Strike",
+    "startup": "6 + 9",
+    "active": "3",
+    "recovery": "40",
+    "block": "-24",
+    "frc_window": "N/A",
+    "proration": "P: Forced 50%, K/S: Forced 30%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGAC_Baiken_bakuTsuki.png/210px-GGAC_Baiken_bakuTsuki.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGACR_Baiken_412DX_Hitbox.png/210px-GGACR_Baiken_412DX_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412D > P/K/S > P",
+    "move": "Baku Followup P",
+    "damage": "15",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "3",
+    "recovery": "5",
+    "block": "+9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGAC_Baiken_followupP.png/210px-GGAC_Baiken_followupP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/8b/GGACR_Baiken_412DXP_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412D > P/K/S > K",
+    "move": "Baku Followup K",
+    "damage": "10 x 2",
+    "guard": "High/Air, Mid",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "3(6)3(7)5",
+    "recovery": "8",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11, 14",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/37/GGAC_Baiken_followupK.png/210px-GGAC_Baiken_followupK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGACR_Baiken_412DXK_Hitbox_1.png/167px-GGACR_Baiken_412DXK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Baiken_412DXK_Hitbox_2.png/207px-GGACR_Baiken_412DXK_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGACR_Baiken_412DXK_Hitbox_3.png/210px-GGACR_Baiken_412DXK_Hitbox_3.png"
+    ]
+  },
+  {    
+    "input": "412D > P/K/S > S",
+    "move": "Baku Followup S",
+    "damage": "20",
+    "guard": "High/Air, Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "1",
+    "recovery": "14",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/01/GGAC_Baiken_followupS.png/210px-GGAC_Baiken_followupS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/34/GGACR_Baiken_412DXS_Hitbox.png/210px-GGACR_Baiken_412DXS_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412D > P/K/S > H",
+    "move": "Baku Followup H",
+    "damage": "24",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "16",
+    "recovery": "16",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5d/GGAC_Baiken_followupH.png/210px-GGAC_Baiken_followupH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_Baiken_412DXH_Hitbox.png/207px-GGACR_Baiken_412DXH_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "412D > P/K/S > D",
+    "move": "Baku Followup D",
+    "damage": "5 x 7",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3(4)8",
+    "recovery": "20",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 7 ",
+    "guard_bar_minus": "7 x 7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGAC_Baiken_followupD.png/202px-GGAC_Baiken_followupD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGACR_Baiken_412DXD_Hitbox_1.png/182px-GGACR_Baiken_412DXD_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e8/GGACR_Baiken_412DXD_Hitbox_2.png/143px-GGACR_Baiken_412DXD_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGACR_Baiken_412DXD_Hitbox_3.png/148px-GGACR_Baiken_412DXD_Hitbox_3.png"
+    ]
+  },
+  {    
+    "input": "236D",
+    "move": "Triple Tatami Gaeshi",
+    "damage": "30 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "16",
+    "recovery": "Total 47",
+    "block": "-3",
+    "frc_window": "20-22F",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "10 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGACR_Baiken_236D.png/210px-GGACR_Baiken_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGACR_Baiken_236K_Hitbox_1.png/210px-GGACR_Baiken_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/e/ea/GGACR_Baiken_236K_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236236S",
+    "move": "Tsurane Sanzu Watashi",
+    "damage": "60 x 3",
+    "guard": "Mid",
+    "invincibility": "1-9F Strike",
+    "startup": "7 + 1",
+    "active": "6(9)5(11)2",
+    "recovery": "22",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 3",
+    "guard_bar_minus": "6 x 3",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGACR_Baiken_236236S-2.png/210px-GGACR_Baiken_236236S-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/51/GGACR_Baiken_236236S_Hitbox_1.png/210px-GGACR_Baiken_236236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGACR_Baiken_236236S_Hitbox_2.png/210px-GGACR_Baiken_236236S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGACR_Baiken_236236S_Hitbox_3.png/210px-GGACR_Baiken_236236S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGACR_Baiken_236236S_Hitbox_4.png/210px-GGACR_Baiken_236236S_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/81/GGACR_Baiken_236236S_Hitbox_5.png/210px-GGACR_Baiken_236236S_Hitbox_5.png"
+    ]
+  },
+  {    
+    "input": "236236H",
+    "move": "Garyou Tensei",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "1-12F Strike",
+    "startup": "7 + 10",
+    "active": "72",
+    "recovery": "6",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "N/A",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGAC_Baiken_IK1.png/147px-GGAC_Baiken_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/97/GGAC_Baiken_IK2.png/210px-GGAC_Baiken_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ac/GGACR_Baiken_IK_Hitbox.png/147px-GGACR_Baiken_IK_Hitbox.png"
+    ]
+  }
+]

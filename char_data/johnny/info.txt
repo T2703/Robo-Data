@@ -1,0 +1,20 @@
+[
+    {
+        "damage_received_mod": "1x",
+        "guts_rating": "4/5",
+        "guard_bar_gain_mod": "0.875x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "0.98x",
+        "stun_resistance": "70",
+        "prejump": "4F",
+        "backdash": "11F (1-7F Strike Invuln)",
+        "forwards_dash": "22F",
+        "wakeup_timing": "25F (Face Up) / 24F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "unique_movement": "Step Dash, Divine Blade, Killer Joker",
+        "images": [
+            "https://www.dustloop.com/wiki/images/5/5a/GGAC_Johnny_Portrait.png"
+        ]
+    }
+]

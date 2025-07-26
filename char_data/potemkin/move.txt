@@ -1,0 +1,856 @@
+[
+  {
+    "input": "5P",
+    "move": "5P",
+    "damage": "11",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "5",
+    "recovery": "6",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b1/GGAC_Potemkin_5P.png/200px-GGAC_Potemkin_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGXXACPR_Potemkin-5P-1-Hitbox.png/200px-GGXXACPR_Potemkin-5P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGXXACPR_Potemkin-5P-2-Hitbox.png/194px-GGXXACPR_Potemkin-5P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5K",
+    "move": "5K",
+    "damage": "22",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "9",
+    "recovery": "9",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGAC_Potemkin_5K.png/210px-GGAC_Potemkin_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGXXACPR_Potemkin-5K-Hitbox.png/210px-GGXXACPR_Potemkin-5K-Hitbox.png"
+    ]
+  },
+  {
+    "input": "c.S",
+    "move": "CS",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3",
+    "recovery": "11",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/12/GGAC_Potemkin_cS.png/207px-GGAC_Potemkin_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGXXACPR_Potemkin-cS-Hitbox.png/207px-GGXXACPR_Potemkin-cS-Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S",
+    "move": "FS",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "7",
+    "recovery": "18",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGAC_Potemkin_fS.png/210px-GGAC_Potemkin_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGXXACPR_Potemkin-fS-1-Hitbox.png/210px-GGXXACPR_Potemkin-fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGXXACPR_Potemkin-fS-2-Hitbox.png/210px-GGXXACPR_Potemkin-fS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5H",
+    "move": "5H",
+    "damage": "58",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "7",
+    "recovery": "16",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGAC_Potemkin_5H.png/210px-GGAC_Potemkin_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGXXACPR_Potemkin-5H-1-Hitbox.png/210px-GGXXACPR_Potemkin-5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Potemkin-5H-2-Hitbox.png/210px-GGXXACPR_Potemkin-5H-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5D",
+    "move": "5D",
+    "damage": "30",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "31",
+    "active": "10",
+    "recovery": "6",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "20",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Potemkin_5D.png/210px-GGAC_Potemkin_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGXXACPR_Potemkin-5D-1-Hitbox.png/210px-GGXXACPR_Potemkin-5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d1/GGXXACPR_Potemkin-5D-2-Hitbox.png/210px-GGXXACPR_Potemkin-5D-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6P",
+    "move": "6P",
+    "damage": "35",
+    "guard": "Mid",
+    "invincibility": "1-4F Upper Body, 5-14F Above Knees",
+    "startup": "13",
+    "active": "7",
+    "recovery": "19",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGAC_Potemkin_6P.png/163px-GGAC_Potemkin_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGXXACPR_Potemkin-6P-1-Hitbox.png/156px-GGXXACPR_Potemkin-6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR_Potemkin-6P-2-Hitbox.png/152px-GGXXACPR_Potemkin-6P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6K",
+    "move": "6K",
+    "damage": "40",
+    "guard": "High",
+    "invincibility": "1-15F Throw",
+    "startup": "18",
+    "active": "3",
+    "recovery": "20",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGAC_Potemkin_6K.png/210px-GGAC_Potemkin_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGXXACPR_Potemkin-6K-Hitbox.png/210px-GGXXACPR_Potemkin-6K-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H",
+    "move": "6H",
+    "damage": "90",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "23",
+    "active": "5",
+    "recovery": "30",
+    "block": "-11",
+    "frc_window": "20-21F",
+    "proration": "50%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGAC_Potemkin_6H.png/210px-GGAC_Potemkin_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b3/GGXXACPR_Potemkin-6H-Hitbox.png/210px-GGXXACPR_Potemkin-6H-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2P",
+    "move": "2P",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "8",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGAC_Potemkin_2P.png/210px-GGAC_Potemkin_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGXXACPR_Potemkin-2P-Hitbox.png/210px-GGXXACPR_Potemkin-2P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2K",
+    "move": "2K",
+    "damage": "16",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "14",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/83/GGAC_Potemkin_2K.png/210px-GGAC_Potemkin_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e6/GGXXACPR_Potemkin-2K-1-Hitbox.png/210px-GGXXACPR_Potemkin-2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGXXACPR_Potemkin-2K-2-Hitbox.png/210px-GGXXACPR_Potemkin-2K-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2S",
+    "move": "2S",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "3",
+    "recovery": "16",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGAC_Potemkin_2S.png/210px-GGAC_Potemkin_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGXXACPR_Potemkin-2S-Hitbox.png/210px-GGXXACPR_Potemkin-2S-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2H",
+    "move": "2H",
+    "damage": "66",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "5",
+    "recovery": "35",
+    "block": "-21",
+    "frc_window": "13-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2b/GGAC_Potemkin_2H.png/148px-GGAC_Potemkin_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/34/GGXXACPR_Potemkin-2H-1-Hitbox.png/144px-GGXXACPR_Potemkin-2H-1-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2D",
+    "move": "2D",
+    "damage": "35",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "5",
+    "recovery": "14",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "Forced 80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGAC_Potemkin_2D.png/210px-GGAC_Potemkin_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b7/GGXXACPR_Potemkin-2D-Hitbox.png/210px-GGXXACPR_Potemkin-2D-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.P",
+    "move": "JP",
+    "damage": "18",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "9",
+    "recovery": "6",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGAC_Potemkin_jP.png/210px-GGAC_Potemkin_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGXXACPR_Potemkin-jP-Hitbox.png/162px-GGXXACPR_Potemkin-jP-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.K",
+    "move": "JK",
+    "damage": "22",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "8",
+    "recovery": "13",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a1/GGAC_Potemkin_jK.png/210px-GGAC_Potemkin_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/81/GGXXACPR_Potemkin-jK-1-Hitbox.png/210px-GGXXACPR_Potemkin-jK-1-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.S",
+    "move": "JS",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "6",
+    "recovery": "23",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGAC_Potemkin_jS.png/174px-GGAC_Potemkin_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGXXACPR_Potemkin-jS-1-Hitbox.png/148px-GGXXACPR_Potemkin-jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGXXACPR_Potemkin-jS-2-Hitbox.png/132px-GGXXACPR_Potemkin-jS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.H",
+    "move": "JH",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "6",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/77/GGAC_Potemkin_jH.png/210px-GGAC_Potemkin_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGXXACPR_Potemkin-jH-Hitbox.png/210px-GGXXACPR_Potemkin-jH-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.D",
+    "move": "JD",
+    "damage": "45",
+    "guard": "High/Air",
+    "invincibility": "9F-Landing Butt",
+    "startup": "11",
+    "active": "Until Landing",
+    "recovery": "8 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGAC_Potemkin_jD.png/210px-GGAC_Potemkin_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGXXACPR_Potemkin-jD-Hitbox.png/196px-GGXXACPR_Potemkin-jD-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "45, 30",
+    "guard": "55 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "40-44F",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6, 0",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGAC_Potemkin_throw.png/143px-GGAC_Potemkin_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "70",
+    "guard": "104 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGAC_Potemkin_airThrow.png/210px-GGAC_Potemkin_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "35",
+    "guard": "All",
+    "invincibility": "1-17F All, 18-32F Throw",
+    "startup": "13",
+    "active": "20",
+    "recovery": "3",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Potemkin_5D.png/210px-GGAC_Potemkin_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Potemkin_DAA_Hitbox.png/210px-GGACR_Potemkin_DAA_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d1/GGXXACPR_Potemkin-5D-2-Hitbox.png/210px-GGXXACPR_Potemkin-5D-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.6H or j.4H",
+    "move": "Air Throw",
+    "damage": "70",
+    "guard": "104 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGAC_Potemkin_airThrow.png/210px-GGAC_Potemkin_airThrow.png"
+    ]
+  },
+  {
+    "input": "236P",
+    "move": "Mega Fist Forward",
+    "damage": "50",
+    "guard": "High/Air",
+    "invincibility": "1-24F Lower Body",
+    "startup": "25",
+    "active": "8",
+    "recovery": "0 + 13 After Landing",
+    "block": "-9",
+    "frc_window": "16-17F, 25-26F",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_Potemkin_236P.png/210px-GGAC_Potemkin_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Potemkin-214P-1-Hitbox.png/210px-GGXXACPR_Potemkin-214P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGXXACPR_Potemkin-214P-2-Hitbox.png/210px-GGXXACPR_Potemkin-214P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "214P",
+    "move": "Mega Fist Backward",
+    "damage": "50",
+    "guard": "High/Air",
+    "invincibility": "1-24F Lower Body",
+    "startup": "25",
+    "active": "9",
+    "recovery": "0 + 6 After Landing",
+    "block": "+4",
+    "frc_window": "25-26F, 28-29F",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_Potemkin_236P.png/210px-GGAC_Potemkin_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Potemkin-214P-1-Hitbox.png/210px-GGXXACPR_Potemkin-214P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGXXACPR_Potemkin-214P-2-Hitbox.png/210px-GGXXACPR_Potemkin-214P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "236S",
+    "move": "Slide Head",
+    "damage": "40, 0",
+    "guard": "Low, Unblockable",
+    "invincibility": "1-16F Above Feet, 26-35F Above Knees",
+    "startup": "23",
+    "active": "2(2)1",
+    "recovery": "25",
+    "block": "-11",
+    "frc_window": "27-29F",
+    "proration": "90%",
+    "guard_bar_plus": "15, -",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Potemkin_236S.png/210px-GGAC_Potemkin_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGXXACPR_Potemkin-236S-Hitbox.png/210px-GGXXACPR_Potemkin-236S-Hitbox.png"
+    ]
+  },
+  {
+    "input": "[4]6H",
+    "move": "Hammer Fall",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "1F-Active Frames: Armor",
+    "startup": "19-27",
+    "active": "2",
+    "recovery": "33",
+    "block": "-18",
+    "frc_window": "2nd Active-2nd Recovery",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "12",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGAC_Potemkin_46H.png/210px-GGAC_Potemkin_46H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGXXACPR_Potemkin-46H-Hitbox.png/210px-GGXXACPR_Potemkin-46H-Hitbox.png"
+    ]
+  },
+  {
+    "input": "[4]6H > P",
+    "move": "Hammer Fall Brake",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 15",
+    "block": "N/A",
+    "frc_window": "3-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGAC_Potemkin_hammerBreak.png/210px-GGAC_Potemkin_hammerBreak.png"
+    ]
+  },
+  {
+    "input": "63214S",
+    "move": "Flick Dat Back",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "4-14F Reflect",
+    "startup": "23",
+    "active": "3",
+    "recovery": "12",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGAC_Potemkin_63214S.png/210px-GGAC_Potemkin_63214S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGXXACPR_Potemkin-63214S-Hitbox.png/210px-GGXXACPR_Potemkin-63214S-Hitbox.png"
+    ]
+  },
+  {
+    "input": "63214S Reflect",
+    "move": "Flick Dat Back Reflect",
+    "damage": "16",
+    "guard": "All",
+    "invincibility": "1-End Strike",
+    "startup": "1",
+    "active": "98",
+    "recovery": "Total 22",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGAC_Potemkin_flickBullet.png/157px-GGAC_Potemkin_flickBullet.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGACR_Potemkin_Reflect_Hitbox.png/149px-GGACR_Potemkin_Reflect_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146P",
+    "move": "Potemkin Buster",
+    "damage": "160",
+    "guard": "176 pixels",
+    "invincibility": "1-2F Front Foot, 1-16F Throw, 3-5F All",
+    "startup": "3",
+    "active": "1",
+    "recovery": "37",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "Forced 75%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6, 15",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7e/GGACR_Potemkin_632146P.png/210px-GGACR_Potemkin_632146P.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGAC_Potemkin_632146P.png/186px-GGAC_Potemkin_632146P.png"
+    ]
+  },
+  {
+    "input": "623H",
+    "move": "Heat Knuckle",
+    "damage": "0, 15 x 2, 40",
+    "guard": "Unblockable, FD x 3",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "1",
+    "recovery": "22",
+    "block": "-1",
+    "frc_window": "23-24F On Whiff",
+    "proration": "Forced 75%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "8, 6 x 3",
+    "level": "1, 5×3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGAC_Potemkin_623H.png/195px-GGAC_Potemkin_623H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGXXACPR_Potemkin-623H-Hitbox.png/190px-GGXXACPR_Potemkin-623H-Hitbox.png"
+    ]
+  },
+  {
+    "input": "623H > 63214H",
+    "move": "Heat Extend",
+    "damage": "95",
+    "guard": "FD",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Potemkin_63214H.png/173px-GGAC_Potemkin_63214H.png"
+    ]
+  },
+  {
+    "input": "63214D",
+    "move": "Judge Gauntlet",
+    "damage": "85",
+    "guard": "Mid",
+    "invincibility": "2-29F Armor",
+    "startup": "28[10]",
+    "active": "6",
+    "recovery": "28",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Potemkin_63214D.png/210px-GGAC_Potemkin_63214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Potemkin-63214S-1-Hitbox.png/210px-GGXXACPR_Potemkin-63214S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGXXACPR_Potemkin-63214S-2-Hitbox.png/210px-GGXXACPR_Potemkin-63214S-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.632146D",
+    "move": "Aerial Potemkin Buster",
+    "damage": "0, 140",
+    "guard": "FD",
+    "invincibility": "1-8F Throw",
+    "startup": "5",
+    "active": "1",
+    "recovery": "Until Landing + 12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%, Forced 75%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6, 0",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/77/GGAC_Potemkin_j632146D.png/210px-GGAC_Potemkin_j632146D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGACR_Potemkin_j632146D_Hitbox.png/207px-GGACR_Potemkin_j632146D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146H",
+    "move": "Aerial Potemkin Buster",
+    "damage": "45",
+    "guard": "All",
+    "invincibility": "1-9F All, 10-15F Strike",
+    "startup": "9 + 8",
+    "active": "48",
+    "recovery": "Total 41",
+    "block": "+9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGAC_Potemkin_632146H.png/187px-GGAC_Potemkin_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGACR_Potemkin_632146H_Hitbox.png/187px-GGACR_Potemkin_632146H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146H > 4123641236P",
+    "move": "Gigantic Bullet",
+    "damage": "126",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "51",
+    "active": "24",
+    "recovery": "14",
+    "block": "-19",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Potemkin_4123641236P.png/199px-GGAC_Potemkin_4123641236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGACR_Potemkin_4123641236P_Hitbox.png/210px-GGACR_Potemkin_4123641236P_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236236S",
+    "move": "Heavenly Potemkin Buster",
+    "damage": "170",
+    "guard": "Unblockable",
+    "invincibility": "1-12F All, 13-27F Upper Body",
+    "startup": "12 + 1",
+    "active": "15",
+    "recovery": "10",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGAC_Potemkin_236236S.png/207px-GGAC_Potemkin_236236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/39/GGXXACPR_Potemkin-236236S-2-Hitbox.png/209px-GGXXACPR_Potemkin-236236S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGXXACPR_Potemkin-236236S-3-Hitbox.png/207px-GGXXACPR_Potemkin-236236S-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "236236H",
+    "move": "Magnum Opera",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "1-21F Strike",
+    "startup": "11 + 6",
+    "active": "12",
+    "recovery": "16",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGAC_Potemkin_IK1.png/210px-GGAC_Potemkin_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/96/GGAC_Potemkin_IK2.png/210px-GGAC_Potemkin_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGACR_Potemkin_IK_Hitbox.png/197px-GGACR_Potemkin_IK_Hitbox.png"
+    ]
+  }
+]

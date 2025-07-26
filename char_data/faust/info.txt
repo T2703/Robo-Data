@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "1x",
+        "guts_rating": "0/5",
+        "guard_bar_gain_mod": "0.8125x",
+        "guard_bar_recovery": "1/6F",
+        "gravity_mod": "1x",
+        "stun_resistance": "65",
+        "prejump": "4F",
+        "backdash": "13F (1-7F Strike Invuln)",
+        "wakeup_timing": "25F (Face Up) / 29F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "unique_movement": "Crawl, Pogo Movement",
+        "images": [
+            "https://www.dustloop.com/wiki/images/9/9d/GGAC_Faust_Portrait.png"
+        ]
+    }
+]

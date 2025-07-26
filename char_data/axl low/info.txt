@@ -1,0 +1,18 @@
+[
+    {
+        "damage_received_mod": "1.06x",
+        "guts_rating": "1/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1x",
+        "stun_resistance": "60",
+        "prejump": "4F",
+        "backdash": "16F (1-8F Strike Invuln)",
+        "wakeup_timing": "25F (Face Up) / 21F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "images": [
+            "https://www.dustloop.com/wiki/images/e/ea/GGAC_Axl_Portrait.png"
+        ]
+    }
+]

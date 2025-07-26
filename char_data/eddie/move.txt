@@ -1,0 +1,1071 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "9",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "4",
+    "recovery": "7",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Eddie_5P.png/188px-GGAC_Eddie_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGXXACPR_Eddie_5P-Hitbox.png/188px-GGXXACPR_Eddie_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "3",
+    "recovery": "8",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGAC_Eddie_5K.png/210px-GGAC_Eddie_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGXXACPR_Eddie_5K-Hitbox.png/210px-GGXXACPR_Eddie_5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "5",
+    "recovery": "9",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGAC_Eddie_cS.png/164px-GGAC_Eddie_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGXXACPR_Eddie_cS-1-Hitbox.png/206px-GGXXACPR_Eddie_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/95/GGXXACPR_Eddie_cS-2-Hitbox.png/206px-GGXXACPR_Eddie_cS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "20 x 3",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3, 5, 3",
+    "recovery": "20",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGAC_Eddie_fS.png/210px-GGAC_Eddie_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGXXACPR_Eddie_fS-1-Hitbox.png/210px-GGXXACPR_Eddie_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGXXACPR_Eddie_fS-2-Hitbox.png/210px-GGXXACPR_Eddie_fS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Eddie_fS-3-Hitbox.png/210px-GGXXACPR_Eddie_fS-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/51/GGXXACPR_Eddie_fS-4-Hitbox.png/210px-GGXXACPR_Eddie_fS-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5H",
+    "move": "5H",
+    "damage": "25 x 3",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "2, 6, 3",
+    "recovery": "15",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "6 x 3",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e4/GGAC_Eddie_5H.png/210px-GGAC_Eddie_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGXXACPR_Eddie_5H-1-Hitbox.png/210px-GGXXACPR_Eddie_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGXXACPR_Eddie_5H-2-Hitbox.png/210px-GGXXACPR_Eddie_5H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGXXACPR_Eddie_5H-3-Hitbox.png/210px-GGXXACPR_Eddie_5H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/af/GGXXACPR_Eddie_5H-4-Hitbox.png/210px-GGXXACPR_Eddie_5H-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5D",
+    "move": "5D",
+    "damage": "18",
+    "guard": "High",
+    "invincibility": "1-End Feet",
+    "startup": "26",
+    "active": "3",
+    "recovery": "24",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3d/GGAC_Eddie_5D.png/210px-GGAC_Eddie_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGXXACPR_Eddie_5D-Hitbox.png/210px-GGXXACPR_Eddie_5D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6P",
+    "move": "6P",
+    "damage": "22 x 2",
+    "guard": "Mid",
+    "invincibility": "1-16F Above Knees",
+    "startup": "13",
+    "active": "4, 4",
+    "recovery": "12",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Eddie_6P.png/156px-GGAC_Eddie_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGXXACPR_Eddie_6P-1-Hitbox.png/199px-GGXXACPR_Eddie_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGXXACPR_Eddie_6P-2-Hitbox.png/210px-GGXXACPR_Eddie_6P-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6K",
+    "move": "6K",
+    "damage": "30",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "5",
+    "recovery": "18",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGAC_Eddie_6K.png/210px-GGAC_Eddie_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGXXACPR_Eddie_6K-Hitbox.png/210px-GGXXACPR_Eddie_6K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6H",
+    "move": "6H",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "15",
+    "recovery": "20",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/86/GGAC_Eddie_6H.png/168px-GGAC_Eddie_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/af/GGXXACPR_Eddie_6H-1-Hitbox.png/210px-GGXXACPR_Eddie_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGXXACPR_Eddie_6H-2-Hitbox.png/210px-GGXXACPR_Eddie_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGXXACPR_Eddie_6H-3-Hitbox.png/179px-GGXXACPR_Eddie_6H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/39/GGXXACPR_Eddie_6H-4-Hitbox.png/174px-GGXXACPR_Eddie_6H-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Eddie_6H-5-Hitbox.png/172px-GGXXACPR_Eddie_6H-5-Hitbox.png"
+    ]
+  },
+    {    
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "8",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGAC_Eddie_2P.png/210px-GGAC_Eddie_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGXXACPR_Eddie_2P-Hitbox.png/210px-GGXXACPR_Eddie_2P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2K",
+    "move": "2K",
+    "damage": "18",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "2",
+    "recovery": "12",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGACR_Eddie_2K.png/210px-GGACR_Eddie_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGXXACPR_Eddie_2K-Hitbox.png/210px-GGXXACPR_Eddie_2K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "16",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGAC_Eddie_2S.png/210px-GGAC_Eddie_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGXXACPR_Eddie_2S-Hitbox.png/210px-GGXXACPR_Eddie_2S-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2H",
+    "move": "2H",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "6",
+    "recovery": "19",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGAC_Eddie_2H.png/124px-GGAC_Eddie_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGXXACPR_Eddie_2H-1-Hitbox.png/148px-GGXXACPR_Eddie_2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGXXACPR_Eddie_2H-2-Hitbox.png/152px-GGXXACPR_Eddie_2H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGXXACPR_Eddie_2H-3-Hitbox.png/200px-GGXXACPR_Eddie_2H-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2D",
+    "move": "2D",
+    "damage": "20",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "15",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGAC_Eddie_2D.png/210px-GGAC_Eddie_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Eddie_2D-Hitbox.png/210px-GGXXACPR_Eddie_2D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.P",
+    "move": "JP",
+    "damage": "13",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGAC_Eddie_jP.png/210px-GGAC_Eddie_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGXXACPR_Eddie_jP-1-Hitbox.png/179px-GGXXACPR_Eddie_jP-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGXXACPR_Eddie_jP-2-Hitbox.png/179px-GGXXACPR_Eddie_jP-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.K",
+    "move": "JK",
+    "damage": "18",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "6",
+    "recovery": "8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGAC_Eddie_jK.png/210px-GGAC_Eddie_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGXXACPR_Eddie_jK-1-Hitbox.png/191px-GGXXACPR_Eddie_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGXXACPR_Eddie_jK-2-Hitbox.png/193px-GGXXACPR_Eddie_jK-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.S",
+    "move": "JS",
+    "damage": "22",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "12",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGAC_Eddie_jS.png/195px-GGAC_Eddie_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGXXACPR_Eddie_jS-1-Hitbox.png/203px-GGXXACPR_Eddie_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Eddie_jS-2-Hitbox.png/207px-GGXXACPR_Eddie_jS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGXXACPR_Eddie_jS-3-Hitbox.png/188px-GGXXACPR_Eddie_jS-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.H",
+    "move": "JH",
+    "damage": "33",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "6",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Eddie_jH.png/210px-GGAC_Eddie_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGXXACPR_Eddie_jH-1-Hitbox.png/205px-GGXXACPR_Eddie_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/13/GGXXACPR_Eddie_jH-2-Hitbox.png/205px-GGXXACPR_Eddie_jH-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.D",
+    "move": "JD",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "4",
+    "recovery": "19 + 5 After Landing",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGAC_Eddie_jD.png/188px-GGAC_Eddie_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGXXACPR_Eddie_jD-Hitbox.png/171px-GGXXACPR_Eddie_jD-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "50",
+    "guard": "49 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGAC_Eddie_throw.png/151px-GGAC_Eddie_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGAC_Eddie_airThrow.png/128px-GGAC_Eddie_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-21F All, 22-36F Throw",
+    "startup": "13",
+    "active": "9",
+    "recovery": "18",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGAC_Eddie_2H.png/124px-GGAC_Eddie_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGXXACPR_Eddie_2H-1-Hitbox.png/148px-GGXXACPR_Eddie_2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGXXACPR_Eddie_2H-2-Hitbox.png/152px-GGXXACPR_Eddie_2H-2-Hitbox.png", 
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGXXACPR_Eddie_2H-3-Hitbox.png/200px-GGXXACPR_Eddie_2H-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "7/8/9 Airborne",
+    "move": "Flight",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 91",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6a/GGAC_Eddie_Flight.png/210px-GGAC_Eddie_Flight.png"
+    ]
+  },
+  {   
+    "input": "22S",
+    "move": "Invite Hell S",
+    "damage": "40",
+    "guard": "Low/Air",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "48",
+    "recovery": "Total 42",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGAC_Eddie_22S.png/210px-GGAC_Eddie_22S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGACR_Eddie_22S_Hitbox.png/210px-GGACR_Eddie_22S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "22H",
+    "move": "Invite Hell H",
+    "damage": "40",
+    "guard": "Low/Air",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "36",
+    "recovery": "Total 42",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGAC_Eddie_22S.png/210px-GGAC_Eddie_22S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGACR_Eddie_22S_Hitbox.png/210px-GGACR_Eddie_22S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214[K]",
+    "move": "Break The Law",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-9F Throw, 5-6F Upper Body, 7-9F Above Knees",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 26-167",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGAC_Eddie_214K.png/210px-GGAC_Eddie_214K.png"
+    ]
+  },
+  {   
+    "input": "214[K] > 41236S",
+    "move": "Break The Law Followup",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "1-2F Low Profile, 3-8F Above Feet",
+    "startup": "10 For BTL + 20",
+    "active": "3",
+    "recovery": "22 + 5 Landing",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGAC_Eddie_214K.png/210px-GGAC_Eddie_214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGACR_Eddie_214K41236S_Hitbox.png/154px-GGACR_Eddie_214K41236S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.41236S",
+    "move": "Shadow Gallery",
+    "damage": "40, 25",
+    "guard": "Mid",
+    "invincibility": "7-Until Ground Strike, After Reappear: 1-12F Above Feet",
+    "startup": "7 After Appearing",
+    "active": "6(12)3",
+    "recovery": "24 + 7 After Landing",
+    "block": "-17",
+    "frc_window": "19-21F After Reappearing",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGAC_Eddie_41236S.png/122px-GGAC_Eddie_41236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/52/GGACR_Eddie_41236S_Hitbox_1.png/75px-GGACR_Eddie_41236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGACR_Eddie_41236S_Hitbox_2.png/141px-GGACR_Eddie_41236S_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "236P/K/S/H[s] or 214H[s]",
+    "move": "Summon Eddie",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 38",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGAC_Eddie_Summon.png/173px-GGAC_Eddie_Summon.png"
+    ]
+  },
+  {   
+    "input": "236P/K/S/H[us] or 214H[us]",
+    "move": "Unsummon Eddie",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 29",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGAC_Eddie_Summon.png/173px-GGAC_Eddie_Summon.png"
+    ]
+  },
+  {   
+    "input": "236P or ]P[ Normal Shadow",
+    "move": "Small Attack",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "Shadow: 1-9F",
+    "startup": "10",
+    "active": "3",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/2/24/GGAC_Eddie_LilEddieP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/b8/GGACR_Eddie_ShadowP_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K or ]K[ Normal Shadow",
+    "move": "Traversing Attack",
+    "damage": "24 x 2",
+    "guard": "All",
+    "invincibility": "Shadow: 31-50F",
+    "startup": "13",
+    "active": "1(14)3",
+    "recovery": "31",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7, 6",
+    "level": "3, 4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c8/GGAC_Eddie_LilEddieK.png/210px-GGAC_Eddie_LilEddieK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/08/GGACR_Eddie_ShadowK_Hitbox_1.png/210px-GGACR_Eddie_ShadowK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGACR_Eddie_ShadowK_Hitbox_2.png/210px-GGACR_Eddie_ShadowK_Hitbox_2.png" 
+    ]
+  },
+  {   
+    "input": "236S or ]S[ Normal Shadow",
+    "move": "Anti-Air Attack",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "Shadow: 26-32F",
+    "startup": "11",
+    "active": "8",
+    "recovery": "23",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "9",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGAC_Eddie_LilEddieS.png/153px-GGAC_Eddie_LilEddieS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGACR_Eddie_ShadowS_Hitbox_1.png/210px-GGACR_Eddie_ShadowS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGACR_Eddie_ShadowS_Hitbox_2.png/167px-GGACR_Eddie_ShadowS_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGACR_Eddie_ShadowS_Hitbox_3.png/153px-GGACR_Eddie_ShadowS_Hitbox_3.png" 
+    ]
+  },
+  {   
+    "input": "]H[ Normal Shadow",
+    "move": "Shadow Hole",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "Shadow: 12-End",
+    "startup": "30",
+    "active": "214",
+    "recovery": "23",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGAC_Eddie_LilEddieH.png/210px-GGAC_Eddie_LilEddieH.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_Eddie_LilEddieH-2.png/210px-GGAC_Eddie_LilEddieH-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c9/GGACR_Eddie_ShadowH_Hitbox.png/210px-GGACR_Eddie_ShadowH_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "]D[ Normal Shadow",
+    "move": "Overhead Attack",
+    "damage": "24",
+    "guard": "High/Air",
+    "invincibility": "Shadow: 1-3F, 28-36F",
+    "startup": "28",
+    "active": "28",
+    "recovery": "Total 37",
+    "block": "-17",
+    "frc_window": "19-21F After Reappearing",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e9/GGAC_Eddie_LilEddieD.png/210px-GGAC_Eddie_LilEddieD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/8/8f/GGACR_Eddie_ShadowD_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214P",
+    "move": "Traversing",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-15F All, 16F Strike, Shadow: 1~15F",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Eddie_Teleport.png/126px-GGACR_Eddie_Teleport.png"
+    ]
+  },
+  {   
+    "input": "]P[ Vice Shadow",
+    "move": "Small Attack Vice",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "2",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGAC_Eddie_LilEddieWeissP.png/210px-GGAC_Eddie_LilEddieWeissP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGACR_Eddie_ViceP_Hitbox.png/210px-GGACR_Eddie_ViceP_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "]K[ Vice Shadow",
+    "move": "Traversing Attack Vice",
+    "damage": "16 x 4",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "29",
+    "recovery": "25",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6 x 4",
+    "guard_bar_minus": "8 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGAC_Eddie_LilEddieWeissK.png/210px-GGAC_Eddie_LilEddieWeissK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGACR_Eddie_ViceK_Hitbox_1.png/210px-GGACR_Eddie_ViceK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/87/GGACR_Eddie_ViceK_Hitbox_2.png/210px-GGACR_Eddie_ViceK_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGACR_Eddie_ViceK_Hitbox_3.png/210px-GGACR_Eddie_ViceK_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGACR_Eddie_ViceK_Hitbox_4.png/210px-GGACR_Eddie_ViceK_Hitbox_4.png"
+    ]
+  },
+  {   
+    "input": "]S[ Vice Shadow",
+    "move": "Anti-Air Attack Vice",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "12",
+    "recovery": "31",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/78/GGAC_Eddie_LilEddieWeissS.png/94px-GGAC_Eddie_LilEddieWeissS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a2/GGACR_Eddie_ViceS_Hitbox_1.png/210px-GGACR_Eddie_ViceS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d1/GGACR_Eddie_ViceS_Hitbox_2.png/147px-GGACR_Eddie_ViceS_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGACR_Eddie_ViceS_Hitbox_3.png/101px-GGACR_Eddie_ViceS_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "]H[ Vice Shadow",
+    "move": "Drill Special Vice",
+    "damage": "34 x 3",
+    "guard": "Low, Air x 2, All",
+    "invincibility": "Shadow: 13-End",
+    "startup": "147",
+    "active": "36",
+    "recovery": "Total 139",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8 x 2, 10",
+    "guard_bar_minus": "10 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGAC_Eddie_LilEddieWeissH.png/210px-GGAC_Eddie_LilEddieWeissH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGACR_Eddie_ViceH_Hitbox.png/147px-GGACR_Eddie_ViceH_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "]D[ Vice Shadow",
+    "move": "Overhead Attack Vice",
+    "damage": "25",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "16",
+    "recovery": "22",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "12",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGAC_Eddie_LilEddieWeissD.png/210px-GGAC_Eddie_LilEddieWeissD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/12/GGACR_Eddie_ViceD_Hitbox_1.png/210px-GGACR_Eddie_ViceD_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGACR_Eddie_ViceD_Hitbox_2.png/210px-GGACR_Eddie_ViceD_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGACR_Eddie_ViceD_Hitbox_3.png/210px-GGACR_Eddie_ViceD_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "214S",
+    "move": "Drunkard Shade",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-18F Throw, 3-18F Reflect",
+    "startup": "9",
+    "active": "10",
+    "recovery": "10",
+    "block": "-6",
+    "frc_window": "9-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/dd/GGAC_Eddie_214S.png/138px-GGAC_Eddie_214S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGACR_Eddie_214S_Hitbox_1.png/135px-GGACR_Eddie_214S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Eddie_214S_Hitbox_2.png/139px-GGACR_Eddie_214S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGACR_Eddie_214S_Hitbox_3.png/145px-GGACR_Eddie_214S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Eddie_214S_Hitbox_4.png/150px-GGACR_Eddie_214S_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4f/GGACR_Eddie_214S_Hitbox_5.png/154px-GGACR_Eddie_214S_Hitbox_5.png"
+    ]
+  },
+  {   
+    "input": "623S",
+    "move": "Damned Fang",
+    "damage": "77",
+    "guard": "70 Pixels",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "1",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "7-9F After Opponent Gets Stabbed, 123-125F On Hit",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGAC_Eddie_623S.png/199px-GGAC_Eddie_623S.png"
+    ]
+  },
+  {   
+    "input": "22D",
+    "move": "Drill Special",
+    "damage": "34 x 3",
+    "guard": "Low/Air, All x 2",
+    "invincibility": "N/A",
+    "startup": "20",
+    "active": "36",
+    "recovery": "Total 62",
+    "block": "+8",
+    "frc_window": "22-23F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "10 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGAC_Eddie_22D.png/210px-GGAC_Eddie_22D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGACR_Eddie_22D_Hitbox.png/210px-GGACR_Eddie_22D_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236D",
+    "move": "Exhaustion",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 48",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGAC_Eddie_236D.png/156px-GGAC_Eddie_236D.png"
+    ]
+  },
+  {   
+    "input": "632146H",
+    "move": "Amorphous",
+    "damage": "82 x 2",
+    "guard": "Mid",
+    "invincibility": "1-17F All, 18-29F Throw",
+    "startup": "8 + 8",
+    "active": "6, 3",
+    "recovery": "28",
+    "block": "-17",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGAC_Eddie_632146H.png/210px-GGAC_Eddie_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/78/GGACR_Eddie_632146H_Hitbox_1.png/210px-GGACR_Eddie_632146H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGACR_Eddie_632146H_Hitbox_2.png/210px-GGACR_Eddie_632146H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5e/GGACR_Eddie_632146H_Hitbox_3.png/187px-GGACR_Eddie_632146H_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "j.236236S/[S]",
+    "move": "Executor-X",
+    "damage": "50, 100",
+    "guard": "All",
+    "invincibility": "3-17F Strike, Recovery: 1-10F Above Knees, Recovery: 11-22F Upper Body",
+    "startup": "4 + 7",
+    "active": "Until Other Side Of Screen",
+    "recovery": "37 After Appearing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "3, 7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGAC_Eddie_j236236S.png/210px-GGAC_Eddie_j236236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGACR_Eddie_j236236S_Hitbox_1.png/210px-GGACR_Eddie_j236236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGACR_Eddie_j236236S_Hitbox_2.png/113px-GGACR_Eddie_j236236S_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Black In Mind",
+    "damage": "Fatal",
+    "guard": "Mid",
+    "invincibility": "9-28F Strike",
+    "startup": "9 + 4",
+    "active": "16",
+    "recovery": "16",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cb/GGAC_Eddie_IK.png/159px-GGAC_Eddie_IK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGACR_Eddie_IK_Hitbox.png/142px-GGACR_Eddie_IK_Hitbox.png"
+    ]
+  }
+]

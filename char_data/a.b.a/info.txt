@@ -1,0 +1,20 @@
+[
+    {
+        "damage_received_mod": "0.89x",
+        "guts_rating": "0/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "0.98x",
+        "stun_resistance": "80",
+        "prejump": "4F",
+        "backdash": "17F (1-8F Strike Invuln)",
+        "forwards_dash": "22F",
+        "wakeup_timing": "32F (Face Up) / 20F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "unique_movement": "Step Dash",
+        "images": [
+            "https://www.dustloop.com/wiki/images/4/43/GGAC_ABA_Portrait.png"
+        ]
+    }
+]

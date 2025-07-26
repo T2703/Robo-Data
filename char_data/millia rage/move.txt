@@ -1,0 +1,929 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "18",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "5",
+    "recovery": "6",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Millia_5P.png/210px-GGAC_Millia_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fd/GGXXACPR_Millia_5P-Hitbox.png/210px-GGXXACPR_Millia_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "14",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Millia_5K.png/84px-GGAC_Millia_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGXXACPR_Millia_5K-1-Hitbox.png/185px-GGXXACPR_Millia_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/39/GGXXACPR_Millia_5K-2-Hitbox.png/157px-GGXXACPR_Millia_5K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cc/GGXXACPR_Millia_5K-3-Hitbox.png/161px-GGXXACPR_Millia_5K-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "22 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "3, 3",
+    "recovery": "17",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Millia_cS.png/100px-GGAC_Millia_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGXXACPR_Millia_cS-1-Hitbox.png/128px-GGXXACPR_Millia_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Millia_cS-2-Hitbox.png/101px-GGXXACPR_Millia_cS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "2",
+    "recovery": "16",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/87/GGAC_Millia_fS.png/210px-GGAC_Millia_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d2/GGXXACPR_Millia_fS-Hitbox.png/210px-GGXXACPR_Millia_fS-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5H",
+    "move": "5H",
+    "damage": "30 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "4(2)2",
+    "recovery": "21",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGAC_Millia_5H.png/210px-GGAC_Millia_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGXXACPR_Millia_5H-1-Hitbox.png/210px-GGXXACPR_Millia_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b8/GGXXACPR_Millia_5H-2-Hitbox.png/210px-GGXXACPR_Millia_5H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5D",
+    "move": "5D",
+    "damage": "12",
+    "guard": "High",
+    "invincibility": "8-23F Low Profile, 30-41F Feet",
+    "startup": "27",
+    "active": "3",
+    "recovery": "23",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGAC_Millia_5D.png/210px-GGAC_Millia_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Millia_5D-Hitbox.png/173px-GGXXACPR_Millia_5D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6P",
+    "move": "6P",
+    "damage": "22 x 2",
+    "guard": "Mid",
+    "invincibility": "1-12F Upper Body",
+    "startup": "7",
+    "active": "9, 3",
+    "recovery": "20",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5e/GGAC_Millia_6P.png/210px-GGAC_Millia_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGXXACPR_Millia_6P-1-Hitbox.png/210px-GGXXACPR_Millia_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1e/GGXXACPR_Millia_6P-2-Hitbox.png/210px-GGXXACPR_Millia_6P-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/97/GGXXACPR_Millia_6P-3-Hitbox.png/210px-GGXXACPR_Millia_6P-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGXXACPR_Millia_6P-4-Hitbox.png/210px-GGXXACPR_Millia_6P-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6K",
+    "move": "6K",
+    "damage": "25",
+    "guard": "High",
+    "invincibility": "1-19F Lower Body, 20-21F Feet",
+    "startup": "18",
+    "active": "4",
+    "recovery": "8",
+    "block": "+5",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGAC_Millia_6K.png/210px-GGAC_Millia_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGXXACPR_Millia_6K-1-Hitbox.png/205px-GGXXACPR_Millia_6K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Millia_6K-2-Hitbox.png/210px-GGXXACPR_Millia_6K-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6H",
+    "move": "6H",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "3",
+    "recovery": "25",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGAC_Millia_6H.png/210px-GGAC_Millia_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGXXACPR_Millia_6H-Hitbox.png/210px-GGXXACPR_Millia_6H-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2P",
+    "move": "2P",
+    "damage": "9",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/f/fc/GGAC_Millia_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/6a/GGXXACPR_Millia_2P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2K",
+    "move": "2K",
+    "damage": "8",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "7",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGAC_Millia_2K.png/210px-GGAC_Millia_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGXXACPR_Millia_2K-Hitbox.png/210px-GGXXACPR_Millia_2K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "26",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "15",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_Millia_2S.png/210px-GGAC_Millia_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGXXACPR_Millia_2S-Hitbox.png/210px-GGXXACPR_Millia_2S-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2H",
+    "move": "2H",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "1-3F Low Profile",
+    "startup": "11",
+    "active": "7",
+    "recovery": "12",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGAC_Millia_2H.png/157px-GGAC_Millia_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/12/GGXXACPR_Millia_2H-1-Hitbox.png/204px-GGXXACPR_Millia_2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGXXACPR_Millia_2H-2-Hitbox.png/172px-GGXXACPR_Millia_2H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGXXACPR_Millia_2H-3-Hitbox.png/155px-GGXXACPR_Millia_2H-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2D",
+    "move": "2D",
+    "damage": "26",
+    "guard": "Lower",
+    "invincibility": "10-21F Feet",
+    "startup": "13",
+    "active": "3",
+    "recovery": "12",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c9/GGAC_Millia_2D.png/210px-GGAC_Millia_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGXXACPR_Millia_2D-Hitbox.png/210px-GGXXACPR_Millia_2D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.P",
+    "move": "JP",
+    "damage": "10",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/c/c2/GGAC_Millia_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGXXACPR_Millia_jP-Hitbox.png/174px-GGXXACPR_Millia_jP-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.K",
+    "move": "JK",
+    "damage": "12",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "9",
+    "recovery": "9",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGAC_Millia_jK.png/210px-GGAC_Millia_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGXXACPR_Millia_jK-1-Hitbox.png/210px-GGXXACPR_Millia_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/08/GGXXACPR_Millia_jK-2-Hitbox.png/144px-GGXXACPR_Millia_jK-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGXXACPR_Millia_jK-3-Hitbox.png/158px-GGXXACPR_Millia_jK-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.S",
+    "move": "JS",
+    "damage": "26",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGAC_Millia_jS.png/210px-GGAC_Millia_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/45/GGXXACPR_Millia_jS-1-Hitbox.png/193px-GGXXACPR_Millia_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cc/GGXXACPR_Millia_jS-2-Hitbox.png/194px-GGXXACPR_Millia_jS-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.H",
+    "move": "JH",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "3",
+    "recovery": "11",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "9",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGAC_Millia_jH.png/210px-GGAC_Millia_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGXXACPR_Millia_jH-Hitbox.png/210px-GGXXACPR_Millia_jH-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.2H",
+    "move": "J2H",
+    "damage": "22 x 3",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "4(2)6(2)4",
+    "recovery": "17",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5 x 3",
+    "guard_bar_minus": "9 x 3",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_Millia_j2H.png/166px-GGAC_Millia_j2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGACR_Millia_j2H_Hitbox_1.png/135px-GGACR_Millia_j2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/78/GGACR_Millia_j2H_Hitbox_2.png/123px-GGACR_Millia_j2H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGACR_Millia_j2H_Hitbox_3.png/163px-GGACR_Millia_j2H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/70/GGACR_Millia_j2H_Hitbox_4.png/141px-GGACR_Millia_j2H_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "j.D",
+    "move": "JD",
+    "damage": "48",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "17",
+    "active": "7",
+    "recovery": "9 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7a/GGAC_Millia_jD.png/210px-GGAC_Millia_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGXXACPR_Millia_jD-1-Hitbox.png/210px-GGXXACPR_Millia_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGXXACPR_Millia_jD-2-Hitbox.png/210px-GGXXACPR_Millia_jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "50",
+    "guard": "40 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 40%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Millia_throw.png/210px-GGAC_Millia_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "55",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Millia_airThrow.png/195px-GGAC_Millia_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "1-12F All, 13-40F Throw",
+    "startup": "7",
+    "active": "6",
+    "recovery": "33",
+    "block": "-25",
+    "frc_window": "N/A",
+    "proration": "40%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Millia_cS.png/100px-GGAC_Millia_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGXXACPR_Millia_cS-1-Hitbox.png/128px-GGXXACPR_Millia_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Millia_cS-2-Hitbox.png/101px-GGXXACPR_Millia_cS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214S > S x N",
+    "move": "Lust Shaker",
+    "damage": "12 x N",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "1(3) x N",
+    "recovery": "5",
+    "block": "+5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x N",
+    "guard_bar_minus": "7 x N",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e6/GGAC_Millia_214S.png/210px-GGAC_Millia_214S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGACR_Millia_214S_Hitbox_1.png/210px-GGACR_Millia_214S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGACR_Millia_214S_Hitbox_2.png/210px-GGACR_Millia_214S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGACR_Millia_214S_Hitbox_3.png/210px-GGACR_Millia_214S_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "236S",
+    "move": "Tandem Top S",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "13",
+    "recovery": "15",
+    "block": "-1",
+    "frc_window": "3-4F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/26/GGAC_Millia_236S.png/210px-GGAC_Millia_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGACR_Millia_236S_Hitbox.png/210px-GGACR_Millia_236S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236H",
+    "move": "Tandem Top H",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "60",
+    "active": "33",
+    "recovery": "Total 32",
+    "block": "N/A",
+    "frc_window": "3-4F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGACR_Millia_236H-1.png/210px-GGACR_Millia_236H-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/86/GGACR_Millia_236H-2.png/210px-GGACR_Millia_236H-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGACR_Millia_236S_Hitbox.png/210px-GGACR_Millia_236S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.236P",
+    "move": "Bad Moon",
+    "damage": "24 x N",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "Until",
+    "recovery": "22 After Landing",
+    "block": "-15",
+    "frc_window": "5-7F After Landing Or Block",
+    "proration": "80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7 x N",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGAC_Millia_j236P.png/158px-GGAC_Millia_j236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGACR_Millia_j236P_Hitbox_1.png/145px-GGACR_Millia_j236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/30/GGACR_Millia_j236P_Hitbox_2.png/145px-GGACR_Millia_j236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGACR_Millia_j236P_Hitbox_3.png/145px-GGACR_Millia_j236P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGACR_Millia_j236P_Hitbox_4.png/145px-GGACR_Millia_j236P_Hitbox_4.png"
+    ]
+  },
+  {   
+    "input": "j.236K",
+    "move": "Turbo Fall",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Until Landing + 12",
+    "block": "N/A",
+    "frc_window": "14-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGAC_Millia_j236K.png/198px-GGAC_Millia_j236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGACR_Millia_j236K_Hitbox.png/166px-GGACR_Millia_j236K_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214K",
+    "move": "Forward Roll",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "2-15F Very Low Profile",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 24",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGAC_Millia_214K.png/210px-GGAC_Millia_214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/0/09/GGACR_Millia_214K_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214P",
+    "move": "Iron Savior",
+    "damage": "36",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "17",
+    "active": "Until Corner",
+    "recovery": "18 + 8 After Landing",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGAC_Millia_214P.png/210px-GGAC_Millia_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a2/GGACR_Millia_214P_Hitbox.png/210px-GGACR_Millia_214P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214K/S",
+    "move": "Silent Force K/S",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "1(1) x 2, 2(1) x N",
+    "recovery": "Total 13",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "10",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Millia_j214S.png/141px-GGAC_Millia_j214S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGACR_Millia_j214S_Hitbox.png/165px-GGACR_Millia_j214S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214H",
+    "move": "Silent Force H",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "1(1) x 2, 2(1) x N",
+    "recovery": "Total 18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "10",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Millia_j214S.png/141px-GGAC_Millia_j214S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGACR_Millia_j214S_Hitbox.png/165px-GGACR_Millia_j214S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214H > Direction + H",
+    "move": "Secret Garden",
+    "damage": "30 x 5",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "56",
+    "active": "18(8)",
+    "recovery": "74",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 5",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b4/GGAC_Millia_214H.png/83px-GGAC_Millia_214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/b1/GGACR_Millia_214H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236D",
+    "move": "Pretty Maze",
+    "damage": "22 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "43",
+    "active": "41",
+    "recovery": "Total 33",
+    "block": "N/A",
+    "frc_window": "6-8F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "5 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_Millia_236D.png/210px-GGAC_Millia_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Millia_236D_Hitbox_1.png/210px-GGACR_Millia_236D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_Millia_236D_Hitbox_2.png/210px-GGACR_Millia_236D_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "j.236D",
+    "move": "Air Pretty Maze",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "33",
+    "recovery": "Total 21",
+    "block": "N/A",
+    "frc_window": "4-6F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_Millia_236D.png/210px-GGAC_Millia_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Millia_236D_Hitbox_1.png/210px-GGACR_Millia_236D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGACR_Millia_236D_Hitbox_2.png/210px-GGACR_Millia_236D_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "214D > Direction + H/D",
+    "move": "FB Secret Gardenx",
+    "damage": "30 x 5",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "34",
+    "active": "18(8)",
+    "recovery": "Total 68",
+    "block": "N/A",
+    "frc_window": "6-8F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 5",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0e/GGAC_Millia_j214D.png/210px-GGAC_Millia_j214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/b1/GGACR_Millia_214H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214S > 214D",
+    "move": "Longinus",
+    "damage": "35",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "8",
+    "recovery": "6",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "Forced 80%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGAC_Millia_214D.png/210px-GGAC_Millia_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/65/GGACR_Millia_214D_Hitbox.png/210px-GGACR_Millia_214D_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2141236H",
+    "move": "Winger",
+    "damage": "40, 25 x 4, 80",
+    "guard": "Mid x 5, High",
+    "invincibility": "1-7F All",
+    "startup": "5 + 1",
+    "active": "2 x 5(10)15",
+    "recovery": "30 After Landing",
+    "block": "-21",
+    "frc_window": "23-24F",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 5, 15",
+    "guard_bar_minus": "6 x 6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGAC_Millia_214236H.png/210px-GGAC_Millia_214236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Millia_214236H_Hitbox_1.png/210px-GGACR_Millia_214236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGACR_Millia_214236H_Hitbox_2.png/149px-GGACR_Millia_214236H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGACR_Millia_214236H_Hitbox_3.png/96px-GGACR_Millia_214236H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGACR_Millia_214236H_Hitbox_4.png/210px-GGACR_Millia_214236H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGACR_Millia_214236H_Hitbox_5.png/210px-GGACR_Millia_214236H_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_Millia_214236H_Hitbox_6.png/194px-GGACR_Millia_214236H_Hitbox_6.png"
+    ]
+  },
+  {   
+    "input": "j.2141236H",
+    "move": "Air Winger",
+    "damage": "80",
+    "guard": "High/Air",
+    "invincibility": "1-7F All, 8-Until Landing Throw",
+    "startup": "1 + 6",
+    "active": "Until Landing",
+    "recovery": "30 After Landing",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "10",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGAC_Millia_214236H.png/210px-GGAC_Millia_214236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_Millia_214236H_Hitbox_6.png/194px-GGACR_Millia_214236H_Hitbox_6.png"
+    ]
+  },
+  {   
+    "input": "236236S",
+    "move": "Emerald Rain",
+    "damage": "36 x 3",
+    "guard": "All",
+    "invincibility": "4-5F Strike",
+    "startup": "4 + 2",
+    "active": "N/A",
+    "recovery": "Total 75",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b1/GGAC_Millia_236236S.png/210px-GGAC_Millia_236236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGACR_Millia_236236S_Hitbox.png/210px-GGACR_Millia_236236S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Iron Maiden",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "5-6F Strike",
+    "startup": "5 + 29",
+    "active": "N/A",
+    "recovery": "Total 165",
+    "block": "-62",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 16",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGAC_Millia_IK1.png/210px-GGAC_Millia_IK1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGACR_Millia_IK_Hitbox.png/210px-GGACR_Millia_IK_Hitbox.png"
+    ]
+  }
+]

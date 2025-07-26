@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "1.06x",
+        "guts_rating": "1/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1.05x",
+        "stun_resistance": "55",
+        "prejump": "3F",
+        "backdash": "16F (1-11F Strike Invuln)",
+        "wakeup_timing": "24F (Face Up) / 21F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "2",
+        "unique_movement": "Hover Dash",
+        "images": [
+            "https://www.dustloop.com/wiki/images/a/a2/GGAC_I-No_Portrait.png"
+        ]
+    }
+]

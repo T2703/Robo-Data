@@ -1,0 +1,2001 @@
+[
+  {
+    "input": "5P",
+    "move": "5P",
+    "damage": "9",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ee/GGAC_Zappa_5P.png/210px-GGAC_Zappa_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Zappa_5P-Hitbox.png/210px-GGXXACPR_Zappa_5P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5K",
+    "move": "5K",
+    "damage": "22",
+    "guard": "Mid",
+    "invincibility": "1-4F, 9-14F, 19-22F Feet 5-8F, 15-8F Lower Body",
+    "startup": "9",
+    "active": "6",
+    "recovery": "8",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/08/GGAC_Zappa_5K.png/210px-GGAC_Zappa_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGXXACPR_Zappa_5K-1-Hitbox.png/210px-GGXXACPR_Zappa_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGXXACPR_Zappa_5K-2-Hitbox.png/210px-GGXXACPR_Zappa_5K-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "c.S",
+    "move": "CS",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "6",
+    "recovery": "18",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/1/18/GGAC_Zappa_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/7b/GGXXACPR_Zappa_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/5/59/GGXXACPR_Zappa_cS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/29/GGXXACPR_Zappa_cS-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S",
+    "move": "FS",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "9",
+    "recovery": "10",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGAC_Zappa_fS.png/210px-GGAC_Zappa_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGXXACPR_Zappa_fS-1-Hitbox.png/210px-GGXXACPR_Zappa_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGXXACPR_Zappa_fS-2-Hitbox.png/210px-GGXXACPR_Zappa_fS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGXXACPR_Zappa_fS-3-Hitbox.png/210px-GGXXACPR_Zappa_fS-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S Puddle",
+    "move": "FS Puddle",
+    "damage": "0",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "34",
+    "active": "3",
+    "recovery": "0",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "5",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGAC_Zappa_fSonground.png/210px-GGAC_Zappa_fSonground.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGXXACPR_Zappa_fS-ground-Hitbox.png/210px-GGXXACPR_Zappa_fS-ground-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5H",
+    "move": "5H",
+    "damage": "20 x 3",
+    "guard": "High",
+    "invincibility": "22-39F Lower Body",
+    "startup": "22",
+    "active": "3 x 6",
+    "recovery": "12",
+    "block": "-13",
+    "frc_window": "31-33F, 37-39F",
+    "proration": "N/A",
+    "guard_bar_plus": "11 x 3",
+    "guard_bar_minus": "6 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGAC_Zappa_5H.png/145px-GGAC_Zappa_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/71/GGXXACPR_Zappa_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/22/GGXXACPR_Zappa_5H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/4d/GGXXACPR_Zappa_5H-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5D",
+    "move": "5D",
+    "damage": "17",
+    "guard": "High",
+    "invincibility": "10-35F Throw, 18-37F Lower Body",
+    "startup": "26",
+    "active": "4",
+    "recovery": "22",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "20",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/9/99/GGAC_Zappa_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGXXACPR_Zappa_5D-1-Hitbox.png/115px-GGXXACPR_Zappa_5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGXXACPR_Zappa_5D-2-Hitbox.png/123px-GGXXACPR_Zappa_5D-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6P",
+    "move": "6P",
+    "damage": "24",
+    "guard": "Low",
+    "invincibility": "1-13F Above Knees",
+    "startup": "11",
+    "active": "3",
+    "recovery": "18",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_Zappa_6P.png/210px-GGAC_Zappa_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e4/GGXXACPR_Zappa_6P-Hitbox.png/210px-GGXXACPR_Zappa_6P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H",
+    "move": "6H",
+    "damage": "50",
+    "guard": "High",
+    "invincibility": "44-49F Low Profile, 50-57F Above Feet",
+    "startup": "21",
+    "active": "19",
+    "recovery": "14",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/a/a6/GGAC_Zappa_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGXXACPR_Zappa_6H-1-Hitbox.png/210px-GGXXACPR_Zappa_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/87/GGXXACPR_Zappa_6H-2-Hitbox.png/210px-GGXXACPR_Zappa_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGXXACPR_Zappa_6H-3-Hitbox.png/210px-GGXXACPR_Zappa_6H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Zappa_6H-4-Hitbox.png/210px-GGXXACPR_Zappa_6H-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGXXACPR_Zappa_6H-5-Hitbox.png/210px-GGXXACPR_Zappa_6H-5-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2P",
+    "move": "2P",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "1-End Low Profile",
+    "startup": "5",
+    "active": "3",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b3/GGAC_Zappa_2P.png/210px-GGAC_Zappa_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4b/GGXXACPR_Zappa_2P-Hitbox.png/210px-GGXXACPR_Zappa_2P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2K",
+    "move": "2K",
+    "damage": "16",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "7",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGAC_Zappa_2K.png/210px-GGAC_Zappa_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/51/GGXXACPR_Zappa_2K-1-Hitbox.png/210px-GGXXACPR_Zappa_2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGXXACPR_Zappa_2K-2-Hitbox.png/210px-GGXXACPR_Zappa_2K-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2S",
+    "move": "2S",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "1-4F, 9-10F, 20-21F, 26-31F Low Profile",
+    "startup": "11",
+    "active": "9",
+    "recovery": "12",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Zappa_2S.png/210px-GGAC_Zappa_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/77/GGXXACPR_Zappa_2S-1-Hitbox.png/210px-GGXXACPR_Zappa_2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGXXACPR_Zappa_2S-2-Hitbox.png/210px-GGXXACPR_Zappa_2S-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2H",
+    "move": "2H",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "5",
+    "recovery": "14",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGAC_Zappa_2H.png/210px-GGAC_Zappa_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGXXACPR_Zappa_2H-Hitbox.png/210px-GGXXACPR_Zappa_2H-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2D",
+    "move": "2D",
+    "damage": "30",
+    "guard": "Low",
+    "invincibility": "10-20F Low Profile",
+    "startup": "11",
+    "active": "6",
+    "recovery": "12",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/b/bc/GGAC_Zappa_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGXXACPR_Zappa_2D-1-Hitbox.png/210px-GGXXACPR_Zappa_2D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGXXACPR_Zappa_2D-2-Hitbox.png/210px-GGXXACPR_Zappa_2D-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.P",
+    "move": "JP",
+    "damage": "13",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "6",
+    "recovery": "9",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/59/GGAC_Zappa_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGXXACPR_Zappa_jP-1-Hitbox.png/210px-GGXXACPR_Zappa_jP-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGXXACPR_Zappa_jP-2-Hitbox.png/210px-GGXXACPR_Zappa_jP-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.K",
+    "move": "JK",
+    "damage": "22",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "11",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGAC_Zappa_jK.png/210px-GGAC_Zappa_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGXXACPR_Zappa_jK-1-Hitbox.png/210px-GGXXACPR_Zappa_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGXXACPR_Zappa_jK-2-Hitbox.png/210px-GGXXACPR_Zappa_jK-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.S",
+    "move": "JS",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3",
+    "recovery": "15",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9a/GGAC_Zappa_jS.png/184px-GGAC_Zappa_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGXXACPR_Zappa_jS-Hitbox.png/167px-GGXXACPR_Zappa_jS-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.H",
+    "move": "JH",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "2(1)2",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/7/79/GGAC_Zappa_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGXXACPR_Zappa_jH-Hitbox.png/210px-GGXXACPR_Zappa_jH-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.D",
+    "move": "JD",
+    "damage": "44",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "18 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGAC_Zappa_jD.png/169px-GGAC_Zappa_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGXXACPR_Zappa_jD-1-Hitbox.png/148px-GGXXACPR_Zappa_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Zappa_jD-2-Hitbox.png/159px-GGXXACPR_Zappa_jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "50",
+    "guard": "45 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGAC_Zappa_throw.png/183px-GGAC_Zappa_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGAC_Zappa_airThrow.png/210px-GGAC_Zappa_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-20F All, 21-31F Throw",
+    "startup": "15",
+    "active": "4",
+    "recovery": "15",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGAC_Zappa_2H.png/210px-GGAC_Zappa_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGACR_Zappa_DAA_Hitbox.png/210px-GGACR_Zappa_DAA_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P",
+    "move": "Hello, Three Centipedes",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "1-13F All, 14-End Throw",
+    "startup": "10",
+    "active": "4",
+    "recovery": "20",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/36/GGAC_Zappa_konnichiwa.png/210px-GGAC_Zappa_konnichiwa.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Zappa_236P_Hitbox.png/210px-GGACR_Zappa_236P_Hitbox.png"
+    ]
+  },
+  {
+    "input": "D[d]",
+    "move": "Awaken Dog",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 30",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGACR_Zappa_AwakenDog.png/210px-GGACR_Zappa_AwakenDog.png"
+    ]
+  },
+  {
+    "input": "5D[d]",
+    "move": "5D[d]",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "1-6F, 48-50F, 54-59F Low Profile",
+    "startup": "16",
+    "active": "8",
+    "recovery": "36 [60]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGAC_Zappa_dog_5D.png/210px-GGAC_Zappa_dog_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/99/GGXXACPR_Zappa_dog_5D-1-Hitbox.png/210px-GGXXACPR_Zappa_dog_5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/14/GGXXACPR_Zappa_dog_5D-2-Hitbox.png/210px-GGXXACPR_Zappa_dog_5D-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6D[d]",
+    "move": "6D[d]",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "1-13F, 34F Onwards Low Profile, 14-33F Feet",
+    "startup": "17",
+    "active": "12",
+    "recovery": "17 [24 after landing]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGAC_Zappa_dog_6D.png/210px-GGAC_Zappa_dog_6D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Zappa_Dog_6D_Hitbox.png/210px-GGACR_Zappa_Dog_6D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "8D[d]",
+    "move": "8D[d]",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "1-4F, 44F Onwards Low Profile, 9-43F Feet",
+    "startup": "10 [Check Dustloop]",
+    "active": "12",
+    "recovery": "31 [24 after landing]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Zappa_dog_8D.png/179px-GGAC_Zappa_dog_8D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGACR_Zappa_Dog_8D_Hitbox_1.png/186px-GGACR_Zappa_Dog_8D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGACR_Zappa_Dog_8D_Hitbox_2.png/200px-GGACR_Zappa_Dog_8D_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "2D[d]",
+    "move": "2D[d]",
+    "damage": "45",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "36",
+    "active": "4",
+    "recovery": "27 [51]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGAC_Zappa_dog_2D-1.png/200px-GGAC_Zappa_dog_2D-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGACR_Zappa_dog_2D-2.png/210px-GGACR_Zappa_dog_2D-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/30/GGACR_Zappa_Dog_2D_Hitbox.png/210px-GGACR_Zappa_Dog_2D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "4D[d]",
+    "move": "4D[d]",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "All",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 59 [24 After Landing]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGAC_Zappa_dog_4D.png/210px-GGAC_Zappa_dog_4D.png"
+    ]
+  },
+  {
+    "input": "4DD[d]",
+    "move": "4DD[d]",
+    "damage": "20",
+    "guard": "High/Air",
+    "invincibility": "1-12F, 37F Onwards Low Profile, 13-36F Above Feet",
+    "startup": "13",
+    "active": "Until Landing",
+    "recovery": "40 [24 After Landing]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/30/GGAC_Zappa_dog_4DD.png/210px-GGAC_Zappa_dog_4DD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGACR_Zappa_Dog_4DD_Hitbox.png/210px-GGACR_Zappa_Dog_4DD_Hitbox.png"
+    ]
+  },
+  {
+    "input": "c.S[t]",
+    "move": "CS[t]",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "2",
+    "recovery": "12",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d1/GGAC_Zappa_ghost_cS.png/175px-GGAC_Zappa_ghost_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGACR_Zappa_Triplets_cS_Hitbox.png/122px-GGACR_Zappa_Triplets_cS_Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S[t]",
+    "move": "FS[t] ",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "7",
+    "recovery": "7",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Zappa_ghost_fS.png/210px-GGAC_Zappa_ghost_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Zappa_Triplets_fS_Hitbox_1.png/210px-GGACR_Zappa_Triplets_fS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGACR_Zappa_Triplets_fS_Hitbox_2.png/210px-GGACR_Zappa_Triplets_fS_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "f.SS[t]",
+    "move": "FSS[t]",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "7",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Zappa_ghost_fS.png/210px-GGAC_Zappa_ghost_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Zappa_Triplets_fS_Hitbox_1.png/210px-GGACR_Zappa_Triplets_fS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGACR_Zappa_Triplets_fS_Hitbox_2.png/210px-GGACR_Zappa_Triplets_fS_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "f.SSS[t]",
+    "move": "FSSS[t]",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "7",
+    "recovery": "11",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Zappa_ghost_fS.png/210px-GGAC_Zappa_ghost_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Zappa_Triplets_fS_Hitbox_1.png/210px-GGACR_Zappa_Triplets_fS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGACR_Zappa_Triplets_fS_Hitbox_2.png/210px-GGACR_Zappa_Triplets_fS_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "5H[t]",
+    "move": "5H[t]",
+    "damage": "25",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "5",
+    "recovery": "13",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_Zappa_ghost_5H.png/210px-GGAC_Zappa_ghost_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGACR_Zappa_Triplets_5H_Hitbox_1.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c7/GGACR_Zappa_Triplets_5H_Hitbox_2.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "5HH[t]",
+    "move": "5HH[t]",
+    "damage": "25",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "5",
+    "recovery": "15",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_Zappa_ghost_5H.png/210px-GGAC_Zappa_ghost_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGACR_Zappa_Triplets_5H_Hitbox_1.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c7/GGACR_Zappa_Triplets_5H_Hitbox_2.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "5HHH[t]",
+    "move": "5HHH[t]",
+    "damage": "25",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "5",
+    "recovery": "17",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_Zappa_ghost_5H.png/210px-GGAC_Zappa_ghost_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGACR_Zappa_Triplets_5H_Hitbox_1.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c7/GGACR_Zappa_Triplets_5H_Hitbox_2.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "6S[t]",
+    "move": "6S[t]",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "6",
+    "recovery": "20",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGAC_Zappa_ghost_6S.png/207px-GGAC_Zappa_ghost_6S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGACR_Zappa_Triplets_6S_Hitbox_1.png/170px-GGACR_Zappa_Triplets_6S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGACR_Zappa_Triplets_6S_Hitbox_2.png/170px-GGACR_Zappa_Triplets_6S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "6SS[t]",
+    "move": "6SS[t]",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "6",
+    "recovery": "22",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGAC_Zappa_ghost_6S.png/207px-GGAC_Zappa_ghost_6S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGACR_Zappa_Triplets_6S_Hitbox_1.png/170px-GGACR_Zappa_Triplets_6S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGACR_Zappa_Triplets_6S_Hitbox_2.png/170px-GGACR_Zappa_Triplets_6S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "6SSS[t]",
+    "move": "6SSS[t]",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "6",
+    "recovery": "24",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGAC_Zappa_ghost_6S.png/207px-GGAC_Zappa_ghost_6S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGACR_Zappa_Triplets_6S_Hitbox_1.png/170px-GGACR_Zappa_Triplets_6S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGACR_Zappa_Triplets_6S_Hitbox_2.png/170px-GGACR_Zappa_Triplets_6S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "6H[t]",
+    "move": "6H[t]",
+    "damage": "30 x 3",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "5(3)5(10)5",
+    "recovery": "8",
+    "block": "+4, -11, -19",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11 x 3",
+    "guard_bar_minus": "6 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGAC_Zappa_ghost_6H.png/210px-GGAC_Zappa_ghost_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGACR_Zappa_Triplets_5H_Hitbox_1.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c7/GGACR_Zappa_Triplets_5H_Hitbox_2.png/202px-GGACR_Zappa_Triplets_5H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "2S[t]",
+    "move": "2S[t]",
+    "damage": "18",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "6",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGAC_Zappa_ghost_2S.png/210px-GGAC_Zappa_ghost_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGACR_Zappa_Triplets_2S_Hitbox_1.png/210px-GGACR_Zappa_Triplets_2S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGACR_Zappa_Triplets_2S_Hitbox_2.png/210px-GGACR_Zappa_Triplets_2S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "2SS[t]",
+    "move": "2SS[t]",
+    "damage": "18",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "8",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGAC_Zappa_ghost_2S.png/210px-GGAC_Zappa_ghost_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGACR_Zappa_Triplets_2S_Hitbox_1.png/210px-GGACR_Zappa_Triplets_2S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGACR_Zappa_Triplets_2S_Hitbox_2.png/210px-GGACR_Zappa_Triplets_2S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "2SSS[t]",
+    "move": "2SSS[t]",
+    "damage": "18",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "10",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGAC_Zappa_ghost_2S.png/210px-GGAC_Zappa_ghost_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGACR_Zappa_Triplets_2S_Hitbox_1.png/210px-GGACR_Zappa_Triplets_2S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGACR_Zappa_Triplets_2S_Hitbox_2.png/210px-GGACR_Zappa_Triplets_2S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "2H[t]",
+    "move": "2H[t]",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "9",
+    "recovery": "14",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Zappa_ghost_2H.png/168px-GGAC_Zappa_ghost_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGACR_Zappa_Triplets_2H_Hitbox_1.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGACR_Zappa_Triplets_2H_Hitbox_2.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGACR_Zappa_Triplets_2H_Hitbox_3.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "2HH[t]",
+    "move": "2HH[t]",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "9",
+    "recovery": "16",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Zappa_ghost_2H.png/168px-GGAC_Zappa_ghost_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGACR_Zappa_Triplets_2H_Hitbox_1.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGACR_Zappa_Triplets_2H_Hitbox_2.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGACR_Zappa_Triplets_2H_Hitbox_3.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "2HHH[t]",
+    "move": "2HHH[t]",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "9",
+    "recovery": "18",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Zappa_ghost_2H.png/168px-GGAC_Zappa_ghost_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGACR_Zappa_Triplets_2H_Hitbox_1.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGACR_Zappa_Triplets_2H_Hitbox_2.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGACR_Zappa_Triplets_2H_Hitbox_3.png/178px-GGACR_Zappa_Triplets_2H_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "JS[t]",
+    "move": "j.S[t]",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "25",
+    "active": "5",
+    "recovery": "25",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGAC_Zappa_ghost_jS.png/192px-GGAC_Zappa_ghost_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGACR_Zappa_Triplets_jS_Hitbox_1.png/205px-GGACR_Zappa_Triplets_jS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGACR_Zappa_Triplets_jS_Hitbox_2.png/205px-GGACR_Zappa_Triplets_jS_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "J2S",
+    "move": "j.2S",
+    "damage": "18",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGAC_Zappa_ghost_j2S.png/135px-GGAC_Zappa_ghost_j2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/08/GGACR_Zappa_Triplets_j2S_Hitbox_1.png/170px-GGACR_Zappa_Triplets_j2S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/36/GGACR_Zappa_Triplets_j2S_Hitbox_2.png/170px-GGACR_Zappa_Triplets_j2S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "j.H[t]",
+    "move": "JH[t]",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "9",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGAC_Zappa_ghost_jH.png/210px-GGAC_Zappa_ghost_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Zappa_Triplets_jH_Hitbox_1.png/153px-GGACR_Zappa_Triplets_jH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGACR_Zappa_Triplets_jH_Hitbox_2.png/153px-GGACR_Zappa_Triplets_jH_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGACR_Zappa_Triplets_jH_Hitbox_3.png/153px-GGACR_Zappa_Triplets_jH_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "236P[t]",
+    "move": "Please Don't Come Back P",
+    "damage": "16",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "Check Dustloop",
+    "recovery": "Total 39",
+    "block": "N/A",
+    "frc_window": "10-11F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/70/GGAC_Zappa_SonoMama.png/210px-GGAC_Zappa_SonoMama.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Zappa_Triplets_236X_Hitbox.png/188px-GGACR_Zappa_Triplets_236X_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236K/S/H[t]",
+    "move": "Please Don't Come Back K/S/H",
+    "damage": "16",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "Check Dustloop",
+    "recovery": "Total 39",
+    "block": "-6",
+    "frc_window": "10-11F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/70/GGAC_Zappa_SonoMama.png/210px-GGAC_Zappa_SonoMama.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Zappa_Triplets_236X_Hitbox.png/188px-GGACR_Zappa_Triplets_236X_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236D[t]",
+    "move": "Please Don't Come Back D",
+    "damage": "16 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "Check Dustloop",
+    "recovery": "Total 52",
+    "block": "Check Dustloop",
+    "frc_window": "10-11F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGAC_Zappa_SonoMamaD.png/210px-GGAC_Zappa_SonoMamaD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Zappa_Triplets_236X_Hitbox.png/188px-GGACR_Zappa_Triplets_236X_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Automatic While Haunting Banana",
+    "move": "Curse Items Banana",
+    "damage": "0",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "99",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "5",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGAC_Zappa_banana.png/210px-GGAC_Zappa_banana.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/62/GGACR_Zappa_Triplet_Items_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Automatic While Haunting Golf Ball",
+    "move": "Curse Items Golf Ball",
+    "damage": "30",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "38",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGAC_Zappa_golfball.png/210px-GGAC_Zappa_golfball.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/62/GGACR_Zappa_Triplet_Items_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Automatic While Haunting Potted Plant",
+    "move": "Curse Items Potted Plant",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "29",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/1/1d/GGAC_Zappa_hachiue.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/62/GGACR_Zappa_Triplet_Items_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214P[t]",
+    "move": "I Was Lonely After All...",
+    "damage": "N/A",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 32",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGAC_Zappa_RecallTriplets.png/210px-GGAC_Zappa_RecallTriplets.png"
+    ]
+  },
+  {
+    "input": "c.S[s]",
+    "move": "CS[s]",
+    "damage": "36",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "14",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGAC_Zappa_sword_cS.png/159px-GGAC_Zappa_sword_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGACR_Zappa_Sword_cS_Hitbox_1.png/210px-GGACR_Zappa_Sword_cS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGACR_Zappa_Sword_cS_Hitbox_2.png/210px-GGACR_Zappa_Sword_cS_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "f.S[s]",
+    "move": "FS[s]",
+    "damage": "30",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "2",
+    "recovery": "19",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGAC_Zappa_sword_cS.png/159px-GGAC_Zappa_sword_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGACR_Zappa_Sword_cS_Hitbox_1.png/210px-GGACR_Zappa_Sword_cS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGACR_Zappa_Sword_cS_Hitbox_2.png/210px-GGACR_Zappa_Sword_cS_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "5H[s]",
+    "move": "5H[s]",
+    "damage": "30 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "2(10)3",
+    "recovery": "16",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGAC_Zappa_sword_5H.png/210px-GGAC_Zappa_sword_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGACR_Zappa_Sword_5H_Hitbox_1.png/210px-GGACR_Zappa_Sword_5H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/75/GGACR_Zappa_Sword_5H_Hitbox_2.png/210px-GGACR_Zappa_Sword_5H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "6H[s]",
+    "move": "6H[s]",
+    "damage": "29, 15",
+    "guard": "High/Air-All, Low/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "24, 6",
+    "recovery": "2",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6, 7",
+    "level": "4, 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGAC_Zappa_sword_6H.png/210px-GGAC_Zappa_sword_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGACR_Zappa_Sword_6H_Hitbox_1.png/210px-GGACR_Zappa_Sword_6H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/51/GGACR_Zappa_Sword_6H_Hitbox_2.png/210px-GGACR_Zappa_Sword_6H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGACR_Zappa_Sword_6H_Hitbox_3.png/210px-GGACR_Zappa_Sword_6H_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "2S[s]",
+    "move": "2S[s]",
+    "damage": "22",
+    "guard": "Low/Air[All]",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3",
+    "recovery": "15",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGAC_Zappa_sword_2S.png/210px-GGAC_Zappa_sword_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGACR_Zappa_Sword_2S_Hitbox.png/210px-GGACR_Zappa_Sword_2S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "2H[s]",
+    "move": "2H[s]",
+    "damage": "30 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "14, 8",
+    "recovery": "9",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGAC_Zappa_sword_2H.png/205px-GGAC_Zappa_sword_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e2/GGACR_Zappa_Sword_2H_Hitbox.png/139px-GGACR_Zappa_Sword_2H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.S[s]",
+    "move": "JS[s]",
+    "damage": "26",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "3",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGAC_Zappa_sword_jS.png/210px-GGAC_Zappa_sword_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGACR_Zappa_Sword_jS_Hitbox.png/210px-GGACR_Zappa_Sword_jS_Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.H[s]",
+    "move": "JH[s]",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "9",
+    "recovery": "15",
+    "block": "N/A",
+    "frc_window": "9-11F",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGAC_Zappa_sword_jH.png/181px-GGAC_Zappa_sword_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGACR_Zappa_Sword_jH_Hitbox_1.png/178px-GGACR_Zappa_Sword_jH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGACR_Zappa_Sword_jH_Hitbox_2.png/178px-GGACR_Zappa_Sword_jH_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/03/GGACR_Zappa_Sword_jH_Hitbox_3.png/178px-GGACR_Zappa_Sword_jH_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "236S[s]",
+    "move": "This Has Gotta Hurt",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "16",
+    "recovery": "13",
+    "block": "-12",
+    "frc_window": "1-3F Of Recovery After Hit Or Block",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/36/GGAC_Zappa_itasou.png/210px-GGAC_Zappa_itasou.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGAC_Zappa_itasou_H.png/210px-GGAC_Zappa_itasou_H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGACR_Zappa_Sword_236S_Hitbox_1.png/210px-GGACR_Zappa_Sword_236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ef/GGACR_Zappa_Sword_236S_Hitbox_2.png/210px-GGACR_Zappa_Sword_236S_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236S > H[s]",
+    "move": "This Has Gotta Hurt Followup",
+    "damage": "20",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "12",
+    "recovery": "26",
+    "block": "-24",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGAC_Zappa_itasou_H.png/210px-GGAC_Zappa_itasou_H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGACR_Zappa_Sword_236SH_Hitbox_1.png/210px-GGACR_Zappa_Sword_236SH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/77/GGACR_Zappa_Sword_236SH_Hitbox_2.png/210px-GGACR_Zappa_Sword_236SH_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGACR_Zappa_Sword_236SH_Hitbox_3.png/210px-GGACR_Zappa_Sword_236SH_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGACR_Zappa_Sword_236SH_Hitbox_4.png/210px-GGACR_Zappa_Sword_236SH_Hitbox_4.png"
+    ]
+  },
+  {
+    "input": "623H[s]",
+    "move": "Please Fall",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "1-12F Upper Body Throw",
+    "startup": "10",
+    "active": "9",
+    "recovery": "29",
+    "block": "-21",
+    "frc_window": "13-16F",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b6/GGAC_Zappa_ochitoite.png/151px-GGAC_Zappa_ochitoite.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGACR_Zappa_Sword_623H_Hitbox.png/166px-GGACR_Zappa_Sword_623H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "63214H[s]",
+    "move": "Come Close, and I'll Kill You",
+    "damage": "30",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "17",
+    "active": "4",
+    "recovery": "16",
+    "block": "-3",
+    "frc_window": "17-20F",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e9/GGAC_Zappa_63214H.png/210px-GGAC_Zappa_63214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGACR_Zappa_Sword_63214H_Hitbox_1.png/210px-GGACR_Zappa_Sword_63214H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGACR_Zappa_Sword_63214H_Hitbox_2.png/210px-GGACR_Zappa_Sword_63214H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "j.236H[s]",
+    "move": "Coming Through",
+    "damage": "24 x N",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "Until Landing",
+    "recovery": "23 After Landing",
+    "block": "N/A",
+    "frc_window": "1-2F After Landing",
+    "proration": "N/A",
+    "guard_bar_plus": "6 x N",
+    "guard_bar_minus": "4 x N",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGAC_Zappa_hai.png/210px-GGAC_Zappa_hai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGACR_Zappa_Sword_j236H_Hitbox_1.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGACR_Zappa_Sword_j236H_Hitbox_2.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGACR_Zappa_Sword_j236H_Hitbox_3.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGACR_Zappa_Sword_j236H_Hitbox_4.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4b/GGACR_Zappa_Sword_j236H_Hitbox_5.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGACR_Zappa_Sword_j236H_Hitbox_6.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGACR_Zappa_Sword_j236H_Hitbox_7.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_7.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGACR_Zappa_Sword_j236H_Hitbox_8.png/210px-GGACR_Zappa_Sword_j236H_Hitbox_8.png"
+    ]
+  },
+  {
+    "input": "c.S[r]",
+    "move": "CS[r]",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "11",
+    "recovery": "0",
+    "block": "+6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGAC_Zappa_raoh_cS.png/210px-GGAC_Zappa_raoh_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/63/GGXXACPR_Zappa_Raoh_cS-1-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e2/GGXXACPR_Zappa_Raoh_cS-2-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_cS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S[r]",
+    "move": "FS[r]",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "16",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGAC_Zappa_raoh_fS.png/210px-GGAC_Zappa_raoh_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGXXACPR_Zappa_Raoh_fS-1-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGXXACPR_Zappa_Raoh_fS-2-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_fS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5H[r]",
+    "move": "5H[r]",
+    "damage": "48",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "9",
+    "recovery": "13",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Zappa_raoh_5H.png/210px-GGAC_Zappa_raoh_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGXXACPR_Zappa_Raoh_5H-1-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3c/GGXXACPR_Zappa_Raoh_5H-2-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_5H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGXXACPR_Zappa_Raoh_5H-3-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_5H-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5D[r]",
+    "move": "5D[r]",
+    "damage": "30",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "24",
+    "active": "5",
+    "recovery": "8",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGAC_Zappa_raoh_5D.png/210px-GGAC_Zappa_raoh_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/18/GGXXACPR_Zappa_Raoh_5D-1-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGXXACPR_Zappa_Raoh_5D-2-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_5D-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H[r]",
+    "move": "6H[r]",
+    "damage": "76",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "17",
+    "active": "6",
+    "recovery": "24",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/39/GGAC_Zappa_raoh_6H.png/210px-GGAC_Zappa_raoh_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGXXACPR_Zappa_Raoh_6H-1-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGXXACPR_Zappa_Raoh_6H-2-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_6H-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2S[r]",
+    "move": "2S[r]",
+    "damage": "36",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "3",
+    "recovery": "11",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGAC_Zappa_raoh_2S.png/210px-GGAC_Zappa_raoh_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGXXACPR_Zappa_Raoh_2S-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_2S-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2H[r]",
+    "move": "2H[r]",
+    "damage": "68",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "19",
+    "active": "8",
+    "recovery": "12",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGAC_Zappa_raoh_2H.png/194px-GGAC_Zappa_raoh_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGXXACPR_Zappa_Raoh_2H-1-Hitbox.png/205px-GGXXACPR_Zappa_Raoh_2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGXXACPR_Zappa_Raoh_2H-2-Hitbox.png/203px-GGXXACPR_Zappa_Raoh_2H-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "JS[r]",
+    "move": "j.S[r]",
+    "damage": "35",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "3",
+    "recovery": "15",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_Zappa_raoh_jS.png/210px-GGAC_Zappa_raoh_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGXXACPR_Zappa_Raoh_jS-Hitbox.png/210px-GGXXACPR_Zappa_Raoh_jS-Hitbox.png"
+    ]
+  },
+  {
+    "input": "JH[r]",
+    "move": "j.H[r]",
+    "damage": "45",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "6",
+    "recovery": "13",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGAC_Zappa_raoh_jH.png/210px-GGAC_Zappa_raoh_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGXXACPR_Zappa_Raoh-jH-1-Hitbox.png/210px-GGXXACPR_Zappa_Raoh-jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGXXACPR_Zappa_Raoh-jH-2-Hitbox.png/210px-GGXXACPR_Zappa_Raoh-jH-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "236S[r]",
+    "move": "Darkness Anthem",
+    "damage": "35 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "25",
+    "active": "18",
+    "recovery": "8",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGAC_Zappa_darkness.png/210px-GGAC_Zappa_darkness.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_Zappa_Raoh_236S_Hitbox.png/210px-GGACR_Zappa_Raoh_236S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.236S[r]",
+    "move": "Darkness Anthem Air",
+    "damage": "35 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "25",
+    "active": "18",
+    "recovery": "8",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGAC_Zappa_darkness.png/210px-GGAC_Zappa_darkness.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_Zappa_Raoh_236S_Hitbox.png/210px-GGACR_Zappa_Raoh_236S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236S[r] > P/K/S/H or j.236S[r] > P/K/S/H",
+    "move": "Darkness Anthem Followup",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "34(2)20",
+    "recovery": "Total 38",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGAC_Zappa_darknessFollowup.png/210px-GGAC_Zappa_darknessFollowup.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b7/GGACR_Zappa_Raoh_236SX_Hitbox.png/201px-GGACR_Zappa_Raoh_236SX_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214S[r]",
+    "move": "Last Edguy",
+    "damage": "80",
+    "guard": "Mid",
+    "invincibility": "1-4F All, 5-7F Strike",
+    "startup": "4",
+    "active": "12",
+    "recovery": "37",
+    "block": "-30",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Zappa_edogai.png/157px-GGAC_Zappa_edogai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGACR_Zappa_Raoh_214S_Hitbox_1.png/210px-GGACR_Zappa_Raoh_214S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGACR_Zappa_Raoh_214S_Hitbox_2.png/210px-GGACR_Zappa_Raoh_214S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGACR_Zappa_Raoh_214S_Hitbox_3.png/152px-GGACR_Zappa_Raoh_214S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3c/GGACR_Zappa_Raoh_214S_Hitbox_4.png/154px-GGACR_Zappa_Raoh_214S_Hitbox_4.png"
+    ]
+  },
+  {
+    "input": "j.214S[r]",
+    "move": "Last Edguy Air",
+    "damage": "80",
+    "guard": "Mid",
+    "invincibility": "1-4F All, 5-7F Strike",
+    "startup": "4",
+    "active": "12",
+    "recovery": "Until Landing + 3",
+    "block": "-35",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Zappa_edogai.png/157px-GGAC_Zappa_edogai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGACR_Zappa_Raoh_214S_Hitbox_1.png/210px-GGACR_Zappa_Raoh_214S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGACR_Zappa_Raoh_214S_Hitbox_2.png/210px-GGACR_Zappa_Raoh_214S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGACR_Zappa_Raoh_214S_Hitbox_3.png/152px-GGACR_Zappa_Raoh_214S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3c/GGACR_Zappa_Raoh_214S_Hitbox_4.png/154px-GGACR_Zappa_Raoh_214S_Hitbox_4.png"
+    ]
+  },
+  {
+    "input": "214D",
+    "move": "Etiquette Starts Here",
+    "damage": "30",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "5",
+    "recovery": "11",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/22/GGAC_Zappa_regaishou.png/204px-GGAC_Zappa_regaishou.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGACR_Zappa_214D_Hitbox_1.png/188px-GGACR_Zappa_214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGACR_Zappa_214D_Hitbox_2.png/210px-GGACR_Zappa_214D_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "632146H",
+    "move": "Birth!!",
+    "damage": "40 x 4",
+    "guard": "Mid",
+    "invincibility": "1-19F All, 20-21F Strike",
+    "startup": "1 + 11",
+    "active": "8",
+    "recovery": "30",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 4",
+    "guard_bar_minus": "6 x 4",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGAC_Zappa_632146H.png/210px-GGAC_Zappa_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Zappa_632146H-1_Hitbox.png/210px-GGACR_Zappa_632146H-1_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGACR_Zappa_632146H-2_Hitbox.png/210px-GGACR_Zappa_632146H-2_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146S[r]",
+    "move": "Birth!!",
+    "damage": "40 x 10",
+    "guard": "Mid",
+    "invincibility": "1-5F All",
+    "startup": "5 + 10",
+    "active": "27",
+    "recovery": "Total 37",
+    "block": "+13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 10",
+    "guard_bar_minus": "6 x 10",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGAC_Zappa_632146S.png/210px-GGAC_Zappa_632146S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGACR_Zappa_Raoh_632146S_Hitbox.png/210px-GGACR_Zappa_Raoh_632146S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236236H",
+    "move": "I'm Scared...",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "4-5F strike",
+    "startup": "4 + 2",
+    "active": "33",
+    "recovery": "11",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Zappa_IK1.png/135px-GGAC_Zappa_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Zappa_IK2.png/210px-GGAC_Zappa_IK2.png"
+    ]
+  }
+]

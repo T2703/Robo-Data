@@ -1,0 +1,18 @@
+[
+    {
+        "damage_received_mod": "1.06x",
+        "guts_rating": "3/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1.1x",
+        "stun_resistance": "65",
+        "prejump": "3F",
+        "backdash": "13F (1-7F Strike Invuln)",
+        "wakeup_timing": "28F (Face Up) / 25F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "images": [
+            "https://www.dustloop.com/wiki/images/6/64/GGAC_Jam_Portrait.png"
+        ]
+    }
+]

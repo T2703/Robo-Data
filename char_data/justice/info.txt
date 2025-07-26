@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "1.03x",
+        "guts_rating": "5/5",
+        "guard_bar_gain_mod": "0.86x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1.05x",
+        "stun_resistance": "70",
+        "prejump": "3F",
+        "backdash": "24F (1-19F Strike Invuln)",
+        "wakeup_timing": "25F (Face Up) / 20F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "0",
+        "unique_movement": "Omega Shift",
+        "images": [
+            "https://www.dustloop.com/wiki/images/4/41/GGAC_Justice_Portrait.png"
+        ]
+    }
+]

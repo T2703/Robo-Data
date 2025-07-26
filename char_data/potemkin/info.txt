@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "0.87x",
+        "guts_rating": "4/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/4F",
+        "gravity_mod": "0.94x",
+        "stun_resistance": "80",
+        "prejump": "5F",
+        "backdash": "21F (1-20F Strike Invuln)",
+        "wakeup_timing": "24F (Face Up) / 22F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "0",
+        "unique_movement": "No Run, No Airdash, Hammer Fall",
+        "images": [
+            "https://www.dustloop.com/wiki/images/7/78/GGAC_Potemkin_Portrait.png"
+        ]
+    }
+]

@@ -1,0 +1,1116 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "9",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "7",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGAC_Testament_5P.png/164px-GGAC_Testament_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGXXACPR_Testament_5P-Hitbox.png/170px-GGXXACPR_Testament_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "18",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "12",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGAC_Testament_5K.png/210px-GGAC_Testament_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGXXACPR_Testament_5K-Hitbox.png/210px-GGXXACPR_Testament_5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "15",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_Testament_cS.png/147px-GGAC_Testament_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGXXACPR_Testament_cS-1-Hitbox.png/160px-GGXXACPR_Testament_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Testament_cS-2-Hitbox.png/178px-GGXXACPR_Testament_cS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGXXACPR_Testament_cS-3-Hitbox.png/179px-GGXXACPR_Testament_cS-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "6",
+    "recovery": "13",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a2/GGAC_Testament_fS.png/210px-GGAC_Testament_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGXXACPR_Testament_fS-1-Hitbox.png/210px-GGXXACPR_Testament_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGXXACPR_Testament_fS-2-Hitbox.png/210px-GGXXACPR_Testament_fS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/81/GGXXACPR_Testament_fS-3-Hitbox.png/210px-GGXXACPR_Testament_fS-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5H",
+    "move": "5H",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "4",
+    "recovery": "18",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGAC_Testament_5H.png/210px-GGAC_Testament_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Testament_5H-Hitbox.png/210px-GGXXACPR_Testament_5H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D",
+    "move": "5D",
+    "damage": "15",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "31",
+    "active": "6",
+    "recovery": "18",
+    "block": "+3",
+    "frc_window": "17-18F",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5e/GGAC_Testament_5D.png/210px-GGAC_Testament_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d7/GGACR_Testament_5D_Hitbox_1.png/210px-GGACR_Testament_5D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/50/GGACR_Testament_5D_Hitbox_2.png/210px-GGACR_Testament_5D_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "6P",
+    "move": "6P",
+    "damage": "24",
+    "guard": "High",
+    "invincibility": "1-5F Upper Body, 6-19F Above Knees",
+    "startup": "17",
+    "active": "3",
+    "recovery": "26",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_Testament_6P.png/210px-GGAC_Testament_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Testament_6P-Hitbox.png/210px-GGXXACPR_Testament_6P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6K",
+    "move": "6K",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "6",
+    "recovery": "23",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5e/GGAC_Testament_6K.png/170px-GGAC_Testament_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGXXACPR_Testament_6K-1-Hitbox.png/191px-GGXXACPR_Testament_6K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGXXACPR_Testament_6K-2-Hitbox.png/180px-GGXXACPR_Testament_6K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGXXACPR_Testament_6K-3-Hitbox.png/181px-GGXXACPR_Testament_6K-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6H",
+    "move": "6H",
+    "damage": "55",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "6",
+    "recovery": "28",
+    "block": "-15",
+    "frc_window": "17-21F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_Testament_6H.png/192px-GGAC_Testament_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGXXACPR_Testament_6H-1-Hitbox.png/184px-GGXXACPR_Testament_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGXXACPR_Testament_6H-2-Hitbox.png/196px-GGXXACPR_Testament_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/11/GGXXACPR_Testament_6H-3-Hitbox.png/197px-GGXXACPR_Testament_6H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "3H",
+    "move": "3H",
+    "damage": "15 x 4",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "2, 2, (2), 2, 2",
+    "recovery": "17",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 4",
+    "guard_bar_minus": "5 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGACR_Testament_3H.png/210px-GGACR_Testament_3H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGXXACPR_Testament_3H-1-Hitbox.png/210px-GGXXACPR_Testament_3H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGXXACPR_Testament_3H-2-Hitbox.png/210px-GGXXACPR_Testament_3H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGXXACPR_Testament_3H-3-Hitbox.png/210px-GGXXACPR_Testament_3H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e8/GGXXACPR_Testament_3H-4-Hitbox.png/210px-GGXXACPR_Testament_3H-4-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "12",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a8/GGAC_Testament_2P.png/210px-GGAC_Testament_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0b/GGXXACPR_Testament_2P-Hitbox.png/210px-GGXXACPR_Testament_2P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "4",
+    "recovery": "11",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGAC_Testament_2K.png/210px-GGAC_Testament_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGXXACPR_Testament_2K-Hitbox.png/210px-GGXXACPR_Testament_2K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2S",
+    "move": "2S",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "6",
+    "recovery": "16",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bf/GGAC_Testament_2S.png/210px-GGAC_Testament_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGXXACPR_Testament_2S-1-Hitbox.png/210px-GGXXACPR_Testament_2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGXXACPR_Testament_2S-2-Hitbox.png/210px-GGXXACPR_Testament_2S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2H",
+    "move": "2H",
+    "damage": "38",
+    "guard": "Mid",
+    "invincibility": "6-12F Strike",
+    "startup": "16",
+    "active": "3",
+    "recovery": "20",
+    "block": "-4",
+    "frc_window": "14-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Testament_2H.png/210px-GGAC_Testament_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/65/GGXXACPR_Testament_2H-Hitbox.png/210px-GGXXACPR_Testament_2H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2D",
+    "move": "2D",
+    "damage": "38",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "3",
+    "recovery": "30",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "4",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGAC_Testament_2D.png/210px-GGAC_Testament_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4c/GGXXACPR_Testament_2D-Hitbox.png/210px-GGXXACPR_Testament_2D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.P",
+    "move": "JP",
+    "damage": "10",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGAC_Testament_jP.png/210px-GGAC_Testament_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGXXACPR_Testament_jP-1-Hitbox.png/165px-GGXXACPR_Testament_jP-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGXXACPR_Testament_jP-2-Hitbox.png/169px-GGXXACPR_Testament_jP-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.K",
+    "move": "JK",
+    "damage": "18",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "5",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Testament_jK.png/210px-GGAC_Testament_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/11/GGXXACPR_Testament_jK-Hitbox.png/209px-GGXXACPR_Testament_jK-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.S",
+    "move": "JS",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "3",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGAC_Testament_jS.png/210px-GGAC_Testament_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGXXACPR_Testament_jS-Hitbox.png/210px-GGXXACPR_Testament_jS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.H",
+    "move": "JH",
+    "damage": "34",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "5",
+    "recovery": "15",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1e/GGAC_Testament_jH.png/171px-GGAC_Testament_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ac/GGXXACPR_Testament_jH-1-Hitbox.png/191px-GGXXACPR_Testament_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGXXACPR_Testament_jH-2-Hitbox.png/191px-GGXXACPR_Testament_jH-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.D",
+    "move": "JD",
+    "damage": "44",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "6",
+    "recovery": "20 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/52/GGAC_Testament_jD.png/210px-GGAC_Testament_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ee/GGXXACPR_Testament_jD-1-Hitbox.png/210px-GGXXACPR_Testament_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGXXACPR_Testament_jD-2-Hitbox.png/210px-GGXXACPR_Testament_jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "60",
+    "guard": "45 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/03/GGAC_Testament_throw.png/158px-GGAC_Testament_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1e/GGAC_Testament_airThrow.png/210px-GGAC_Testament_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-18F All, 19-30F Above Knees, Throw, 31-33F Upper Body",
+    "startup": "13",
+    "active": "3",
+    "recovery": "18",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_Testament_6P.png/210px-GGAC_Testament_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGXXACPR_Testament_6P-Hitbox.png/210px-GGXXACPR_Testament_6P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236P",
+    "move": "Phantom Soul P",
+    "damage": "5",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "30",
+    "active": "120",
+    "recovery": "Total 58",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5d/GGAC_Testament_236P.png/205px-GGAC_Testament_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/b4/GGACR_Testament_236P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K",
+    "move": "Phantom Soul K",
+    "damage": "5",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "31",
+    "active": "150",
+    "recovery": "Total 47",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5d/GGAC_Testament_236P.png/205px-GGAC_Testament_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/b4/GGACR_Testament_236P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "Automatic After Curse Tackle",
+    "move": "Tackle",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "35",
+    "active": "24",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGACR_Testament_crowAttacks.png/106px-GGACR_Testament_crowAttacks.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/ba/GGACR_Testament_Curse_Hitbox_1.png"
+    ]
+  },
+  {   
+    "input": "Automatic After Curse Dive",
+    "move": "Dive",
+    "damage": "20",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "35",
+    "active": "32",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGACR_Testament_crowAttacks.png/106px-GGACR_Testament_crowAttacks.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/76/GGACR_Testament_Curse_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "Automatic After Curse Feathers",
+    "move": "Feathers",
+    "damage": "5 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "26",
+    "active": "51",
+    "recovery": "Total 42",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGACR_Testament_crowAttacks.png/106px-GGACR_Testament_crowAttacks.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Testament_Curse_Hitbox_4.png/56px-GGACR_Testament_Curse_Hitbox_4.png"
+    ]
+  },
+  {   
+    "input": "Automatic After Curse Overhead",
+    "move": "Overhead",
+    "damage": "30",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "(1-47) + 29",
+    "active": "8",
+    "recovery": "14",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGACR_Testament_crowAttacks.png/106px-GGACR_Testament_crowAttacks.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Testament_Curse_Hitbox_4.png/56px-GGACR_Testament_Curse_Hitbox_4.png"
+    ]
+  },
+  {   
+    "input": "214P",
+    "move": "Badlands",
+    "damage": "26 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "17",
+    "active": "3(6)2",
+    "recovery": "13 + 15 After Landing",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "10 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGAC_Testament_214P.png/210px-GGAC_Testament_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4c/GGACR_Testament_214P_Hitbox_1.png/180px-GGACR_Testament_214P_Hitbox_1.pngs",
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGACR_Testament_214P_Hitbox_2.png/210px-GGACR_Testament_214P_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "j.214P",
+    "move": "Air Badlands",
+    "damage": "24 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "3(6)2",
+    "recovery": "Until Landing + 12",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "10 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGAC_Testament_214P.png/210px-GGAC_Testament_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4c/GGACR_Testament_214P_Hitbox_1.png/180px-GGACR_Testament_214P_Hitbox_1.pngs",
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGACR_Testament_214P_Hitbox_2.png/210px-GGACR_Testament_214P_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "41236S",
+    "move": "EXE Beast S",
+    "damage": "36",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "22-81 + 6",
+    "active": "20",
+    "recovery": "Total 38",
+    "block": "+16",
+    "frc_window": "13-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGAC_Testament_41236S.png/210px-GGAC_Testament_41236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGACR_Testament_41236H_Hitbox.png/210px-GGACR_Testament_41236H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "41236H",
+    "move": "EXE Beast H",
+    "damage": "30",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "23-82 + 6",
+    "active": "16",
+    "recovery": "Total 40",
+    "block": "+22",
+    "frc_window": "13-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGAC_Testament_41236S.png/210px-GGAC_Testament_41236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGACR_Testament_41236H_Hitbox.png/210px-GGACR_Testament_41236H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214K",
+    "move": "Warrant",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "2-19F Guard Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 52",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0b/GGAC_Testament_214K.png/141px-GGAC_Testament_214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGACR_Testament_214K_Hitbox_1.png/139px-GGACR_Testament_214K_Hitbox_1.png"
+    ]
+  },
+  {   
+    "input": "214K Attack",
+    "move": "Warrant Attack",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "1-32F Strike",
+    "startup": "24",
+    "active": "15",
+    "recovery": "19",
+    "block": "-20",
+    "frc_window": "33=35F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c9/GGAC_Testament_214K_Attack.png/133px-GGAC_Testament_214K_Attack.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d1/GGACR_Testament_214K_Hitbox_2.png/151px-GGACR_Testament_214K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGACR_Testament_214K_Hitbox_3.png/157px-GGACR_Testament_214K_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7e/GGACR_Testament_214K_Hitbox_4.png/120px-GGACR_Testament_214K_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGACR_Testament_214K_Hitbox_5.png/130px-GGACR_Testament_214K_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGACR_Testament_214K_Hitbox_6.png/142px-GGACR_Testament_214K_Hitbox_6.png"
+    ]
+  },
+  {   
+    "input": "22P/K",
+    "move": "Lucht Warrant",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "15-16F Lower Body",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 42",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGAC_Testament_22P.png/210px-GGAC_Testament_22P.png"
+    ]
+  },
+  {   
+    "input": "214S",
+    "move": "HITOMI",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "1-2F Strike",
+    "startup": "Check Dustloop",
+    "active": "4",
+    "recovery": "Total 27",
+    "block": "N/A",
+    "frc_window": "16-18F",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGAC_Testament_214S.png/154px-GGAC_Testament_214S.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c8/GGAC_Testament_tree.png/162px-GGAC_Testament_tree.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGACR_Testament_214S_Hitbox.png/203px-GGACR_Testament_214S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214S Powered Up",
+    "move": "HITOMI Powered Up",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "1-2F Strike",
+    "startup": "Check Dustloop",
+    "active": "3",
+    "recovery": "Total 24",
+    "block": "N/A",
+    "frc_window": "16-18F",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGAC_Testament_214S.png/154px-GGAC_Testament_214S.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c8/GGAC_Testament_tree.png/162px-GGAC_Testament_tree.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGACR_Testament_214SDoll_Hitbox.png/203px-GGACR_Testament_214SDoll_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214H",
+    "move": "Zeinest",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "601",
+    "recovery": "Total 29",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "15",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGAC_Testament_214H.png/210px-GGAC_Testament_214H.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_Testament_web.png/208px-GGAC_Testament_web.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_Testament_214H_Hitbox.png/208px-GGACR_Testament_214H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214H",
+    "move": "Air Zeinest",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "601",
+    "recovery": "Total 28",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "15",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/34/GGAC_Testament_j214H.png/210px-GGAC_Testament_j214H.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_Testament_web.png/208px-GGAC_Testament_web.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_Testament_214H_Hitbox.png/208px-GGACR_Testament_214H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214H Powered Up",
+    "move": "Zeinest Powered Up",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "421",
+    "recovery": "Total 29",
+    "block": "+12",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "15",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGAC_Testament_214H.png/210px-GGAC_Testament_214H.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_Testament_web.png/208px-GGAC_Testament_web.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_Testament_214H_Hitbox.png/208px-GGACR_Testament_214H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214H Powered Up",
+    "move": "Air Zeinest Powered Up",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "421",
+    "recovery": "Total 26",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "15",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/34/GGAC_Testament_j214H.png/210px-GGAC_Testament_j214H.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_Testament_web.png/208px-GGAC_Testament_web.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_Testament_214H_Hitbox.png/208px-GGACR_Testament_214H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214D",
+    "move": "Grave Digger",
+    "damage": "58",
+    "guard": "All",
+    "invincibility": "3-11F Strike",
+    "startup": "14",
+    "active": "6",
+    "recovery": "16 + 3 After Landing",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "9",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGAC_Testament_214D.png/210px-GGAC_Testament_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/50/GGACR_Testament_214D_Hitbox_1.png/210px-GGACR_Testament_214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Testament_214D_Hitbox_2.png/210px-GGACR_Testament_214D_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "j.214D",
+    "move": "Air Grave Digger",
+    "damage": "58",
+    "guard": "All",
+    "invincibility": "1-9F Strike",
+    "startup": "12",
+    "active": "6",
+    "recovery": "Until Landing + 3",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/62/GGAC_Testament_214D.png/210px-GGAC_Testament_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/50/GGACR_Testament_214D_Hitbox_1.png/210px-GGACR_Testament_214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Testament_214D_Hitbox_2.png/210px-GGACR_Testament_214D_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "236D",
+    "move": "FB Phantom Soul",
+    "damage": "5",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "80",
+    "active": "180",
+    "recovery": "Total 35",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGACR_Testament_236D.png/210px-GGACR_Testament_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/b/b4/GGACR_Testament_236P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "632146H",
+    "move": "Nightmare Circular H",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "1-7F All",
+    "startup": "8 + 5",
+    "active": "16",
+    "recovery": "9",
+    "block": "+9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "15",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Testament_632146H.png/210px-GGAC_Testament_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGACR_Testament_632146H_Hitbox_1.png/210px-GGACR_Testament_632146H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/83/GGACR_Testament_632146H_Hitbox_2.png/210px-GGACR_Testament_632146H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGACR_Testament_632146H_Hitbox_3.png/210px-GGACR_Testament_632146H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Testament_632146H_Hitbox_4.png/210px-GGACR_Testament_632146H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGACR_Testament_632146H_Hitbox_5.png/210px-GGACR_Testament_632146H_Hitbox_5.png"
+    ]
+  },
+  {   
+    "input": "632146S",
+    "move": "Nightmare Circular S",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "1-9F All",
+    "startup": "10 + 226",
+    "active": "16",
+    "recovery": "Total 22",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "15",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Testament_632146H.png/210px-GGAC_Testament_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGACR_Testament_632146H_Hitbox_1.png/210px-GGACR_Testament_632146H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/83/GGACR_Testament_632146H_Hitbox_2.png/210px-GGACR_Testament_632146H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGACR_Testament_632146H_Hitbox_3.png/210px-GGACR_Testament_632146H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Testament_632146H_Hitbox_4.png/210px-GGACR_Testament_632146H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGACR_Testament_632146H_Hitbox_5.png/210px-GGACR_Testament_632146H_Hitbox_5.png"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Master Of Puppets",
+    "damage": "30 x 2",
+    "guard": "Mid",
+    "invincibility": "7-12F Strike",
+    "startup": "7 + 4",
+    "active": "6(12)2",
+    "recovery": "41",
+    "block": "-24",
+    "frc_window": "17-21F",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "3, 20",
+    "guard_bar_minus": "8, 6",
+    "level": "1, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGAC_Testament_236236H.png/210px-GGAC_Testament_236236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/26/GGACR_Testament_236236H_Hitbox_1.png/210px-GGACR_Testament_236236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGACR_Testament_236236H_Hitbox_2.png/210px-GGACR_Testament_236236H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGACR_Testament_236236H_Hitbox_3.png/210px-GGACR_Testament_236236H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_Testament_236236H_Hitbox_4.png/210px-GGACR_Testament_236236H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGACR_Testament_236236H_Hitbox_5.png/210px-GGACR_Testament_236236H_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b8/GGACR_Testament_236236H_Hitbox_6.png/210px-GGACR_Testament_236236H_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d2/GGACR_Testament_236236H_Hitbox_7.png/210px-GGACR_Testament_236236H_Hitbox_7.png"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Seventh Sign",
+    "damage": "Fatal",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "28 + 4",
+    "active": "3",
+    "recovery": "60",
+    "block": "-44",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGAC_Testament_IK1.png/210px-GGAC_Testament_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGAC_Testament_IK2.png/210px-GGAC_Testament_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3f/GGACR_Testament_IK_Hitbox.png/210px-GGACR_Testament_IK_Hitbox.png"
+    ]
+  }
+]

@@ -1,0 +1,1471 @@
+[
+  {
+    "input": "5P",
+    "move": "5P",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGAC_Faust_5P.png/196px-GGAC_Faust_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/18/GGXXACPR_Faust_5P-Hitbox.png/206px-GGXXACPR_Faust_5P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5K",
+    "move": "5K",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "8",
+    "recovery": "11",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/95/GGAC_Faust_5K.png/210px-GGAC_Faust_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Faust_5K-Hitbox.png/210px-GGXXACPR_Faust_5K-Hitbox.png"
+    ]
+  },
+  {
+    "input": "c.S",
+    "move": "CS",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "6",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGAC_Faust_cS.png/190px-GGAC_Faust_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGXXACPR_Faust_cS-Hitbox.png/192px-GGXXACPR_Faust_cS-Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S",
+    "move": "FS",
+    "damage": "42",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "28",
+    "block": "-20",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/95/GGAC_Faust_fS.png/210px-GGAC_Faust_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/34/GGXXACPR_Faust_fS-1-Hitbox.png/210px-GGXXACPR_Faust_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGXXACPR_Faust_fS-2-Hitbox.png/210px-GGXXACPR_Faust_fS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5H",
+    "move": "5H",
+    "damage": "24 x 3",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "2, 2, 2",
+    "recovery": "17",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 3",
+    "guard_bar_minus": "6 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGAC_Faust_5H.png/210px-GGAC_Faust_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGXXACPR_Faust_5H-1-Hitbox.png/210px-GGXXACPR_Faust_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGXXACPR_Faust_5H-2-Hitbox.png/210px-GGXXACPR_Faust_5H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGXXACPR_Faust_5H-3-Hitbox.png/210px-GGXXACPR_Faust_5H-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5D",
+    "move": "5D",
+    "damage": "25",
+    "guard": "High",
+    "invincibility": "1-13F, 42-44F Strike",
+    "startup": "28",
+    "active": "2",
+    "recovery": "15",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGAC_Faust_5D.png/210px-GGAC_Faust_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c3/GGXXACPR_Faust_5D-Hitbox.png/210px-GGXXACPR_Faust_5D-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6P",
+    "move": "6P",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "1-7F Above Knees",
+    "startup": "8",
+    "active": "3",
+    "recovery": "26",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Faust_6P.png/163px-GGAC_Faust_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGXXACPR_Faust_6P-Hitbox.png/147px-GGXXACPR_Faust_6P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H",
+    "move": "6H",
+    "damage": "80",
+    "guard": "High",
+    "invincibility": "43-57F Above Feet, 58-60F Low Profile",
+    "startup": "25",
+    "active": "9",
+    "recovery": "45",
+    "block": "-35",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "21",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGAC_Faust_6H.png/210px-GGAC_Faust_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9b/GGXXACPR_Faust_6H-1-Hitbox.png/210px-GGXXACPR_Faust_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGXXACPR_Faust_6H-2-Hitbox.png/210px-GGXXACPR_Faust_6H-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2P",
+    "move": "2P",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "2",
+    "recovery": "7",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGAC_Faust_2P.png/210px-GGAC_Faust_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGXXACPR_Faust_2P-Hitbox.png/210px-GGXXACPR_Faust_2P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2K",
+    "move": "2K",
+    "damage": "12 x 3",
+    "guard": "Mid, Low x 2",
+    "invincibility": "13-21F Low Profile",
+    "startup": "7",
+    "active": "3, 3, 6",
+    "recovery": "5",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "6, 5 x 2",
+    "guard_bar_minus": "7 x 3",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGAC_Faust_2K.png/209px-GGAC_Faust_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGXXACPR_Faust_2K-1-Hitbox.png/210px-GGXXACPR_Faust_2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Faust_2K-2-Hitbox.png/210px-GGXXACPR_Faust_2K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGXXACPR_Faust_2K-3-Hitbox.png/210px-GGXXACPR_Faust_2K-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2S",
+    "move": "2S",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "1-3F Low Profile",
+    "startup": "9",
+    "active": "9",
+    "recovery": "12",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGAC_Faust_2S.png/191px-GGAC_Faust_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGXXACPR_Faust_2S-1-Hitbox.png/210px-GGXXACPR_Faust_2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGXXACPR_Faust_2S-2-Hitbox.png/210px-GGXXACPR_Faust_2S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b3/GGXXACPR_Faust_2S-3-Hitbox.png/210px-GGXXACPR_Faust_2S-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGXXACPR_Faust_2S-4-Hitbox.png/210px-GGXXACPR_Faust_2S-4-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2H",
+    "move": "2H",
+    "damage": "42",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "2",
+    "recovery": "21",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Faust_2H.png/210px-GGAC_Faust_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGXXACPR_Faust_2H-Hitbox.png/210px-GGXXACPR_Faust_2H-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2D",
+    "move": "2D",
+    "damage": "38",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "3",
+    "recovery": "23",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "Forced 80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGAC_Faust_2D.png/210px-GGAC_Faust_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGXXACPR_Faust_2D-Hitbox.png/210px-GGXXACPR_Faust_2D-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.P",
+    "move": "JP",
+    "damage": "13",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "6",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a2/GGAC_Faust_jP.png/210px-GGAC_Faust_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGXXACPR_Faust_jP-Hitbox.png/210px-GGXXACPR_Faust_jP-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.K",
+    "move": "JK",
+    "damage": "20",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "5",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/96/GGAC_Faust_jK.png/210px-GGAC_Faust_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGXXACPR_Faust_jK-Hitbox.png/210px-GGXXACPR_Faust_jK-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.2K",
+    "move": "J2K",
+    "damage": "35",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "Until Landing",
+    "recovery": "6 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGAC_Faust_j2K.png/210px-GGAC_Faust_j2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2b/GGXXACPR_Faust_j2K-1-Hitbox.png/210px-GGXXACPR_Faust_j2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/51/GGXXACPR_Faust_j2K-2-Hitbox.png/210px-GGXXACPR_Faust_j2K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGXXACPR_Faust_j2K-3-Hitbox.png/210px-GGXXACPR_Faust_j2K-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGXXACPR_Faust_j2K-4-Hitbox.png/210px-GGXXACPR_Faust_j2K-4-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.S",
+    "move": "JS",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "3",
+    "recovery": "20",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/70/GGAC_Faust_jS.png/182px-GGAC_Faust_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGXXACPR_Faust_jS-Hitbox.png/182px-GGXXACPR_Faust_jS-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.H",
+    "move": "JH",
+    "damage": "55",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "8",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c7/GGAC_Faust_jH.png/210px-GGAC_Faust_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9b/GGXXACPR_Faust_jH-1-Hitbox.png/210px-GGXXACPR_Faust_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGXXACPR_Faust_jH-2-Hitbox.png/210px-GGXXACPR_Faust_jH-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.D",
+    "move": "JD",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "11",
+    "recovery": "21 + 4 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGAC_Faust_jD.png/210px-GGAC_Faust_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGXXACPR_Faust_jD-1-Hitbox.png/210px-GGXXACPR_Faust_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGXXACPR_Faust_jD-2-Hitbox.png/210px-GGXXACPR_Faust_jD-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/12/GGXXACPR_Faust_jD-3-Hitbox.png/210px-GGXXACPR_Faust_jD-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "[1] or [3]",
+    "move": "Crawl",
+    "damage": "N/A",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/58/GGACR_Faust_Crawl.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/1/15/GGACR_Faust_Crawl_Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "60",
+    "guard": "45 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6 x 2",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Faust_throw.png/141px-GGAC_Faust_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "55",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGAC_Faust_airThrow.png/210px-GGAC_Faust_airThrow.png"
+    ]
+  },
+  {
+    "input": "6 + Two Attack Buttons",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-16F All, 17-28F Throw, 25-32F Above Knees",
+    "startup": "9",
+    "active": "4",
+    "recovery": "20",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Faust_6P.png/163px-GGAC_Faust_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGXXACPR_Faust_6P-Hitbox.png/147px-GGXXACPR_Faust_6P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "T",
+    "move": "Taunt",
+    "damage": "0",
+    "guard": "FD",
+    "invincibility": "N/A",
+    "startup": "49",
+    "active": "98",
+    "recovery": "24",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGAC_Faust_Taunt.png/121px-GGAC_Faust_Taunt.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Faust_R-Hitbox.png/121px-GGXXACPR_Faust_R-Hitbox.png"
+    ]
+  },
+  {
+    "input": "41236K",
+    "move": "Re-re-re no Tsuki",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "20",
+    "active": "12",
+    "recovery": "18",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "15",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGAC_Faust_41236K_1.png/210px-GGAC_Faust_41236K_1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/31/GGACR_Faust_41236K_Hitbox_1.png/210px-GGACR_Faust_41236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGACR_Faust_41236K_Hitbox_2.png/210px-GGACR_Faust_41236K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/45/GGACR_Faust_41236K_Hitbox_3.png/210px-GGACR_Faust_41236K_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGACR_Faust_41236K_Hitbox_4.png/210px-GGACR_Faust_41236K_Hitbox_4.png"
+    ]
+  },
+  {
+    "input": "41236K > 4",
+    "move": "Withdraw",
+    "damage": "30",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 55",
+    "block": "+6",
+    "frc_window": "43-45F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGAC_Faust_41236K_1.png/210px-GGAC_Faust_41236K_1.png"
+    ]
+  },
+  {
+    "input": "4 > 236P",
+    "move": "Holler!",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "0",
+    "block": "+15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGAC_Faust_41236K_3.png/160px-GGAC_Faust_41236K_3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b8/GGACR_Faust_41236K236P_Hitbox.png/134px-GGACR_Faust_41236K236P_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P > 236P",
+    "move": "Can't Hear You!",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-End Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 38",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_Faust_41236K_4.png/114px-GGAC_Faust_41236K_4.png"
+    ]
+  },
+  {
+    "input": "236P > 236P > 236P",
+    "move": "Holler Again!",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "43",
+    "active": "8",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGAC_Faust_41236K_3.png/160px-GGAC_Faust_41236K_3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Faust_214D_Hitbox_1.png/210px-GGACR_Faust_214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGACR_Faust_214D_Hitbox_2.png/175px-GGACR_Faust_214D_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236P > 236P > 236P (Coin)",
+    "move": "Holler Again! (Coin)",
+    "damage": "100",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "37",
+    "active": "6",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGAC_Faust_41236K_3.png/160px-GGAC_Faust_41236K_3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Faust_214D_Hitbox_1.png/210px-GGACR_Faust_214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGACR_Faust_214D_Hitbox_2.png/175px-GGACR_Faust_214D_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "4 > 236D",
+    "move": "Gettin' To The Good Part",
+    "damage": "40",
+    "guard": "High",
+    "invincibility": "1-8F, 38-39F Strike",
+    "startup": "15",
+    "active": "2",
+    "recovery": "22",
+    "block": "-6s",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGAC_Faust_5D.png/210px-GGAC_Faust_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c3/GGXXACPR_Faust_5D-Hitbox.png/210px-GGXXACPR_Faust_5D-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.236P",
+    "move": "Love",
+    "damage": "1, 40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "21",
+    "active": "Until Bag Lands, (14)3",
+    "recovery": "Total 39 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "24-25F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 2",
+    "level": "2, 3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4f/GGAC_Faust_j236P.png/210px-GGAC_Faust_j236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/2/21/GGACR_Faust_j236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGACR_Faust_j236P_Hitbox_2.png/183px-GGACR_Faust_j236P_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "j.236H",
+    "move": "Going My Way",
+    "damage": "18 x 4",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "32",
+    "recovery": "22",
+    "block": "+8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 4",
+    "guard_bar_minus": "8 x 4",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGAC_Faust_j236H.png/210px-GGAC_Faust_j236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Faust_j236H_Hitbox.png/210px-GGACR_Faust_j236H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P",
+    "move": "What Could This Be?",
+    "damage": "25",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "13~",
+    "active": "N/A",
+    "recovery": "Total 23",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGAC_Faust_236P.png/124px-GGAC_Faust_236P.png"
+    ]
+  },
+  {
+    "input": "236S",
+    "move": "Souten Enshin Ranbu",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4(4)4",
+    "recovery": "+3(-21)",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "10",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGAC_Faust_236S.png/210px-GGAC_Faust_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGACR_Faust_236S_Hitbox_1.png/210px-GGACR_Faust_236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9a/GGACR_Faust_236S_Hitbox_2.png/210px-GGACR_Faust_236S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGACR_Faust_236S_Hitbox_3.png/210px-GGACR_Faust_236S_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "Pogo 9",
+    "move": "Pogo Movement Small Jump",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Faust_PogoMovement.png/98px-GGAC_Faust_PogoMovement.png"
+    ]
+  },
+  {
+    "input": "Pogo 44",
+    "move": "Pogo Movement Backwards",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "1-7F Strike",
+    "startup": "4",
+    "active": "3",
+    "recovery": "16",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Faust_PogoMovement.png/98px-GGAC_Faust_PogoMovement.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGACR_Faust_Pogo44_Hitbox.png/210px-GGACR_Faust_Pogo44_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Pogo 66",
+    "move": "Pogo Movement Forwards",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "3",
+    "recovery": "16",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Faust_PogoMovement.png/98px-GGAC_Faust_PogoMovement.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGACR_Faust_236S_Hitbox_3.png/210px-GGACR_Faust_236S_Hitbox_3.png"
+    ]
+  },
+  {
+    "input": "Pogo P",
+    "move": "Rubber Neck",
+    "damage": "30",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "3",
+    "recovery": "7",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGACR_Faust_PogoAttacks2.png/166px-GGACR_Faust_PogoAttacks2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGACR_Faust_PogoP_Hitbox.png/132px-GGACR_Faust_PogoP_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Pogo K",
+    "move": "Growing Flower",
+    "damage": "35",
+    "guard": "High",
+    "invincibility": "1-6F Strike",
+    "startup": "7",
+    "active": "6",
+    "recovery": "23",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGACR_Faust_PogoAttacks1.png/210px-GGACR_Faust_PogoAttacks1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGACR_Faust_PogoK_Hitbox_1.png/83px-GGACR_Faust_PogoK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9b/GGACR_Faust_PogoK_Hitbox_2.png/82px-GGACR_Faust_PogoK_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "Pogo S",
+    "move": "I'm a Flower. Get it? A Flower?",
+    "damage": "30",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "2",
+    "recovery": "9",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e0/GGACR_Faust_PogoAttacks1.png/210px-GGACR_Faust_PogoAttacks1.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGACR_Faust_PogoS_Hitbox.png/210px-GGACR_Faust_PogoS_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Pogo H",
+    "move": "Going My Way",
+    "damage": "16 x 4",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "32",
+    "recovery": "23 + 3 After Landing",
+    "block": "-27",
+    "frc_window": "N/A",
+    "proration": "41-46F",
+    "guard_bar_plus": "20 x 4",
+    "guard_bar_minus": "6 x 4",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGACR_Faust_PogoAttacks3.png/210px-GGACR_Faust_PogoAttacks3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGACR_Faust_j236H_Hitbox.png/210px-GGACR_Faust_j236H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "Pogo D",
+    "move": "Surprise Surprise",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "9~",
+    "active": "N/A",
+    "recovery": "Total 17",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGACR_Faust_PogoAttacks2.png/166px-GGACR_Faust_PogoAttacks2.png"
+    ]
+  },
+  {
+    "input": "214H",
+    "move": "Hack 'n' Slash",
+    "damage": "15 x 8",
+    "guard": "Air FD (100 Pixels)",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "46",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6 x 8",
+    "guard_bar_minus": "3",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGAC_Faust_214H.png/176px-GGAC_Faust_214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGACR_Faust_214H_Hitbox.png/165px-GGACR_Faust_214H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214P",
+    "move": "From The Front",
+    "damage": "44",
+    "guard": "All",
+    "invincibility": "21-32F Strike, 33-44F All",
+    "startup": "51",
+    "active": "1",
+    "recovery": "30",
+    "block": "-17",
+    "frc_window": "48-50F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGAC_Faust_214P_2.png/210px-GGAC_Faust_214P_2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGACR_Faust_214P_Hitbox.png/143px-GGACR_Faust_214P_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214K",
+    "move": "From The Behind",
+    "damage": "44",
+    "guard": "All",
+    "invincibility": "21-32F Strike, 33-44F All",
+    "startup": "51",
+    "active": "1",
+    "recovery": "30",
+    "block": "-17",
+    "frc_window": "48-50F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGAC_Faust_214P_2.png/210px-GGAC_Faust_214P_2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ee/GGAC_Faust_214P_3.png/210px-GGAC_Faust_214P_3.png"
+    ]
+  },
+  {
+    "input": "214S",
+    "move": "From The Above",
+    "damage": "38",
+    "guard": "High",
+    "invincibility": "21-32F Strike, 33-42F All",
+    "startup": "47",
+    "active": "20",
+    "recovery": "26 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "21-22F, 14-17F After Bounce",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a1/GGAC_Faust_214P_4.png/210px-GGAC_Faust_214P_4.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Faust_214S_Hitbox.png/198px-GGACR_Faust_214S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Donut",
+    "move": "Donut",
+    "damage": "Heals 30",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "53[51]",
+    "active": "216",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/0/06/GGXXACR_Faust_Food.png"
+    ]
+  },
+  {
+    "input": "236P Chocolate",
+    "move": "Donut",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "53[51]",
+    "active": "216",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/0/06/GGXXACR_Faust_Food.png"
+    ]
+  },
+  {
+    "input": "236P Chikuwa",
+    "move": "Chikuwa",
+    "damage": "Heals 15",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "53[51]",
+    "active": "216",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/0/06/GGXXACR_Faust_Food.png"
+    ]
+  },
+  {
+    "input": "236P Hammer",
+    "move": "Hammer",
+    "damage": "44",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13[9]",
+    "active": "43[45]",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/1/1f/GGXXACR_Faust_Hammer.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/c/ca/GGACR_Faust_Hammer_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Dumbbell",
+    "move": "Dumbbell",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "40",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/7/75/GGXXACR_Faust_Dumbell.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/7f/GGACR_Faust_Dumbbell_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Coin",
+    "move": "Coin",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13[9]",
+    "active": "169[171]",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/2/24/GGXXACR_Faust_Coin.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/4/42/GGACR_Faust_Coin_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Bomb",
+    "move": "Bomb",
+    "damage": "80",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "134[132]",
+    "active": "12",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/1/1e/GGXXACR_Faust_Bomb.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGACR_Faust_Bomb_Hitbox.png/210px-GGACR_Faust_Bomb_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Chibi Faust",
+    "move": "Chibi Faust",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "39[35]",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/d/d6/GGXXACPR_Chibis.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/6a/GGACR_Faust_Chibi_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/0/0a/GGACR_Faust_Chibi_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236P Chibi Robo-Ky",
+    "move": "Chibi Robo-Ky",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "39[35]",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/d/d6/GGXXACPR_Chibis.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/6a/GGACR_Faust_Chibi_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/0/0a/GGACR_Faust_Chibi_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236P Chibi Potemkin",
+    "move": "Chibi Potemkin",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "39[35]",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 3",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/d/d6/GGXXACPR_Chibis.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/6/6a/GGACR_Faust_Chibi_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/0/0a/GGACR_Faust_Chibi_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236P Washpan",
+    "move": "Washpan",
+    "damage": "44",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "Check Dustloop",
+    "active": "Until Landing",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGXXACR_Faust_Tarai.png/210px-GGXXACR_Faust_Tarai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/5/5e/GGACR_Faust_Washpan_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Meteors",
+    "move": "Meteors",
+    "damage": "36 x 6",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "196[192]",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "20 x 6",
+    "guard_bar_minus": "10 x 6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGXXACR_Faust_Meteors.png/167px-GGXXACR_Faust_Meteors.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/0/06/GGACR_Faust_Meteors_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P Poison",
+    "move": "Poison",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "89[86]",
+    "active": "50",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/0/04/GGXXACR_Faust_Poison_Vial.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4b/GGACR_Faust_Poison_Hitbox.png/116px-GGACR_Faust_Poison_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214D",
+    "move": "BAM! Outta Nowhere",
+    "damage": "60",
+    "guard": "High/Air",
+    "invincibility": "1-8F Below Chest",
+    "startup": "19",
+    "active": "6",
+    "recovery": "12",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_Faust_214D.png/163px-GGAC_Faust_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Faust_214D_Hitbox_1.png/210px-GGACR_Faust_214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGACR_Faust_214D_Hitbox_2.png/175px-GGACR_Faust_214D_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "j.236D",
+    "move": "FB Rerere no Choutsuki",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "Until Landing",
+    "recovery": "1",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGAC_Faust_j236D.png/180px-GGAC_Faust_j236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Faust_j236D_Hitbox.png/89px-GGACR_Faust_j236D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214K > D",
+    "move": "FB From Behind",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "1-8F Strike",
+    "startup": "9",
+    "active": "1",
+    "recovery": "30",
+    "block": "-17",
+    "frc_window": "6-8F",
+    "proration": "70%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGAC_Faust_214P_1.png/210px-GGAC_Faust_214P_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ee/GGAC_Faust_214P_3.png/210px-GGAC_Faust_214P_3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGACR_Faust_214P_Hitbox.png/143px-GGACR_Faust_214P_Hitbox.png"
+    ]
+  },
+  {
+    "input": "4 > 236D > 236D",
+    "move": "This One's on the House",
+    "damage": "80",
+    "guard": "All",
+    "invincibility": "1-End Strikee",
+    "startup": "1 + 0",
+    "active": "12",
+    "recovery": "Total 10",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGAC_Faust_Shichousha.png/164px-GGAC_Faust_Shichousha.png"
+    ]
+  },
+  {
+    "input": "236236P",
+    "move": "W-W-What Could This Be?",
+    "damage": "25",
+    "guard": "High",
+    "invincibility": "1-6F Strike",
+    "startup": "1+6~",
+    "active": "N/A",
+    "recovery": "Total 46",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGAC_Faust_236P.png/124px-GGAC_Faust_236P.png"
+    ]
+  },
+  {
+    "input": "236236S",
+    "move": "Shigekiteki Zetsumei Ken",
+    "damage": "30 + Alpha",
+    "guard": "Low",
+    "invincibility": "1-15F All, 16-17F Strike",
+    "startup": "11 + 1",
+    "active": "80",
+    "recovery": "66",
+    "block": "-46",
+    "frc_window": "40F During Pose",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGAC_Faust_236236H.png/210px-GGAC_Faust_236236H.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e1/GGAC_Faust_236236H2.png/210px-GGAC_Faust_236236H2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGACR_Faust_236236S_Hitbox.png/210px-GGACR_Faust_236236S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236236H",
+    "move": "This Week's Yamaban",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5 + 12",
+    "active": "4",
+    "recovery": "20",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGAC_Faust_IK.png/210px-GGAC_Faust_IK.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGAC_Faust_IK2.png/210px-GGAC_Faust_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Faust_IK_Hitbox.png/210px-GGACR_Faust_IK_Hitbox.png"
+    ]
+  }
+]

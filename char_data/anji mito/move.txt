@@ -1,0 +1,1063 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "3",
+    "recovery": "8",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/13/GGAC_Anji_5P.png/210px-GGAC_Anji_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGXXACPR_Anji_5P-1-Hitbox.png/205px-GGXXACPR_Anji_5P-1-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "14",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "5",
+    "recovery": "6",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/45/GGAC_Anji_5K.png/210px-GGAC_Anji_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGXXACPR_Anji_5K-1-Hitbox.png/210px-GGXXACPR_Anji_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGXXACPR_Anji_5K-2-Hitbox.png/210px-GGXXACPR_Anji_5K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5S",
+    "move": "5S",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "13",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGAC_Anji_5S.png/160px-GGAC_Anji_5S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGXXACPR_Anji_5S-Hitbox.png/155px-GGXXACPR_Anji_5S-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5H",
+    "move": "5H",
+    "damage": "38",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "4",
+    "recovery": "21",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f3/GGAC_Anji_5H.png/210px-GGAC_Anji_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGXXACPR_Anji_5H-1-Hitbox.png/210px-GGXXACPR_Anji_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/91/GGXXACPR_Anji_5H-2-Hitbox.png/210px-GGXXACPR_Anji_5H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5D",
+    "move": "5D",
+    "damage": "15",
+    "guard": "High",
+    "invincibility": "4-18F High Guardpoint",
+    "startup": "27",
+    "active": "6",
+    "recovery": "26",
+    "block": "-18",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGAC_Anji_5D.png/193px-GGAC_Anji_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGXXACPR_Anji_5D-1-Hitbox.png/210px-GGXXACPR_Anji_5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGXXACPR_Anji_5D-2-Hitbox.png/210px-GGXXACPR_Anji_5D-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6P",
+    "move": "6P",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "1-21F Above Knees",
+    "startup": "18",
+    "active": "4",
+    "recovery": "16",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/96/GGAC_Anji_6P.png/210px-GGAC_Anji_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGXXACPR_Anji_6P-Hitbox.png/210px-GGXXACPR_Anji_6P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "3P",
+    "move": "3P",
+    "damage": "28",
+    "guard": "High",
+    "invincibility": "1-21F Above Knees",
+    "startup": "20",
+    "active": "3",
+    "recovery": "11",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGAC_Anji_3P.png/210px-GGAC_Anji_3P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGXXACPR_Anji_3P-Hitbox.png/204px-GGXXACPR_Anji_3P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6K",
+    "move": "6K",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "1-7F High Guardpoint",
+    "startup": "11",
+    "active": "6",
+    "recovery": "18",
+    "block": "-10",
+    "frc_window": "11-12F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGAC_Anji_6K.png/210px-GGAC_Anji_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Anji_6K-Hitbox.png/210px-GGXXACPR_Anji_6K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "3K",
+    "move": "3K",
+    "damage": "38",
+    "guard": "Low",
+    "invincibility": "1-4F Low Guardpoint, 1-End Throw",
+    "startup": "19",
+    "active": "4",
+    "recovery": "14",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGAC_Anji_3K.png/210px-GGAC_Anji_3K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGXXACPR_Anji_3K-1-Hitbox.png/210px-GGXXACPR_Anji_3K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f3/GGXXACPR_Anji_3K-2-Hitbox.png/210px-GGXXACPR_Anji_3K-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6S",
+    "move": "6S",
+    "damage": "34",
+    "guard": "Mid",
+    "invincibility": "7-12F High Guardpoint",
+    "startup": "13",
+    "active": "4",
+    "recovery": "17",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGAC_Anji_6S.png/169px-GGAC_Anji_6S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGXXACPR_Anji_6S-1-Hitbox.png/191px-GGXXACPR_Anji_6S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGXXACPR_Anji_6S-2-Hitbox.png/148px-GGXXACPR_Anji_6S-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "3S",
+    "move": "3S",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "1-27F Low Guardpoint",
+    "startup": "28",
+    "active": "12",
+    "recovery": "10",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGAC_Anji_3S.png/210px-GGAC_Anji_3S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGXXACPR_Anji_3S-1-Hitbox.png/210px-GGXXACPR_Anji_3S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGXXACPR_Anji_3S-2-Hitbox.png/210px-GGXXACPR_Anji_3S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGXXACPR_Anji_3S-3-Hitbox.png/210px-GGXXACPR_Anji_3S-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6H",
+    "move": "6H",
+    "damage": "44",
+    "guard": "Mid",
+    "invincibility": "1-14F Head, 13-20F High Guardpoint Throw",
+    "startup": "21",
+    "active": "6",
+    "recovery": "25",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/03/GGAC_Anji_6H.png/205px-GGAC_Anji_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Anji_6H-1-Hitbox.png/208px-GGXXACPR_Anji_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/81/GGXXACPR_Anji_6H-2-Hitbox.png/207px-GGXXACPR_Anji_6H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "6",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/b/b3/GGAC_Anji_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/5/56/GGXXACPR_Anji_2P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/0/09/GGXXACPR_Anji_2P-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "2",
+    "recovery": "6",
+    "block": "+6",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGAC_Anji_2K.png/210px-GGAC_Anji_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGXXACPR_Anji_2K-Hitbox.png/210px-GGXXACPR_Anji_2K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "28",
+    "guard": "Low",
+    "invincibility": "11-23F Low Profile",
+    "startup": "8",
+    "active": "6",
+    "recovery": "14",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGAC_Anji_2S.png/210px-GGAC_Anji_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGXXACPR_Anji_2S-1-Hitbox.png/210px-GGXXACPR_Anji_2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGXXACPR_Anji_2S-2-Hitbox.png/210px-GGXXACPR_Anji_2S-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2H",
+    "move": "2H",
+    "damage": "38",
+    "guard": "Mid",
+    "invincibility": "10-19F Low Guardpoint",
+    "startup": "20",
+    "active": "5",
+    "recovery": "15",
+    "block": "+5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGAC_Anji_2H.png/210px-GGAC_Anji_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGXXACPR_Anji_2H-Hitbox.png/210px-GGXXACPR_Anji_2H-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2D",
+    "move": "2D",
+    "damage": "28",
+    "guard": "Low",
+    "invincibility": "5-23F Low Profile",
+    "startup": "7",
+    "active": "3",
+    "recovery": "25",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGAC_Anji_2D.png/210px-GGAC_Anji_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGXXACPR_Anji_2D-Hitbox.png/210px-GGXXACPR_Anji_2D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.P",
+    "move": "JP",
+    "damage": "10",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "3",
+    "recovery": "3",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGAC_Anji_jP.png/210px-GGAC_Anji_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/75/GGXXACPR_Anji_jP-Hitbox.png/210px-GGXXACPR_Anji_jP-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.K",
+    "move": "JK",
+    "damage": "18",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "6",
+    "recovery": "10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6a/GGAC_Anji_jK.png/210px-GGAC_Anji_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGXXACPR_Anji_jK-Hitbox.png/210px-GGXXACPR_Anji_jK-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.S",
+    "move": "JS",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "9",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGAC_Anji_jS.png/208px-GGAC_Anji_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGXXACPR_Anji_jS-1-Hitbox.png/210px-GGXXACPR_Anji_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGXXACPR_Anji_jS-2-Hitbox.png/210px-GGXXACPR_Anji_jS-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.H",
+    "move": "JH",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "6",
+    "recovery": "15",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGAC_Anji_jH.png/210px-GGAC_Anji_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGXXACPR_Anji_jH-1-Hitbox.png/210px-GGXXACPR_Anji_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGXXACPR_Anji_jH-2-Hitbox.png/210px-GGXXACPR_Anji_jH-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.D",
+    "move": "JD",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "1-11F, 22-End Upper Body",
+    "startup": "10",
+    "active": "6",
+    "recovery": "14 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGAC_Anji_jD.png/144px-GGAC_Anji_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGXXACPR_Anji_jD-1-Hitbox.png/166px-GGXXACPR_Anji_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/26/GGXXACPR_Anji_jD-2-Hitbox.png/153px-GGXXACPR_Anji_jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "56",
+    "guard": "43 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGAC_Anji_throw.png/210px-GGAC_Anji_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Anji_airThrow.png/152px-GGAC_Anji_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-11F All, 12-26F Throw",
+    "startup": "12",
+    "active": "6",
+    "recovery": "12",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGAC_Anji_5S.png/160px-GGAC_Anji_5S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGXXACPR_Anji_5S-Hitbox.png/155px-GGXXACPR_Anji_5S-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236P",
+    "move": "Shitsu",
+    "damage": "18, 16 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "21",
+    "active": "56",
+    "recovery": "Total 48",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGAC_Anji_Shitsu.png/210px-GGAC_Anji_Shitsu.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGACR_Anji_236P_Hitbox_1.png/191px-GGACR_Anji_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/6c/GGACR_Anji_236P_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236S",
+    "move": "Fuujin S",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "3",
+    "recovery": "27",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_Anji_Fuujin.png/200px-GGAC_Anji_Fuujin.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGACR_Anji_236S_Hitbox.png/210px-GGACR_Anji_236S_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236H",
+    "move": "Fuujin H",
+    "damage": "46",
+    "guard": "Mid",
+    "invincibility": "1-12F Strike",
+    "startup": "20",
+    "active": "3",
+    "recovery": "27",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGAC_Anji_Fuujin.png/200px-GGAC_Anji_Fuujin.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGACR_Anji_236S_Hitbox.png/210px-GGACR_Anji_236S_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236S/H > P",
+    "move": "Shin: Ichishiki",
+    "damage": "10 x 6",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "36",
+    "active": "N/A",
+    "recovery": "Total 50 + 8 After Landing",
+    "block": "+17",
+    "frc_window": "6-8F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGAC_Anji_ShinIsshiki.png/169px-GGAC_Anji_ShinIsshiki.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGACR_Anji_236SP_Hitbox.png/171px-GGACR_Anji_236SP_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236S/H > K",
+    "move": "Issokutobi",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "7-24F Lower Body",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "24 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b1/GGAC_Anji_Issokutobi.png/210px-GGAC_Anji_Issokutobi.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGACR_Anji_236SK_Hitbox.png/144px-GGACR_Anji_236SK_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236S/H > S",
+    "move": "Nagiha",
+    "damage": "30",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "6",
+    "recovery": "27",
+    "block": "-19",
+    "frc_window": "23-25F",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGAC_Anji_Nagiha.png/210px-GGAC_Anji_Nagiha.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGACR_Anji_236SS_Hitbox_1.png/210px-GGACR_Anji_236SS_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGACR_Anji_236SS_Hitbox_2.png/210px-GGACR_Anji_236SS_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236S/H > H",
+    "move": "Rin",
+    "damage": "40",
+    "guard": "High",
+    "invincibility": "8-26F High Guardpoint, 1-22F Throw",
+    "startup": "27",
+    "active": "8",
+    "recovery": "16",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "30",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Anji_Rin.png/210px-GGAC_Anji_Rin.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Anji_236SH_Hitbox_1.png/186px-GGACR_Anji_236SH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGACR_Anji_236SH_Hitbox_2.png/210px-GGACR_Anji_236SH_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Anji_236SH_Hitbox_3.png/210px-GGACR_Anji_236SH_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f7/GGACR_Anji_236SH_Hitbox_4.png/210px-GGACR_Anji_236SH_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "P During Autoguard",
+    "move": "Kou",
+    "damage": "25, 7 x 6, 20",
+    "guard": "Mid",
+    "invincibility": "1-4F Strike, 5-13F Upper Body",
+    "startup": "4",
+    "active": "2, 4 x 6, 12",
+    "recovery": "11 + 8 After Landing",
+    "block": "-41",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10, 3 x 6, 20",
+    "guard_bar_minus": "7, 4 x 7",
+    "level": "3, 1 x 6, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGAC_Anji_Kou.png/141px-GGAC_Anji_Kou.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGACR_Anji_GuardP_Hitbox_1.png/182px-GGACR_Anji_GuardP_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGACR_Anji_GuardP_Hitbox_2.png/163px-GGACR_Anji_GuardP_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/97/GGACR_Anji_GuardP_Hitbox_3.png/127px-GGACR_Anji_GuardP_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f3/GGACR_Anji_GuardP_Hitbox_4.png/133px-GGACR_Anji_GuardP_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGACR_Anji_GuardP_Hitbox_5.png/135px-GGACR_Anji_GuardP_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGACR_Anji_GuardP_Hitbox_6.png/178px-GGACR_Anji_GuardP_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/11/GGACR_Anji_GuardP_Hitbox_7.png/210px-GGACR_Anji_GuardP_Hitbox_7.png"
+    ]
+  },
+  {    
+    "input": "K During Autoguard",
+    "move": "Sou",
+    "damage": "12 x 3, 38",
+    "guard": "Mid",
+    "invincibility": "1-11F Strike, 12-23F Lower Body",
+    "startup": "11",
+    "active": "4 x 2, 3(4)5",
+    "recovery": "14",
+    "block": "+4",
+    "frc_window": "26-28F",
+    "proration": "N/A",
+    "guard_bar_plus": "6 x 3, 20",
+    "guard_bar_minus": "5 x 3, 15",
+    "level": "2 x 3, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Anji_Sou.png/139px-GGAC_Anji_Sou.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGACR_Anji_GuardK_Hitbox_1.png/197px-GGACR_Anji_GuardK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGACR_Anji_GuardK_Hitbox_2.png/182px-GGACR_Anji_GuardK_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGACR_Anji_GuardK_Hitbox_3.png/201px-GGACR_Anji_GuardK_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGACR_Anji_GuardK_Hitbox_4.png/210px-GGACR_Anji_GuardK_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGACR_Anji_GuardK_Hitbox_5.png/210px-GGACR_Anji_GuardK_Hitbox_5.png"
+    ]
+  },
+  {    
+    "input": "623H",
+    "move": "On",
+    "damage": "0, 90",
+    "guard": "Unblockable",
+    "invincibility": "1-8F Throw",
+    "startup": "11",
+    "active": "18",
+    "recovery": "20 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "11-13F On Whiff",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "7, 8",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGAC_Anji_On-1.png/175px-GGAC_Anji_On-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_Anji_On-2.png/210px-GGAC_Anji_On-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGACR_Anji_623H_Hitbox.png/175px-GGACR_Anji_623H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "214P",
+    "move": "Kai P",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "22-27F Feet",
+    "startup": "28",
+    "active": "3",
+    "recovery": "9",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGAC_Anji_Kai.png/83px-GGAC_Anji_Kai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGACR_Anji_214P_Hitbox.png/127px-GGACR_Anji_214P_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "214K",
+    "move": "Kai K",
+    "damage": "50",
+    "guard": "High/Air",
+    "invincibility": "32-41F Feet",
+    "startup": "32",
+    "active": "10",
+    "recovery": "8 After Landing",
+    "block": "+1",
+    "frc_window": "23-31F",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGAC_Anji_Kai.png/83px-GGAC_Anji_Kai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGACR_Anji_214K_Hitbox.png/118px-GGACR_Anji_214K_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.214P",
+    "move": "Shin: Nishiki",
+    "damage": "45",
+    "guard": "High/Air",
+    "invincibility": "1-11F Feet, 14-20F Lower Body",
+    "startup": "14",
+    "active": "7",
+    "recovery": "44",
+    "block": "-37",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b8/GGAC_Anji_ShinNishiki.png/210px-GGAC_Anji_ShinNishiki.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Anji_j214P_Hitbox_1.png/189px-GGACR_Anji_j214P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGACR_Anji_j214P_Hitbox_2.png/189px-GGACR_Anji_j214P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGACR_Anji_j214P_Hitbox_3.png/189px-GGACR_Anji_j214P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGACR_Anji_j214P_Hitbox_4.png/189px-GGACR_Anji_j214P_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "236D",
+    "move": "FB Shitsu",
+    "damage": "25, 16 x 2",
+    "guard": "All, High/Air x 2",
+    "invincibility": "N/A",
+    "startup": "21",
+    "active": "88",
+    "recovery": "Total 50",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8, 12 x 2",
+    "level": "1, 2 x 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/63/GGAC_Anji_FBShitsu.png/210px-GGAC_Anji_FBShitsu.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGACR_Anji_236P_Hitbox_1.png/191px-GGACR_Anji_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/6c/GGACR_Anji_236P_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236S/H > D",
+    "move": "FB Rin",
+    "damage": "40",
+    "guard": "High",
+    "invincibility": "2-20F High Guardpoint, 2-25F Throw",
+    "startup": "21",
+    "active": "8",
+    "recovery": "8",
+    "block": "+5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "20",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Anji_Rin.png/210px-GGAC_Anji_Rin.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGACR_Anji_236SH_Hitbox_1.png/186px-GGACR_Anji_236SH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGACR_Anji_236SH_Hitbox_2.png/210px-GGACR_Anji_236SH_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Anji_236SH_Hitbox_3.png/210px-GGACR_Anji_236SH_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f7/GGACR_Anji_236SH_Hitbox_4.png/210px-GGACR_Anji_236SH_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "D During Autoguard",
+    "move": "FB Kou",
+    "damage": "35, 7 x 6, 70",
+    "guard": "Mid",
+    "invincibility": "1-11F Strike, 12-13F Upper Body, 30-57F Lower Body",
+    "startup": "4",
+    "active": "2, 4  x 6(24)4",
+    "recovery": "24",
+    "block": "-66",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10, 3 x 6, 20",
+    "guard_bar_minus": "7, 4 x 7",
+    "level": "3, 1 x 6, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGAC_Anji_FBKou.png/209px-GGAC_Anji_FBKou.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGACR_Anji_GuardD_Hitbox_1.png/210px-GGACR_Anji_GuardD_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGACR_Anji_GuardD_Hitbox_2.png/182px-GGACR_Anji_GuardD_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4f/GGACR_Anji_GuardD_Hitbox_3.png/198px-GGACR_Anji_GuardD_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGACR_Anji_GuardP_Hitbox_2.png/163px-GGACR_Anji_GuardP_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/97/GGACR_Anji_GuardP_Hitbox_3.png/127px-GGACR_Anji_GuardP_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f3/GGACR_Anji_GuardP_Hitbox_4.png/133px-GGACR_Anji_GuardP_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGACR_Anji_GuardP_Hitbox_5.png/135px-GGACR_Anji_GuardP_Hitbox_5.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGACR_Anji_GuardP_Hitbox_6.png/178px-GGACR_Anji_GuardP_Hitbox_6.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/63/GGACR_Anji_GuardD_Hitbox_4.png/210px-GGACR_Anji_GuardD_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGACR_Anji_j214P_Hitbox_2.png/189px-GGACR_Anji_j214P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGACR_Anji_j214P_Hitbox_3.png/189px-GGACR_Anji_j214P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGACR_Anji_j214P_Hitbox_4.png/189px-GGACR_Anji_j214P_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "623D",
+    "move": "FB On",
+    "damage": "0, 90",
+    "guard": "Unblockable",
+    "invincibility": "1-18F Throw, 19-38F Strike",
+    "startup": "21",
+    "active": "18",
+    "recovery": "35 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "19-20F",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "7, 8",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGAC_Anji_On-1.png/175px-GGAC_Anji_On-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGAC_Anji_On-2.png/210px-GGAC_Anji_On-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGACR_Anji_623D_Hitbox.png/175px-GGACR_Anji_623D_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "632146H",
+    "move": "Issei Ougi: Sai",
+    "damage": "11 x 11, 50",
+    "guard": "All",
+    "invincibility": "3-6F Above Chest",
+    "startup": "7 + 3",
+    "active": "4 x 9, 2 x 2, 4 x 4",
+    "recovery": "63",
+    "block": "-40",
+    "frc_window": "63-67F",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "10 x 15",
+    "guard_bar_minus": "2 x 11, 7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e3/GGAC_Anji_IsseiOugiSai.png/210px-GGAC_Anji_IsseiOugiSai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGACR_Anji_632146H_Hitbox_1.png/210px-GGACR_Anji_632146H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/93/GGACR_Anji_632146H_Hitbox_2.png/210px-GGACR_Anji_632146H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGACR_Anji_632146H_Hitbox_3.png/210px-GGACR_Anji_632146H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGACR_Anji_632146H_Hitbox_4.png/210px-GGACR_Anji_632146H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGACR_Anji_632146H_Hitbox_5.png/210px-GGACR_Anji_632146H_Hitbox_5.png"
+    ]
+  },
+  {    
+    "input": "[2]8K",
+    "move": "Issei Ougi: Sai",
+    "damage": "11 x 11, 50",
+    "guard": "High/Air",
+    "invincibility": "4-20F Strike",
+    "startup": "18 + 0",
+    "active": "10",
+    "recovery": "20 After Landing",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6, 2 x 13",
+    "level": "5, 3 x 13",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6c/GGAC_Anji_Tenjinkyaku.png/210px-GGAC_Anji_Tenjinkyaku.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGACR_Anji_28K_Hitbox.png/116px-GGACR_Anji_28K_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "63214S During Autoguard",
+    "move": "Kachoufuugetsu",
+    "damage": "40 x 4",
+    "guard": "Mid",
+    "invincibility": "1-22F All, 23-69F Throw",
+    "startup": "7 + 0",
+    "active": "5(16)5(12)5(20)5",
+    "recovery": "75",
+    "block": "-61",
+    "frc_window": "63-65F",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 4",
+    "guard_bar_minus": "6 x 4",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGAC_Anji_Kachoufuugetsu.png/210px-GGAC_Anji_Kachoufuugetsu.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGACR_Anji_63214S_Hitbox_1.png/165px-GGACR_Anji_63214S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGACR_Anji_63214S_Hitbox_2.png/210px-GGACR_Anji_63214S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/94/GGACR_Anji_63214S_Hitbox_3.png/173px-GGACR_Anji_63214S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGACR_Anji_63214S_Hitbox_4.png/210px-GGACR_Anji_63214S_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "236236H",
+    "move": "Zetsu",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "18-Recovery Throw",
+    "startup": "17 + 4",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "-159~",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGAC_Anji_Zetsu.png/210px-GGAC_Anji_Zetsu.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d7/GGACR_Anji_IK_Hitbox.png/210px-GGACR_Anji_IK_Hitbox.png"
+    ]
+  }
+]

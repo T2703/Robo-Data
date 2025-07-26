@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "0.89x",
+        "guts_rating": "0/5",
+        "guard_bar_gain_mod": "1.25x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "0.95x",
+        "stun_resistance": "80",
+        "prejump": "5F",
+        "backdash": "14F (1-10F Strike Invuln)",
+        "wakeup_timing": "23F (Face Up) / 21F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "unique_movement": "Today's S-KY's Beautiful",
+        "images": [
+            "https://www.dustloop.com/wiki/images/a/af/GGACR_Robo-Ky_Portrait.png"
+        ]
+    }
+]

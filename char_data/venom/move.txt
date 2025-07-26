@@ -1,0 +1,1143 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "6 [26]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_Venom_5P.png/210px-GGAC_Venom_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGXXACPR_Venom_5P-Hitbox.png/210px-GGXXACPR_Venom_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "12 [32]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "3",
+    "recovery": "15",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Venom_5K.png/148px-GGAC_Venom_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGXXACPR_Venom_5K-Hitbox.png/147px-GGXXACPR_Venom_5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "16 x 3 [32]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2, 2, 7",
+    "recovery": "20",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "14 x 3",
+    "guard_bar_minus": "8 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGAC_Venom_cS.png/140px-GGAC_Venom_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Venom_cS-1-Hitbox.png/194px-GGXXACPR_Venom_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGXXACPR_Venom_cS-2-Hitbox.png/194px-GGXXACPR_Venom_cS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGXXACPR_Venom_cS-3-Hitbox.png/163px-GGXXACPR_Venom_cS-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGXXACPR_Venom_cS-4-Hitbox.png/144px-GGXXACPR_Venom_cS-4-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "16 x 3 [32]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2, 2, 7",
+    "recovery": "20",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "14 x 3",
+    "guard_bar_minus": "8 x 3",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGAC_Venom_cS.png/140px-GGAC_Venom_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Venom_cS-1-Hitbox.png/194px-GGXXACPR_Venom_cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGXXACPR_Venom_cS-2-Hitbox.png/194px-GGXXACPR_Venom_cS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGXXACPR_Venom_cS-3-Hitbox.png/163px-GGXXACPR_Venom_cS-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGXXACPR_Venom_cS-4-Hitbox.png/144px-GGXXACPR_Venom_cS-4-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "24 [38]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "2",
+    "recovery": "28",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGAC_Venom_fS.png/210px-GGAC_Venom_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b8/GGXXACPR_Venom_fS-Hitbox.png/210px-GGXXACPR_Venom_fS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5H",
+    "move": "5H",
+    "damage": "38 [42]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "7",
+    "recovery": "18",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Venom_5H.png/210px-GGAC_Venom_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/81/GGXXACPR_Venom_5H-1-Hitbox.png/210px-GGXXACPR_Venom_5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Venom_5H-2-Hitbox.png/210px-GGXXACPR_Venom_5H-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D",
+    "move": "5D",
+    "damage": "20 [42]",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "25",
+    "active": "3(2)3",
+    "recovery": "18",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGAC_Venom_5D.png/187px-GGAC_Venom_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGXXACPR_Venom_5D-Hitbox.png/200px-GGXXACPR_Venom_5D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6P",
+    "move": "6P",
+    "damage": "28 [36]",
+    "guard": "Mid",
+    "invincibility": "1-4F Above Knees, 5-11F Upper Body",
+    "startup": "9",
+    "active": "6",
+    "recovery": "20",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/04/GGACR_Venom_6P.png/210px-GGACR_Venom_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGXXACPR_Venom_6P-1-Hitbox.png/210px-GGXXACPR_Venom_6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGXXACPR_Venom_6P-2-Hitbox.png/210px-GGXXACPR_Venom_6P-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6K",
+    "move": "6K",
+    "damage": "28 [40]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "2",
+    "recovery": "25",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/15/GGACR_Venom_6K.png/148px-GGACR_Venom_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Venom_6K-Hitbox.png/160px-GGXXACPR_Venom_6K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6H",
+    "move": "6H",
+    "damage": "48 [50]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "6",
+    "recovery": "27",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGAC_Venom_6H.png/210px-GGAC_Venom_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a8/GGXXACPR_Venom_6H-1-Hitbox.png/208px-GGXXACPR_Venom_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGXXACPR_Venom_6H-2-Hitbox.png/210px-GGXXACPR_Venom_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Venom_6H-3-Hitbox.png/210px-GGXXACPR_Venom_6H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2P",
+    "move": "2P",
+    "damage": "7 [26]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "10",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Venom_2P.png/210px-GGAC_Venom_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Venom_2P-Hitbox.png/210px-GGXXACPR_Venom_2P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2K",
+    "move": "2K",
+    "damage": "8 [30]",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "3",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/26/GGAC_Venom_2K.png/210px-GGAC_Venom_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGXXACPR_Venom_2K-Hitbox.png/210px-GGXXACPR_Venom_2K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2S",
+    "move": "2S",
+    "damage": "22 [34]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "1",
+    "recovery": "20",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Venom_2S.png/210px-GGAC_Venom_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGXXACPR_Venom_2S-Hitbox.png/210px-GGXXACPR_Venom_2S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2H",
+    "move": "2H",
+    "damage": "20 x 2 [34]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6, 3",
+    "recovery": "21",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "14 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Venom_2H.png/205px-GGAC_Venom_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Venom_2H-1-Hitbox.png/210px-GGXXACPR_Venom_2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGXXACPR_Venom_2H-2-Hitbox.png/210px-GGXXACPR_Venom_2H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGXXACPR_Venom_2H-3-Hitbox.png/210px-GGXXACPR_Venom_2H-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2D",
+    "move": "2D",
+    "damage": "19 x 2 [38]",
+    "guard": "Low",
+    "invincibility": "6-33F Low Profile",
+    "startup": "6",
+    "active": "2(11)4",
+    "recovery": "24",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/30/GGAC_Venom_2D.png/210px-GGAC_Venom_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/da/GGXXACPR_Venom_2D-1-Hitbox.png/210px-GGXXACPR_Venom_2D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGACR_Venom_2D_Hitbox_2.png/210px-GGACR_Venom_2D_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGXXACPR_Venom_2D-2-Hitbox.png/210px-GGXXACPR_Venom_2D-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/11/GGXXACPR_Venom_2D-3-Hitbox.png/210px-GGXXACPR_Venom_2D-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.P",
+    "move": "JP",
+    "damage": "10 [28]",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "9",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/0/01/GGAC_Venom_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGXXACPR_Venom_jP-Hitbox.png/169px-GGXXACPR_Venom_jP-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.K",
+    "move": "JK",
+    "damage": "12 [32]",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "12",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c5/GGAC_Venom_jK.png/210px-GGAC_Venom_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b3/GGXXACPR_Venom_jK-Hitbox.png/201px-GGXXACPR_Venom_jK-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.S",
+    "move": "JS",
+    "damage": "24 [37]",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "5",
+    "recovery": "21",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/9/95/GGAC_Venom_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f7/GGXXACPR_Venom_jS-1-Hitbox.png/170px-GGXXACPR_Venom_jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGXXACPR_Venom_jS-2-Hitbox.png/172px-GGXXACPR_Venom_jS-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.H",
+    "move": "JH",
+    "damage": "36 [46]",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "8",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/36/GGAC_Venom_jH.png/190px-GGAC_Venom_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGXXACPR_Venom_jH-1-Hitbox.png/178px-GGXXACPR_Venom_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGXXACPR_Venom_jH-2-Hitbox.png/178px-GGXXACPR_Venom_jH-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.D",
+    "move": "JD",
+    "damage": "40 [50]",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "8",
+    "recovery": "13 + 6 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "10",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/b/be/GGAC_Venom_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/87/GGXXACPR_Venom_jD-1-Hitbox.png/188px-GGXXACPR_Venom_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGXXACPR_Venom_jD-2-Hitbox.png/190px-GGXXACPR_Venom_jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "5 x 7",
+    "guard": "43 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGAC_Venom_throw.png/208px-GGAC_Venom_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "5 x 7",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "45-47F",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGAC_Venom_airThrow.png/205px-GGAC_Venom_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "1-13F All, 14-29F Throw",
+    "startup": "11",
+    "active": "3",
+    "recovery": "19",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGAC_Venom_5K.png/148px-GGAC_Venom_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGXXACPR_Venom_5K-Hitbox.png/147px-GGXXACPR_Venom_5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214X",
+    "move": "Summoning Ball",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "Total 26",
+    "recovery": "15",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d1/GGAC_Venom_214X.png/86px-GGAC_Venom_214X.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGAC_Venom_214X-Hitbox.png/86px-GGAC_Venom_214X-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214X",
+    "move": "Air Summoning Ball",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "Total 35",
+    "recovery": "26",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/71/GGAC_Venom_j214X.png/176px-GGAC_Venom_j214X.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/14/GGAC_Venom_j214X-Hitbox.png/151px-GGAC_Venom_j214X-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[4]6S",
+    "move": "Stinger Aim S",
+    "damage": "30 [30]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "Until Hit",
+    "recovery": "Total 37",
+    "block": "+2",
+    "frc_window": "16-18F",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGAC_Venom_46S.png/210px-GGAC_Venom_46S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Venom_46S-Hitbox.png/210px-GGAC_Venom_46S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[4]6H",
+    "move": "Stinger Aim H",
+    "damage": "46 [46]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "Until Hit",
+    "recovery": "Total 48",
+    "block": "-13",
+    "frc_window": "15-18F",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGAC_Venom_46S.png/210px-GGAC_Venom_46S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Venom_46S-Hitbox.png/210px-GGAC_Venom_46S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[4]6[S]",
+    "move": "Enhanced Stinger Aim S",
+    "damage": "22 x 2-6 [30]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6 After Release",
+    "active": "Until Hit",
+    "recovery": "30 After Release",
+    "block": "Check Dustloop",
+    "frc_window": "9-11F After Release",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2-6",
+    "guard_bar_minus": "6 x 2-6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGACR_Venom_46S-Charged.png/210px-GGACR_Venom_46S-Charged.png"
+    ]
+  },
+  {   
+    "input": "[4]6[H]",
+    "move": "Enhanced Stinger Aim H",
+    "damage": "22 x 2-6 [46]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5 After Release",
+    "active": "Until Hit",
+    "recovery": "44 After Release",
+    "block": "Check Dustloop",
+    "frc_window": "11-13F After Release",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2-6",
+    "guard_bar_minus": "6 x 2-6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGACR_Venom_46S-Charged.png/210px-GGACR_Venom_46S-Charged.png"
+    ]
+  },
+  {   
+    "input": "[2]8S",
+    "move": "Carcass Raid S",
+    "damage": "36 [35]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "Until Hit",
+    "recovery": "Total 34",
+    "block": "+8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGAC_Venom_28S.png/210px-GGAC_Venom_28S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGAC_Venom_28S-Hitbox.png/134px-GGAC_Venom_28S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[2]8H",
+    "move": "Carcass Raid H",
+    "damage": "50 [49]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "Until Hit",
+    "recovery": "Total 48",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_Venom_28H.png/121px-GGAC_Venom_28H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGAC_Venom_28S-Hitbox.png/134px-GGAC_Venom_28S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[2]8[S]",
+    "move": "Enhanced Carcass Raid S",
+    "damage": "24 x 2-6 [35]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9 After Release",
+    "active": "Until Hit",
+    "recovery": "27 After Release",
+    "block": "Check Dustloop",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2-6",
+    "guard_bar_minus": "6 x 2-6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/03/GGACR_Venom_28S-Charged.png/210px-GGACR_Venom_28S-Charged.png"
+    ]
+  },
+  {   
+    "input": "[2]8[H]",
+    "move": "Enhanced Carcass Raid H",
+    "damage": "27 x 2-6 [49]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6 After Release",
+    "active": "Until Hit",
+    "recovery": "41 After Release",
+    "block": "Check Dustloop",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2-6",
+    "guard_bar_minus": "6 x 2-6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/97/GGACR_Venom_28H-Charged.png/121px-GGACR_Venom_28H-Charged.png"
+    ]
+  },
+  {   
+    "input": "[2]8S/H > P or [4]6S/H > P",
+    "move": "Feint",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 5",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGACR_Venom_28X~P.png/152px-GGACR_Venom_28X~P.png"
+    ]
+  },
+  {   
+    "input": "421X",
+    "move": "Dubious Curve",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "1-17F Feet",
+    "startup": "21",
+    "active": "3",
+    "recovery": "19",
+    "block": "-3",
+    "frc_window": "21-22F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Venom_421X.png/193px-GGAC_Venom_421X.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGAC_Venom_421X-Hitbox.png/186px-GGAC_Venom_421X-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623S",
+    "move": "Double Head Morbid S",
+    "damage": "44 [37]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "8",
+    "recovery": "24",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/af/GGAC_Venom_623S.png/210px-GGAC_Venom_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGACR_Venom_623S_Hitbox.png/209px-GGACR_Venom_623S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623H",
+    "move": "Double Head Morbid H",
+    "damage": "21 x 4 [40]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15~",
+    "active": "4 x 6",
+    "recovery": "18",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 4",
+    "guard_bar_minus": "7 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/af/GGAC_Venom_623S.png/210px-GGAC_Venom_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGACR_Venom_623H_Hitbox.png/209px-GGACR_Venom_623H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.236S",
+    "move": "Mad Struggle S",
+    "damage": "12 x 4 [37]",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "Until Landing",
+    "recovery": "6 After Landing",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8 x 4",
+    "guard_bar_minus": "7 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGAC_Venom_j236S.png/189px-GGAC_Venom_j236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGACR_Venom_j236S_Hitbox_1.png/177px-GGACR_Venom_j236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGACR_Venom_j236S_Hitbox_2.png/177px-GGACR_Venom_j236S_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGACR_Venom_j236S_Hitbox_3.png/177px-GGACR_Venom_j236S_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGACR_Venom_j236S_Hitbox_4.png/177px-GGACR_Venom_j236S_Hitbox_4.png"
+    ]
+  },
+  {   
+    "input": "j.236H",
+    "move": "Mad Struggle H",
+    "damage": "15 x 4 [37], 15 x 3 [40]",
+    "guard": "High/Air x 4, Mid x 3",
+    "invincibility": "1-7F Strike, 8-9F Upper Body & Feet, 10-31F Feet",
+    "startup": "16",
+    "active": "Until Landing, (5)2, 6 ,2",
+    "recovery": "20",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8 x 4, 10 x 3",
+    "guard_bar_minus": "7 x 7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/77/GGAC_Venom_j236H.png/116px-GGAC_Venom_j236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/34/GGACR_Venom_j236H_Hitbox_1.png/114px-GGACR_Venom_j236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0b/GGACR_Venom_j236H_Hitbox_2.png/122px-GGACR_Venom_j236H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGACR_Venom_j236H_Hitbox_3.png/163px-GGACR_Venom_j236H_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/31/GGACR_Venom_j236H_Hitbox_4.png/147px-GGACR_Venom_j236H_Hitbox_4.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/df/GGACR_Venom_j236H_Hitbox_5.png/101px-GGACR_Venom_j236H_Hitbox_5.png"
+    ]
+  },
+  {   
+    "input": "623K",
+    "move": "Teleport",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "10-15F Strike, 16-20F All",
+    "startup": "15",
+    "active": "(5 Intangible)",
+    "recovery": "20",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/5d/GGAC_Venom_623K.png"
+    ]
+  },
+  {   
+    "input": "214X Hit Ball",
+    "move": "Hit Ball",
+    "damage": "Ball Damage",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "Until Hit",
+    "recovery": "N/A",
+    "block": "Variable",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b6/GGAC_Venom_Active_Ball.png/210px-GGAC_Venom_Active_Ball.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGAC_Venom_Active_Ball_Hitbox.png/210px-GGAC_Venom_Active_Ball_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214X Lightning Ball",
+    "move": "Lightning Ball",
+    "damage": "[Ball Damage ÷ 2] x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "Until Hit",
+    "recovery": "N/A",
+    "block": "Variable",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 3",
+    "guard_bar_minus": "5 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGAC_Venom_lightningBall.png/210px-GGAC_Venom_lightningBall.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGAC_Venom_lightningBall_Hitbox.png/210px-GGAC_Venom_lightningBall_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[4]6D",
+    "move": "FB Stinger Aim",
+    "damage": "46 x 2 [46]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "Until Hit",
+    "recovery": "Total 38",
+    "block": "-3",
+    "frc_window": "15-17F",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGAC_Venom_46S.png/210px-GGAC_Venom_46S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Venom_46S-Hitbox.png/210px-GGAC_Venom_46S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[4]6[D]",
+    "move": "FB Enhanced Stinger Aim",
+    "damage": "26 x 2-6 [46]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5 After Release",
+    "active": "Until Hit",
+    "recovery": "34 after release",
+    "block": "Check Dustloop",
+    "frc_window": "11-13F after release",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2-6",
+    "guard_bar_minus": "6 x 2-6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGACR_Venom_46S-Charged.png/210px-GGACR_Venom_46S-Charged.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Venom_46S-Hitbox.png/210px-GGAC_Venom_46S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[2]8D",
+    "move": "FB Carcass Raid",
+    "damage": "35 [34]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "Until Hit",
+    "recovery": "Total 32",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_Venom_28H.png/121px-GGAC_Venom_28H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGAC_Venom_28S-Hitbox.png/134px-GGAC_Venom_28S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "[2]8[D]",
+    "move": "FB Enhanced Carcass Raid",
+    "damage": "23 x 2-6 [33]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6 After Release",
+    "active": "Until Hit",
+    "recovery": "25 After Release",
+    "block": "Check Dustloop",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2-6",
+    "guard_bar_minus": "6 x 2-6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_Venom_28H.png/121px-GGAC_Venom_28H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGAC_Venom_28S-Hitbox.png/134px-GGAC_Venom_28S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623D",
+    "move": "FB Double Head Morbid",
+    "damage": "14 x 6 [40]",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "15~",
+    "active": "4 x 5, 6",
+    "recovery": "22",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 6",
+    "guard_bar_minus": "3 x 6",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/af/GGAC_Venom_623S.png/210px-GGAC_Venom_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGACR_Venom_623H_Hitbox.png/209px-GGACR_Venom_623H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.236D",
+    "move": "FB Mad Struggle",
+    "damage": "10, 30 [50]",
+    "guard": "All, High/Air",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "2(2)2",
+    "recovery": "6",
+    "block": "+19",
+    "frc_window": "N/A",
+    "proration": "100%, Forced 90%",
+    "guard_bar_plus": "20, 15",
+    "guard_bar_minus": "0, 9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGAC_Venom_j236S.png/189px-GGAC_Venom_j236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Venom_j236D-Hitbox.png/180px-GGACR_Venom_j236D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2141236S",
+    "move": "Dark Angel",
+    "damage": "10 x 28",
+    "guard": "All",
+    "invincibility": "1-7F Strike, 8-9F Upper Body & Feet, 10-31F Feet",
+    "startup": "7 + 18",
+    "active": "Total Duration 35",
+    "recovery": "10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 28",
+    "guard_bar_minus": "2 x 28",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGAC_Venom_214236S.png/210px-GGAC_Venom_214236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Venom_214236S_Hitbox.png/210px-GGAC_Venom_214236S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.236236H",
+    "move": "Red Hail",
+    "damage": "26 x 8 [26]",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "10 + 0",
+    "active": "Total Duration 91",
+    "recovery": "25 + 9 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 28",
+    "guard_bar_minus": "6 x 8",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGAC_Venom_j236236H.png/187px-GGAC_Venom_j236236H.png"
+    ]
+  },
+  {   
+    "input": "632146X",
+    "move": "Tactical Arch",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "Total Duration 29",
+    "recovery": "17",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGAC_Venom_TacticsArch.png/210px-GGAC_Venom_TacticsArch.pngs"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Dimmu Borgir",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "1-19F Strike",
+    "startup": "15 + 11",
+    "active": "6",
+    "recovery": "33",
+    "block": "-20",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Venom_IK1.png/210px-GGAC_Venom_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGAC_Venom_IK2.png/210px-GGAC_Venom_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGACR_Venom_IK_Hitbox_1.png/210px-GGACR_Venom_IK_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/ff/GGACR_Venom_IK_Hitbox_2.png/210px-GGACR_Venom_IK_Hitbox_2.png"
+    ]
+  }
+]

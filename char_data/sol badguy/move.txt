@@ -1,0 +1,1525 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "4",
+    "recovery": "6",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGAC_Sol_5P.png/163px-GGAC_Sol_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGXXACPR_Sol_5P-Hitbox.png/163px-GGXXACPR_Sol_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5P DI",
+    "move": "5P Dragon Install",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "3",
+    "active": "2",
+    "recovery": "4",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGAC_Sol_5P.png/163px-GGAC_Sol_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGXXACPR_Sol_5P-Hitbox.png/163px-GGXXACPR_Sol_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "14 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "3",
+    "active": "2, 6",
+    "recovery": "13",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Sol_5K.png/209px-GGAC_Sol_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGXXACPR_Sol_5K-1-Hitbox.png/210px-GGXXACPR_Sol_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Sol_5K-2-Hitbox.png/210px-GGXXACPR_Sol_5K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGXXACPR_Sol_5K-3-Hitbox.png/210px-GGXXACPR_Sol_5K-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K DI",
+    "move": "5K Dragon Install",
+    "damage": "14 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "2",
+    "active": "1, 4",
+    "recovery": "7",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 2",
+    "guard_bar_minus": "8 x 2",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Sol_5K.png/209px-GGAC_Sol_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGXXACPR_Sol_5K-1-Hitbox.png/210px-GGXXACPR_Sol_5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Sol_5K-2-Hitbox.png/210px-GGXXACPR_Sol_5K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGXXACPR_Sol_5K-3-Hitbox.png/210px-GGXXACPR_Sol_5K-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "12",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGAC_Sol_cS.png/210px-GGAC_Sol_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGXXACPR_Sol_cS-Hitbox.png/210px-GGXXACPR_Sol_cS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S DI",
+    "move": "CS Dragon Install",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "12",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGAC_Sol_cS.png/210px-GGAC_Sol_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGXXACPR_Sol_cS-Hitbox.png/210px-GGXXACPR_Sol_cS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "1",
+    "recovery": "24",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGAC_Sol_fS.png/210px-GGAC_Sol_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGXXACPR_Sol_fS-Hitbox.png/210px-GGXXACPR_Sol_fS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S DI",
+    "move": "FS Dragon Install",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "1",
+    "recovery": "14",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGAC_Sol_fS.png/210px-GGAC_Sol_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGXXACPR_Sol_fS-Hitbox.png/210px-GGXXACPR_Sol_fS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5H",
+    "move": "5H",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "2",
+    "recovery": "26",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGAC_Sol_5H.png/210px-GGAC_Sol_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGXXACPR_Sol_5H-Hitbox.png/210px-GGXXACPR_Sol_5H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5H DI",
+    "move": "5H Dragon Install",
+    "damage": "44",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "1",
+    "recovery": "13",
+    "block": "+5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGAC_Sol_5H.png/210px-GGAC_Sol_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGXXACPR_Sol_5H-Hitbox.png/210px-GGXXACPR_Sol_5H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D",
+    "move": "5D",
+    "damage": "17",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "24",
+    "active": "3",
+    "recovery": "24",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_Sol_5D.png/164px-GGAC_Sol_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Sol_5D-Hitbox.png/188px-GGXXACPR_Sol_5D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D DI",
+    "move": "5D Dragon Install",
+    "damage": "20",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "16",
+    "active": "2",
+    "recovery": "12",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_Sol_5D.png/164px-GGAC_Sol_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXXACPR_Sol_5D-Hitbox.png/188px-GGXXACPR_Sol_5D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6P",
+    "move": "6P",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "1-8F, 14-21F Upper Body, 9-13F Above Knees",
+    "startup": "11",
+    "active": "3",
+    "recovery": "20",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Sol_6P.png/210px-GGAC_Sol_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGXXACPR_Sol_6P-Hitbox.png/210px-GGXXACPR_Sol_6P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6P DI",
+    "move": "6P Dragon Install",
+    "damage": "32",
+    "guard": "Mid",
+    "invincibility": "1-4F, 8-11F Upper Body, 5-7F Above Knees",
+    "startup": "6",
+    "active": "2",
+    "recovery": "10",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Sol_6P.png/210px-GGAC_Sol_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGXXACPR_Sol_6P-Hitbox.png/210px-GGXXACPR_Sol_6P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6H",
+    "move": "6H",
+    "damage": "32 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "5, 1",
+    "recovery": "30",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGAC_Sol_6H.png/210px-GGAC_Sol_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGXXACPR_Sol_6H-Hitbox.png/210px-GGXXACPR_Sol_6H-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGXXACPR_Sol_6H-2-Hitbox.png/210px-GGXXACPR_Sol_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7a/GGXXACPR_Sol_6H-3-Hitbox.png/210px-GGXXACPR_Sol_6H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGXXACPR_Sol_6H-4-Hitbox.png/210px-GGXXACPR_Sol_6H-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ef/GGXXACPR_Sol_6H-5-Hitbox.png/210px-GGXXACPR_Sol_6H-5-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGXXACPR_Sol_6H-6-Hitbox.png/210px-GGXXACPR_Sol_6H-6-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6H DI",
+    "move": "6H Dragon Install",
+    "damage": "40 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "5, 1",
+    "recovery": "16",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGAC_Sol_6H.png/210px-GGAC_Sol_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGXXACPR_Sol_6H-Hitbox.png/210px-GGXXACPR_Sol_6H-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGXXACPR_Sol_6H-2-Hitbox.png/210px-GGXXACPR_Sol_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7a/GGXXACPR_Sol_6H-3-Hitbox.png/210px-GGXXACPR_Sol_6H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGXXACPR_Sol_6H-4-Hitbox.png/210px-GGXXACPR_Sol_6H-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ef/GGXXACPR_Sol_6H-5-Hitbox.png/210px-GGXXACPR_Sol_6H-5-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGXXACPR_Sol_6H-6-Hitbox.png/210px-GGXXACPR_Sol_6H-6-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "4",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/50/GGAC_Sol_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/78/GGXXACPR_Sol_2P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2P DI",
+    "move": "2P Dragon Install",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "3",
+    "active": "2",
+    "recovery": "4",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/50/GGAC_Sol_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/78/GGXXACPR_Sol_2P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "8",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGAC_Sol_2K.png/210px-GGAC_Sol_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGXXACPR_Sol_2K-Hitbox.png/210px-GGXXACPR_Sol_2K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2K DI",
+    "move": "2K Dragon Install",
+    "damage": "14",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "2",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGAC_Sol_2K.png/210px-GGAC_Sol_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGXXACPR_Sol_2K-Hitbox.png/210px-GGXXACPR_Sol_2K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2S",
+    "move": "2S",
+    "damage": "25",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "3",
+    "recovery": "8",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGAC_Sol_2S.png/210px-GGAC_Sol_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGXXACPR_Sol_2S-Hitbox.png/210px-GGXXACPR_Sol_2S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2S DI",
+    "move": "2S Dragon Install",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "2",
+    "recovery": "5",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGAC_Sol_2S.png/210px-GGAC_Sol_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ce/GGXXACPR_Sol_2S-Hitbox.png/210px-GGXXACPR_Sol_2S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2H",
+    "move": "2H",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "6",
+    "recovery": "26",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGAC_Sol_2H.png/124px-GGAC_Sol_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGXXACPR_Sol_2H1-Hitbox.png/162px-GGXXACPR_Sol_2H1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGXXACPR_Sol_2H2-Hitbox.png/142px-GGXXACPR_Sol_2H2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGXXACPR_Sol_2H3-Hitbox.png/124px-GGXXACPR_Sol_2H3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2H DI",
+    "move": "2H Dragon Install",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "3",
+    "recovery": "13",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGAC_Sol_2H.png/124px-GGAC_Sol_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGXXACPR_Sol_2H1-Hitbox.png/162px-GGXXACPR_Sol_2H1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGXXACPR_Sol_2H2-Hitbox.png/142px-GGXXACPR_Sol_2H2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGXXACPR_Sol_2H3-Hitbox.png/124px-GGXXACPR_Sol_2H3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2D",
+    "move": "2D",
+    "damage": "28",
+    "guard": "Low",
+    "invincibility": "4-23F Low Profile",
+    "startup": "7",
+    "active": "3",
+    "recovery": "20",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGAC_Sol_2D.png/210px-GGAC_Sol_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGXXACPR_Sol_2D-Hitbox.png/210px-GGXXACPR_Sol_2D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2D DI",
+    "move": "2D Dragon Install",
+    "damage": "30",
+    "guard": "Low",
+    "invincibility": "3-15F Low Profile",
+    "startup": "5",
+    "active": "2",
+    "recovery": "13",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGAC_Sol_2D.png/210px-GGAC_Sol_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGXXACPR_Sol_2D-Hitbox.png/210px-GGXXACPR_Sol_2D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.P",
+    "move": "JP",
+    "damage": "13",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "7",
+    "recovery": "4",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/a/a7/GGAC_Sol_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGXXACPR_Sol_jP1-Hitbox.png/121px-GGXXACPR_Sol_jP1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGXXACPR_Sol_jP2-Hitbox.png/117px-GGXXACPR_Sol_jP2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.P DI",
+    "move": "JP Dragon Install",
+    "damage": "12",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "3",
+    "active": "4",
+    "recovery": "3",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/a/a7/GGAC_Sol_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGXXACPR_Sol_jP1-Hitbox.png/121px-GGXXACPR_Sol_jP1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGXXACPR_Sol_jP2-Hitbox.png/117px-GGXXACPR_Sol_jP2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.K",
+    "move": "JK",
+    "damage": "22",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "6",
+    "recovery": "17",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGAC_Sol_jK.png/210px-GGAC_Sol_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGXXACPR_Sol_jK-Hitbox.png/184px-GGXXACPR_Sol_jK-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.K DI",
+    "move": "JK Dragon Install",
+    "damage": "22",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGAC_Sol_jK.png/210px-GGAC_Sol_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c6/GGXXACPR_Sol_jK-Hitbox.png/184px-GGXXACPR_Sol_jK-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.S",
+    "move": "JS",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3",
+    "recovery": "23",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGAC_Sol_jS.png/205px-GGAC_Sol_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGXXACPR_Sol_jS-Hitbox.png/186px-GGXXACPR_Sol_jS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.S DI",
+    "move": "JS Dragon Install",
+    "damage": "25",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "2",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGAC_Sol_jS.png/205px-GGAC_Sol_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/be/GGXXACPR_Sol_jS-Hitbox.png/186px-GGXXACPR_Sol_jS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.H",
+    "move": "JH",
+    "damage": "24 x 2",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6, 8",
+    "recovery": "0",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/56/GGAC_Sol_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Sol_jH-1-Hitbox.png/149px-GGXXACPR_Sol_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGXXACPR_Sol_jH-2-Hitbox.png/149px-GGXXACPR_Sol_jH-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGXXACPR_Sol_jH-3-Hitbox.png/149px-GGXXACPR_Sol_jH-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.H DI",
+    "move": "JH Dragon Install",
+    "damage": "20 x 2",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "4, 4",
+    "recovery": "0",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/5/56/GGAC_Sol_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Sol_jH-1-Hitbox.png/149px-GGXXACPR_Sol_jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGXXACPR_Sol_jH-2-Hitbox.png/149px-GGXXACPR_Sol_jH-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGXXACPR_Sol_jH-3-Hitbox.png/149px-GGXXACPR_Sol_jH-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.D",
+    "move": "JD",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "7",
+    "recovery": "10 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGAC_Sol_jD.png/206px-GGAC_Sol_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGXXACPR_Sol_jD-1-Hitbox.png/173px-GGXXACPR_Sol_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGXXACPR_Sol_jD-2-Hitbox.png/166px-GGXXACPR_Sol_jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "60",
+    "guard": "43 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGAC_Sol_throw.png/161px-GGAC_Sol_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6, 7",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGAC_Sol_airThrow.png/210px-GGAC_Sol_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-13F All, 14-33F Throw, 14-23F Upper Body",
+    "startup": "11",
+    "active": "3",
+    "recovery": "25",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/21/GGAC_Sol_6P.png/210px-GGAC_Sol_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGXXACPR_Sol_6P-Hitbox.png/210px-GGXXACPR_Sol_6P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236P",
+    "move": "Gun Flame",
+    "damage": "50→42→30→30",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "21",
+    "active": "9(1)9, 6 x 2",
+    "recovery": "Total 50",
+    "block": "-3",
+    "frc_window": "14-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "3→3→2→2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGAC_Sol_236P.png/210px-GGAC_Sol_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGACR_Sol_236P_Hitbox.png/210px-GGACR_Sol_236P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236P DI",
+    "move": "Gun Flame Dragon Install",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "20",
+    "active": "6",
+    "recovery": "7",
+    "block": "+7",
+    "frc_window": "21-22F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/83/GGACR_Sol_236P_DI.png/210px-GGACR_Sol_236P_DI.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGACR_Sol_236-DI_Hitbox_1.png/210px-GGACR_Sol_236-DI_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGACR_Sol_236-DI_Hitbox_2.png/210px-GGACR_Sol_236-DI_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "214P",
+    "move": "Gun Flame Feint",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "2",
+    "recovery": "17",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/66/GGAC_Sol_214P.png/170px-GGAC_Sol_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7c/GGXXACPR_Sol_214P-Hitbox.png/178px-GGXXACPR_Sol_214P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623S",
+    "move": "Volcanic Viper S",
+    "damage": "20, 36",
+    "guard": "Mid",
+    "invincibility": "1-9F All, 10-13F Strike",
+    "startup": "7",
+    "active": "3(3)11",
+    "recovery": "21 + 10 After Landing",
+    "block": "-28",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGXXACPR_Sol_623S-1-Hitbox.png/177px-GGXXACPR_Sol_623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGXXACPR_Sol_623S-2-Hitbox.png/136px-GGXXACPR_Sol_623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623H",
+    "move": "Volcanic Viper H",
+    "damage": "20, 36",
+    "guard": "Mid",
+    "invincibility": "1-6F All, 7-11F Strike",
+    "startup": "5",
+    "active": "2(3)18",
+    "recovery": "29 + 10 After Landing",
+    "block": "-43",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGXXACPR_Sol_623S-1-Hitbox.png/177px-GGXXACPR_Sol_623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGXXACPR_Sol_623S-2-Hitbox.png/136px-GGXXACPR_Sol_623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623S DI",
+    "move": "Volcanic Viper S Dragon Install",
+    "damage": "20 x 3",
+    "guard": "Mid",
+    "invincibility": "1-9F All, 10-10F Strike",
+    "startup": "7",
+    "active": "3(1)4, 2",
+    "recovery": "21 + 10 After Landing",
+    "block": "-19",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGXXACPR_Sol_DI-623S-1-Hitbox.png/177px-GGXXACPR_Sol_DI-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Sol_DI-623S-2-Hitbox.png/138px-GGXXACPR_Sol_DI-623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623H DI",
+    "move": "Volcanic Viper H Dragon Install",
+    "damage": "60, 18 x 9",
+    "guard": "Mid",
+    "invincibility": "1-9F All",
+    "startup": "7",
+    "active": "3, 54",
+    "recovery": "36 + 10 After Landing",
+    "block": "-78",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20, 10 x 9",
+    "guard_bar_minus": "1, 6 x 9",
+    "level": "5, 3 x 9",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGXXACPR_Sol_DI-623S-1-Hitbox.png/177px-GGXXACPR_Sol_DI-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6a/GGXXACPR_Sol_DI-j623S-2-Hitbox.png/136px-GGXXACPR_Sol_DI-j623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.623S",
+    "move": "Air Volcanic Viper S",
+    "damage": "36, 24",
+    "guard": "All",
+    "invincibility": "1-9F Strike",
+    "startup": "5",
+    "active": "2(3)9",
+    "recovery": "Until Landing + 10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGXXACPR_Sol_j623S-1-Hitbox.png/150px-GGXXACPR_Sol_j623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGXXACPR_Sol_623S-2-Hitbox.png/136px-GGXXACPR_Sol_623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.623H",
+    "move": "Air Volcanic Viper S",
+    "damage": "46, 26",
+    "guard": "All",
+    "invincibility": "1-9F Strike",
+    "startup": "5",
+    "active": "2(3)18",
+    "recovery": "Until Landing + 10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGXXACPR_Sol_j623S-1-Hitbox.png/150px-GGXXACPR_Sol_j623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b5/GGXXACPR_Sol_623S-2-Hitbox.png/136px-GGXXACPR_Sol_623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.623S/H DI",
+    "move": "Air Volcanic Viper Dragon Install",
+    "damage": "20 x 3",
+    "guard": "Mid, All x 2",
+    "invincibility": "1-9F All, 10-11F Strike",
+    "startup": "7",
+    "active": "3(2)2, 6",
+    "recovery": "Until Landing + 10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10, 14 x 2",
+    "guard_bar_minus": "7, 6 x 2",
+    "level": "3, 4 x 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Sol_623S.png/137px-GGAC_Sol_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGXXACPR_Sol_DI-623S-1-Hitbox.png/177px-GGXXACPR_Sol_DI-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Sol_DI-623S-2-Hitbox.png/138px-GGXXACPR_Sol_DI-623S-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623S/H > 214K",
+    "move": "Knockdown",
+    "damage": "16",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "4",
+    "recovery": "Until Landing + 10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGAC_Sol_623S214K.png/210px-GGAC_Sol_623S214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGXXACPR_Sol_j214K-1-Hitbox.png/202px-GGXXACPR_Sol_j214K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGXXACPR_Sol_j214K-2-Hitbox.png/202px-GGXXACPR_Sol_j214K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K",
+    "move": "Bandit Revolver",
+    "damage": "24, 36",
+    "guard": "Mid",
+    "invincibility": "1-3F Strike",
+    "startup": "9",
+    "active": "5(11)9",
+    "recovery": "2 + 7 After Landing",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7, 9",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/14/GGAC_Sol_236K.png/210px-GGAC_Sol_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGXXACPR_Sol_BR-1-Hitbox.png/210px-GGXXACPR_Sol_BR-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGXXACPR_Sol_BR-2-Hitbox.png/210px-GGXXACPR_Sol_BR-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR_Sol_BR-3-Hitbox.png/210px-GGXXACPR_Sol_BR-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGXXACPR_Sol_BR-4-Hitbox.png/210px-GGXXACPR_Sol_BR-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGXXACPR_Sol_BR-5-Hitbox.png/210px-GGXXACPR_Sol_BR-5-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.236K",
+    "move": "Air Bandit Revolver",
+    "damage": "22, 20 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3(14)4, 2",
+    "recovery": "Until Landing + 12",
+    "block": "N/A",
+    "frc_window": "6-8F",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/14/GGAC_Sol_236K.png/210px-GGAC_Sol_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGXXACPR_Sol_BR-1-Hitbox.png/210px-GGXXACPR_Sol_BR-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGXXACPR_Sol_BR-2-Hitbox.png/210px-GGXXACPR_Sol_BR-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR_Sol_BR-3-Hitbox.png/210px-GGXXACPR_Sol_BR-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGXXACPR_Sol_BR-4-Hitbox.png/210px-GGXXACPR_Sol_BR-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGXXACPR_Sol_BR-5-Hitbox.png/210px-GGXXACPR_Sol_BR-5-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K DI",
+    "move": "Bandit Revolver Dragon Install",
+    "damage": "20 x 3, 50",
+    "guard": "Mid x 3, High",
+    "invincibility": "1-3F Strike",
+    "startup": "7",
+    "active": "3, 3, 3(9)9",
+    "recovery": "3 + 7 After Landing",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 3, 15",
+    "guard_bar_minus": "6 x 4",
+    "level": "4 x 3, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/14/GGAC_Sol_236K.png/210px-GGAC_Sol_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGXXACPR_Sol_BR-1-Hitbox.png/210px-GGXXACPR_Sol_BR-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGXXACPR_Sol_BR-2-Hitbox.png/210px-GGXXACPR_Sol_BR-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR_Sol_BR-3-Hitbox.png/210px-GGXXACPR_Sol_BR-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGXXACPR_Sol_BR-4-Hitbox.png/210px-GGXXACPR_Sol_BR-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGXXACPR_Sol_BR-5-Hitbox.png/210px-GGXXACPR_Sol_BR-5-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.236K DI",
+    "move": "Air Bandit Revolver Dragon Install",
+    "damage": "22, 20 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3(14)4, 2",
+    "recovery": "Until Landing + 12",
+    "block": "N/A",
+    "frc_window": "6-8F",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 3",
+    "guard_bar_minus": "7 x 3",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/14/GGAC_Sol_236K.png/210px-GGAC_Sol_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGXXACPR_Sol_BR-1-Hitbox.png/210px-GGXXACPR_Sol_BR-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5f/GGXXACPR_Sol_BR-2-Hitbox.png/210px-GGXXACPR_Sol_BR-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR_Sol_BR-3-Hitbox.png/210px-GGXXACPR_Sol_BR-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGXXACPR_Sol_BR-4-Hitbox.png/210px-GGXXACPR_Sol_BR-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGXXACPR_Sol_BR-5-Hitbox.png/210px-GGXXACPR_Sol_BR-5-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236[K]",
+    "move": "Bandit Bringer",
+    "damage": "50",
+    "guard": "High/Air",
+    "invincibility": "1-3F Strike",
+    "startup": "32",
+    "active": "6",
+    "recovery": "9 + 4 After Landing",
+    "block": "+1",
+    "frc_window": "18-20F",
+    "proration": "66%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "10",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/42/GGAC_Sol_236Khold.png/210px-GGAC_Sol_236Khold.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0e/GGXXACPR_Sol_236K-Hold_Hitbox.png/210px-GGXXACPR_Sol_236K-Hold_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214K",
+    "move": "Riot Stamp",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9 After Reaching Wall",
+    "active": "N/A",
+    "recovery": "3 After Landing",
+    "block": "+4~",
+    "frc_window": "9-12F After Reaching Wall",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Sol_214K.png/210px-GGAC_Sol_214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGXXACPR_Sol_RS-Hitbox.png/210px-GGXXACPR_Sol_RS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214K",
+    "move": "Slam",
+    "damage": "60",
+    "guard": "High/Air",
+    "invincibility": "1-3F Strike",
+    "startup": "17",
+    "active": "12",
+    "recovery": "Until landing + 10",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4c/GGACR_Sol_j214K.png/206px-GGACR_Sol_j214K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGXXACPR_Sol_j214K-1-Hitbox.png/202px-GGXXACPR_Sol_j214K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGXXACPR_Sol_j214K-2-Hitbox.png/202px-GGXXACPR_Sol_j214K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "623K",
+    "move": "Wild Throw",
+    "damage": "30",
+    "guard": "70 Pixels",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "1",
+    "recovery": "31",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 55%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/63/GGAC_Sol_623K.png/210px-GGAC_Sol_623K.png"
+    ]
+  },
+  {   
+    "input": "214S",
+    "move": "Ground Viper",
+    "damage": "8 x 7, 32",
+    "guard": "Low x 7, Mid",
+    "invincibility": "1-4F Above Knees, 5-16F Above Feet",
+    "startup": "17",
+    "active": "4 x 4, 2 x 2, 5(20)3",
+    "recovery": "37",
+    "block": "-21",
+    "frc_window": "N/A",
+    "proration": "80% x 7, 100%",
+    "guard_bar_plus": "8 x 7, 20",
+    "guard_bar_minus": "1 x 6, 7, 6",
+    "level": "3 x 7, 5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGAC_Sol_214S.png/210px-GGAC_Sol_214S.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGAC_Sol_214S-2.png/210px-GGAC_Sol_214S-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGXXACPR_Sol_214S-1-Hitbox.png/210px-GGXXACPR_Sol_214S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGXXACPR_Sol_214S-2-Hitbox.png/210px-GGXXACPR_Sol_214S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGXXACPR_Sol_214S-3-Hitbox.png/172px-GGXXACPR_Sol_214S-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "41236H",
+    "move": "Fafnir",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "1-3F Strike",
+    "startup": "19",
+    "active": "3",
+    "recovery": "27",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6a/GGAC_Sol_41236D.png/210px-GGAC_Sol_41236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGXXACPR_Sol_41236H-Hitbox.png/210px-GGXXACPR_Sol_41236H-Hitbox.pngs"
+    ]
+  },
+  {   
+    "input": "j.236H",
+    "move": "Sidewinder",
+    "damage": "35",
+    "guard": "High/Air",
+    "invincibility": "1-3F Strike",
+    "startup": "9",
+    "active": "4",
+    "recovery": "Until landing + 13",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "12",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Sol_j236H.png/210px-GGAC_Sol_j236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGXXACPR_Sol_j236H-1-Hitbox.png/210px-GGXXACPR_Sol_j236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGXXACPR_Sol_j236H-2-Hitbox.png/210px-GGXXACPR_Sol_j236H-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "41236D",
+    "move": "FB Fafnir",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "1-10F Throw",
+    "startup": "11",
+    "active": "3",
+    "recovery": "17",
+    "block": "+7",
+    "frc_window": "N/A",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "10",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6a/GGAC_Sol_41236D.png/210px-GGAC_Sol_41236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGXXACPR_Sol_41236D-Hitbox.png/210px-GGXXACPR_Sol_41236D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "41236H/41236D > 64D",
+    "move": "Tyrant Rave",
+    "damage": "25 x 3, 84",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "3 + 1",
+    "active": "33",
+    "recovery": "35",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "80% x 3, 100%",
+    "guard_bar_plus": "10 x 4",
+    "guard_bar_minus": "7 x 4",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGAC_Sol_46D.png/117px-GGAC_Sol_46D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGACR_Sol_64D_Hitbox_1.png/170px-GGACR_Sol_64D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGACR_Sol_64D_Hitbox_2.png/177px-GGACR_Sol_64D_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "j.236D",
+    "move": "FB Sidewinder",
+    "damage": "60",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "Until Landing + 13",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 70%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "20",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Sol_j236H.png/210px-GGAC_Sol_j236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGXXACPR_Sol_j236H-1-Hitbox.png/210px-GGXXACPR_Sol_j236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/44/GGXXACPR_Sol_j236H-2-Hitbox.png/210px-GGXXACPR_Sol_j236H-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "632146H",
+    "move": "Tyrant Rave ver. Beta",
+    "damage": "80, 60",
+    "guard": "Mid, All",
+    "invincibility": "1-8F Strike",
+    "startup": "5 + 1",
+    "active": "11(17)15",
+    "recovery": "31",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "100%, Forced 70%",
+    "guard_bar_plus": "20, 14",
+    "guard_bar_minus": "6, 8",
+    "level": "5, 4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGAC_Sol_632146H1.png/186px-GGAC_Sol_632146H1.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Sol_632146H2.png/210px-GGAC_Sol_632146H2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Sol_632146H-1-Hitbox.png/210px-GGXXACPR_Sol_632146H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGXXACPR_Sol_632146H-2-Hitbox.png/178px-GGXXACPR_Sol_632146H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGXXACPR_Sol_632146H-3-Hitbox.png/210px-GGXXACPR_Sol_632146H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGXXACPR_Sol_632146H-4-Hitbox.png/176px-GGXXACPR_Sol_632146H-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGXXACPR_Sol_632146H-6-Hitbox.png/178px-GGXXACPR_Sol_632146H-6-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGXXACPR_Sol_632146H-7-Hitbox.png/176px-GGXXACPR_Sol_632146H-7-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214214S",
+    "move": "Dragon Install",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-19F All",
+    "startup": "19 + 1",
+    "active": "N/A",
+    "recovery": "Total 20",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Sol_214214S.png/210px-GGAC_Sol_214214S.png"
+    ]
+  },
+  {   
+    "input": "214214214214P + H",
+    "move": "Dragon Install 2nd",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "63 + 64",
+    "active": "N/A",
+    "recovery": "Total 127",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/08/GGAC_Sol_214214214214P%2BH.png/176px-GGAC_Sol_214214214214P%2BH.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Sol_214214S.png/210px-GGAC_Sol_214214S.png"
+    ]
+  },
+  {   
+    "input": "236236H",
+    "move": "Napalm Death",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7 + 8",
+    "active": "12",
+    "recovery": "26",
+    "block": "-19",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGAC_Sol_IK.png/206px-GGAC_Sol_IK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGACR_Sol_IK_Hitbox.png/210px-GGACR_Sol_IK_Hitbox.png"
+    ]
+  }
+]

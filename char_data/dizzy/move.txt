@@ -1,0 +1,1021 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "12",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGAC_Dizzy_5P.png/210px-GGAC_Dizzy_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0e/GGXXACPR_Dizzy_5P-Hitbox.png/210px-GGXXACPR_Dizzy_5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "16",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "14",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/22/GGAC_Dizzy_5K.png/210px-GGAC_Dizzy_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f6/GGXXACPR_Dizzy_5K-Hitbox.png/210px-GGXXACPR_Dizzy_5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "24",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "11",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGAC_Dizzy_cS.png/192px-GGAC_Dizzy_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/96/GGXXACPR_Dizzy_cS-Hitbox.png/205px-GGXXACPR_Dizzy_cS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "20 x 5",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "2 x 4, 6",
+    "recovery": "12",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 5",
+    "guard_bar_minus": "7 x 5",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGAC_Dizzy_fS.png/210px-GGAC_Dizzy_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3f/GGXXACPR_Dizzy_fS-1-Hitbox.png/210px-GGXXACPR_Dizzy_fS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGXXACPR_Dizzy_fS-2-Hitbox.png/210px-GGXXACPR_Dizzy_fS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b7/GGXXACPR_Dizzy_fS-3-Hitbox.png/210px-GGXXACPR_Dizzy_fS-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5H",
+    "move": "5H",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "12",
+    "active": "6",
+    "recovery": "15",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGAC_Dizzy_5H.png/210px-GGAC_Dizzy_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGXXACPR_Dizzy_5H-Hitbox.png/210px-GGXXACPR_Dizzy_5H-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5D",
+    "move": "5D",
+    "damage": "20",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "29",
+    "active": "14",
+    "recovery": "15",
+    "block": "-12",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "20",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGAC_Dizzy_5D.png/210px-GGAC_Dizzy_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/37/GGXXACPR_Dizzy_5D-1-Hitbox.png/210px-GGXXACPR_Dizzy_5D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGXXACPR_Dizzy_5D-2-Hitbox.png/208px-GGXXACPR_Dizzy_5D-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6P",
+    "move": "6P",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "1-14F Upper Body",
+    "startup": "11",
+    "active": "4",
+    "recovery": "19",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Dizzy_6P.png/210px-GGAC_Dizzy_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a0/GGXXACPR_Dizzy_6P-Hitbox.png/210px-GGXXACPR_Dizzy_6P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "6H",
+    "move": "6H",
+    "damage": "38 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "9, 3",
+    "recovery": "21",
+    "block": "-5",
+    "frc_window": "18-20F, 27-29F",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Dizzy_6H.png/210px-GGAC_Dizzy_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGXXACPR_Dizzy_6H-1-Hitbox.png/210px-GGXXACPR_Dizzy_6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/74/GGXXACPR_Dizzy_6H-2-Hitbox.png/210px-GGXXACPR_Dizzy_6H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7f/GGXXACPR_Dizzy_6H-3-Hitbox.png/210px-GGXXACPR_Dizzy_6H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGXXACPR_Dizzy_6H-4-Hitbox.png/210px-GGXXACPR_Dizzy_6H-4-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGAC_Dizzy_2P.png/210px-GGAC_Dizzy_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGXXACPR_Dizzy_2P-Hitbox.png/210px-GGXXACPR_Dizzy_2P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2K",
+    "move": "2K",
+    "damage": "18",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "4",
+    "recovery": "9",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Dizzy_2K.png/210px-GGAC_Dizzy_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Dizzy_2K-1-Hitbox.png/210px-GGXXACPR_Dizzy_2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGXXACPR_Dizzy_2K-2-Hitbox.png/210px-GGXXACPR_Dizzy_2K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2S",
+    "move": "2S",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "3",
+    "recovery": "22",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b4/GGAC_Dizzy_2S.png/176px-GGAC_Dizzy_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGXXACPR_Dizzy_2S-Hitbox.png/160px-GGXXACPR_Dizzy_2S-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2H",
+    "move": "2H",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "4",
+    "recovery": "38",
+    "block": "-23",
+    "frc_window": "8-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGAC_Dizzy_2H.png/210px-GGAC_Dizzy_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGXXACPR_Dizzy_2H-1-Hitbox.png/210px-GGXXACPR_Dizzy_2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ac/GGXXACPR_Dizzy_2H-2-Hitbox.png/210px-GGXXACPR_Dizzy_2H-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "2D",
+    "move": "2D",
+    "damage": "38",
+    "guard": "Low",
+    "invincibility": "9-26F, 36-39F Low Profile, 27-35F Above Feet",
+    "startup": "12",
+    "active": "3",
+    "recovery": "33",
+    "block": "-19",
+    "frc_window": "8-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f5/GGAC_Dizzy_2D.png/210px-GGAC_Dizzy_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGXXACPR_Dizzy_2D-Hitbox.png/210px-GGXXACPR_Dizzy_2D-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.P",
+    "move": "JP",
+    "damage": "12",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "2",
+    "recovery": "10",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2a/GGAC_Dizzy_jP.png/210px-GGAC_Dizzy_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/36/GGXXACPR_Dizzy_jP-Hitbox.png/210px-GGXXACPR_Dizzy_jP-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.K",
+    "move": "JK",
+    "damage": "16",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "12",
+    "recovery": "12",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/86/GGAC_Dizzy_jK.png/136px-GGAC_Dizzy_jK.pngs"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/88/GGXXACPR_Dizzy_jK-1-Hitbox.png/145px-GGXXACPR_Dizzy_jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGXXACPR_Dizzy_jK-2-Hitbox.png/145px-GGXXACPR_Dizzy_jK-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.S",
+    "move": "JS",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGAC_Dizzy_jS.png/210px-GGAC_Dizzy_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGXXACPR_Dizzy_jS-Hitbox.png/210px-GGXXACPR_Dizzy_jS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.2S",
+    "move": "J2S",
+    "damage": "30",
+    "guard": "High/Air",
+    "invincibility": "1-23F Throw",
+    "startup": "7",
+    "active": "9",
+    "recovery": "8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGAC_Dizzy_j2S.png/210px-GGAC_Dizzy_j2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGXXACPR_Dizzy_j2S-1-Hitbox.png/210px-GGXXACPR_Dizzy_j2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/78/GGXXACPR_Dizzy_j2S-2-Hitbox.png/210px-GGXXACPR_Dizzy_j2S-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGXXACPR_Dizzy_j2S-3-Hitbox.png/210px-GGXXACPR_Dizzy_j2S-3-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.H",
+    "move": "JH",
+    "damage": "42",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "4",
+    "recovery": "28",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGAC_Dizzy_jH.png/210px-GGAC_Dizzy_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGXXACPR_Dizzy_jH-Hitbox.png/210px-GGXXACPR_Dizzy_jH-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.D",
+    "move": "JD",
+    "damage": "30, 40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "9, 3",
+    "recovery": "15 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGAC_Dizzy_jD.png/210px-GGAC_Dizzy_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGXXACPR_Dizzy_jD-1-Hitbox.png/210px-GGXXACPR_Dizzy_jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGXXACPR_Dizzy_jD-2-Hitbox.png/210px-GGXXACPR_Dizzy_jD-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Dizzy_jD-3-Hitbox.png/210px-GGXXACPR_Dizzy_jD-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGXXACPR_Dizzy_jD-4-Hitbox.png/210px-GGXXACPR_Dizzy_jD-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3b/GGXXACPR_Dizzy_jD-5-Hitbox.png/210px-GGXXACPR_Dizzy_jD-5-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "50",
+    "guard": "49 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6 x 2",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGAC_Dizzy_throw.png/199px-GGAC_Dizzy_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6 x 2",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGAC_Dizzy_airThrow.png/210px-GGAC_Dizzy_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-12F All, 13-32F Throw and Upper Body",
+    "startup": "11",
+    "active": "2",
+    "recovery": "23",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Dizzy_6P.png/210px-GGAC_Dizzy_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/97/GGACR_Dizzy_DAA_Hitbox.png/210px-GGACR_Dizzy_DAA_Hitbox.png"
+    ]
+  },
+  {
+    "input": "66",
+    "move": "Dash",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_Dizzy_Dash.png/210px-GGACR_Dizzy_Dash.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGACR_Dizzy_Dash-1_Hitbox.png/175px-GGACR_Dizzy_Dash-1_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGACR_Dizzy_Dash-2_Hitbox.png/202px-GGACR_Dizzy_Dash-2_Hitbox.png"
+    ]
+  },
+  {
+    "input": "TA",
+    "move": "Taunt A",
+    "damage": "0",
+    "guard": "Air FD",
+    "invincibility": "N/A",
+    "startup": "67",
+    "active": "36",
+    "recovery": "18",
+    "block": "-44",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/22/GGAC_Dizzy_Respect.png/210px-GGAC_Dizzy_Respect.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGXXACPR_Dizzy_R-1-Hitbox.png/210px-GGXXACPR_Dizzy_R-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGXXACPR_Dizzy_R-2-Hitbox.png/210px-GGXXACPR_Dizzy_R-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "TB",
+    "move": "Taunt B",
+    "damage": "0",
+    "guard": "Air FD",
+    "invincibility": "N/A",
+    "startup": "45",
+    "active": "25",
+    "recovery": "18",
+    "block": "-33",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/22/GGAC_Dizzy_Respect.png/210px-GGAC_Dizzy_Respect.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGXXACPR_Dizzy_R-1-Hitbox.png/210px-GGXXACPR_Dizzy_R-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGXXACPR_Dizzy_R-2-Hitbox.png/210px-GGXXACPR_Dizzy_R-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "TC",
+    "move": "Taunt C",
+    "damage": "0",
+    "guard": "Air FD",
+    "invincibility": "N/A",
+    "startup": "57",
+    "active": "37",
+    "recovery": "18",
+    "block": "-45",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/22/GGAC_Dizzy_Respect.png/210px-GGAC_Dizzy_Respect.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGXXACPR_Dizzy_R-1-Hitbox.png/210px-GGXXACPR_Dizzy_R-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fc/GGXXACPR_Dizzy_R-2-Hitbox.png/210px-GGXXACPR_Dizzy_R-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236H",
+    "move": "I Use This To Fish H",
+    "damage": "55",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "8",
+    "recovery": "42",
+    "block": "-23",
+    "frc_window": "31-32F",
+    "proration": "Forced 85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGAC_Dizzy_236H.png/210px-GGAC_Dizzy_236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGACR_Dizzy_236H_Hitbox.png/210px-GGACR_Dizzy_236H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236D",
+    "move": "I Use This To Fish D",
+    "damage": "55",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "14",
+    "active": "8",
+    "recovery": "53",
+    "block": "-34",
+    "frc_window": "31-32F",
+    "proration": "Forced 85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGAC_Dizzy_236H.png/210px-GGAC_Dizzy_236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGACR_Dizzy_236H_Hitbox.png/210px-GGACR_Dizzy_236H_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214P",
+    "move": "My Talking Buddies P",
+    "damage": "21 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "58-68 (26-35)",
+    "active": "3(32)3",
+    "recovery": "12 [Total 36]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 2",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGAC_Dizzy_214P.png/187px-GGAC_Dizzy_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/e/e1/GGACR_Dizzy_214P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214K",
+    "move": "My Talking Buddies K",
+    "damage": "20 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "58-60 (27)",
+    "active": "15",
+    "recovery": "0 [Total 36]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGAC_Dizzy_214P.png/187px-GGAC_Dizzy_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/e/e1/GGACR_Dizzy_214P_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/7/7e/GGACR_Dizzy_214K_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214S",
+    "move": "My Talking Buddies S",
+    "damage": "38",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "77 (44)",
+    "active": "35",
+    "recovery": "19 [Total 41]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGAC_Dizzy_214P.png/187px-GGAC_Dizzy_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/ff/GGACR_Dizzy_214S_Hitbox.png/210px-GGACR_Dizzy_214S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214H",
+    "move": "My Talking Buddies H",
+    "damage": "38",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "77 (44)",
+    "active": "35",
+    "recovery": "19 [Total 36]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGAC_Dizzy_214P.png/187px-GGAC_Dizzy_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/ff/GGACR_Dizzy_214S_Hitbox.png/210px-GGACR_Dizzy_214S_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "214D",
+    "move": "My Talking Buddies D",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "72-77 (40-44)",
+    "active": "3",
+    "recovery": "24 [Total 36]",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGAC_Dizzy_214P.png/187px-GGAC_Dizzy_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/7/70/GGACR_Dizzy_214D_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "421S/[S]",
+    "move": "I Use This to Get Fruit",
+    "damage": "25, 55",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "22",
+    "active": "18(15)",
+    "recovery": "Total 37",
+    "block": "-34",
+    "frc_window": "31-32F",
+    "proration": "Forced 85%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "7 x 2",
+    "level": "3, 2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/16/GGAC_Dizzy_421S.png/185px-GGAC_Dizzy_421S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGACR_Dizzy_421S-1_Hitbox.png/121px-GGACR_Dizzy_421S-1_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_Dizzy_421S-2_Hitbox.png/121px-GGACR_Dizzy_421S-2_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236K",
+    "move": "It Started Out as Just Light K",
+    "damage": "20 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "32",
+    "active": "62",
+    "recovery": "Total 51",
+    "block": "+11",
+    "frc_window": "27-29F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGAC_Dizzy_236K.png/210px-GGAC_Dizzy_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Dizzy_236X_Hitbox.png/210px-GGAC_Dizzy_236X_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "236S",
+    "move": "It Started Out as Just Light S",
+    "damage": "20 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "32",
+    "active": "49",
+    "recovery": "Total 54",
+    "block": "+8",
+    "frc_window": "27-29F",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "8 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1d/GGAC_Dizzy_236K.png/210px-GGAC_Dizzy_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/82/GGAC_Dizzy_236X_Hitbox.png/210px-GGAC_Dizzy_236X_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "j.214P/K/S",
+    "move": "Please Leave Me Alone",
+    "damage": "N/A",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "176",
+    "recovery": "Total 22",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGAC_Dizzy_j214P.png/210px-GGAC_Dizzy_j214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/93/GGACR_Dizzy_j214P_Hitbox_1.png/210px-GGACR_Dizzy_j214P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGACR_Dizzy_j214P_Hitbox_2.png/210px-GGACR_Dizzy_j214P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGACR_Dizzy_j214P_Hitbox_3.png/210px-GGACR_Dizzy_j214P_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "j.214P/K/S Pop",
+    "move": "Please Leave Me Alone Pop",
+    "damage": "45",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "4",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/58/GGAC_Dizzy_j214P.png/210px-GGAC_Dizzy_j214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/93/GGACR_Dizzy_j214P_Hitbox_1.png/210px-GGACR_Dizzy_j214P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGACR_Dizzy_j214P_Hitbox_2.png/210px-GGACR_Dizzy_j214P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGACR_Dizzy_j214P_Hitbox_3.png/210px-GGACR_Dizzy_j214P_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "j.214D",
+    "move": "FB Please Leave Me Alone",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "199",
+    "recovery": "Total 25",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGAC_Dizzy_j214D.png/210px-GGAC_Dizzy_j214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGACR_Dizzy_j214D_Hitbox_1.png/210px-GGACR_Dizzy_j214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGACR_Dizzy_j214D_Hitbox_2.png/210px-GGACR_Dizzy_j214D_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGACR_Dizzy_j214D_Hitbox_3.png/210px-GGACR_Dizzy_j214D_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "j.214D Pop",
+    "move": "FB Please Leave Me Alone Pop",
+    "damage": "45",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "6",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGAC_Dizzy_j214D.png/210px-GGAC_Dizzy_j214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGACR_Dizzy_j214D_Hitbox_1.png/210px-GGACR_Dizzy_j214D_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGACR_Dizzy_j214D_Hitbox_2.png/210px-GGACR_Dizzy_j214D_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGACR_Dizzy_j214D_Hitbox_3.png/210px-GGACR_Dizzy_j214D_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "421D",
+    "move": "FB I Use This to Get Fruit",
+    "damage": "30 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "31",
+    "active": "N/A",
+    "recovery": "Total 47",
+    "block": "N/A",
+    "frc_window": "15-16F",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 3",
+    "guard_bar_minus": "10 x 3",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGACR_Dizzy_421D.png/210px-GGACR_Dizzy_421D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGACR_Dizzy_421S-2_Hitbox.png/121px-GGACR_Dizzy_421S-2_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "632146S",
+    "move": "Imperial Ray",
+    "damage": "40 x N",
+    "guard": "All",
+    "invincibility": "5-6F Strike",
+    "startup": "7 + 0",
+    "active": "{6(4)} x N",
+    "recovery": "Total 41",
+    "block": "N/A",
+    "frc_window": "43-44F During Superflash",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x N",
+    "guard_bar_minus": "9 x N",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9a/GGAC_Dizzy_632146S.png/210px-GGAC_Dizzy_632146S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/99/GGACR_Dizzy_632146S_Hitbox_1.png/194px-GGACR_Dizzy_632146S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGACR_Dizzy_632146S_Hitbox_2.png/159px-GGACR_Dizzy_632146S_Hitbox_2.png"
+    ]
+  },
+  {   
+    "input": "632146P",
+    "move": "Necro Unleashed",
+    "damage": "0, 40 x 6",
+    "guard": "Throw",
+    "invincibility": "1-9F All, 10-14F Strike",
+    "startup": "9 + 4",
+    "active": "20",
+    "recovery": "14",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "8, 7 x 6",
+    "level": "1, 3 x 6",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cf/GGAC_Dizzy_632146P.png/210px-GGAC_Dizzy_632146P.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGAC_Dizzy_632146P_2.png/210px-GGAC_Dizzy_632146P_2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGAC_Dizzy_632146P_Hitbox.png/210px-GGAC_Dizzy_632146P_Hitbox.png"
+    ]
+  },
+  {   
+    "input": "64641236H",
+    "move": "Gamma Ray",
+    "damage": "13 x 5, 12 x 32",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "16 + 7",
+    "active": "6(24)6(51)46",
+    "recovery": "N/A",
+    "block": "-31",
+    "frc_window": "53-58F",
+    "proration": "200%",
+    "guard_bar_plus": "20 x 39",
+    "guard_bar_minus": "6 x 5, 4 x 32",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGAC_Dizzy_64641236H.png/210px-GGAC_Dizzy_64641236H.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d5/GGAC_Dizzy_64641236H-2.png/210px-GGAC_Dizzy_64641236H-2.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/33/GGAC_Dizzy_64641236H-3.png/210px-GGAC_Dizzy_64641236H-3.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f0/GGACR_Dizzy_64641236H_Hitbox_1.png/210px-GGACR_Dizzy_64641236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGACR_Dizzy_64641236H_Hitbox_2.png/210px-GGACR_Dizzy_64641236H_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGACR_Dizzy_64641236H_Hitbox_3.png/210px-GGACR_Dizzy_64641236H_Hitbox_3.png"
+    ]
+  },
+  {   
+    "input": "[2]8462P + H",
+    "move": "I Can't... Contain My Strength",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "103 + 3",
+    "active": "10",
+    "recovery": "85",
+    "block": "-76",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Dizzy_InstantKill.png/210px-GGAC_Dizzy_InstantKill.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/24/GGAC_Dizzy_InstantKill_Hitbox.png/210px-GGAC_Dizzy_InstantKill_Hitbox.png"
+    ]
+  }
+]

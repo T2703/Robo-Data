@@ -1,0 +1,1194 @@
+[
+  {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "6",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b9/GGAC_Johnny_5P.png/176px-GGAC_Johnny_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fd/GGXXACPR_Johnny-5P-Hitbox.png/169px-GGXXACPR_Johnny-5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "16",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "5",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGAC_Johnny_5K.png/210px-GGAC_Johnny_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/ff/GGXXACPR_Johnny-5K-Hitbox.png/210px-GGXXACPR_Johnny-5K-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3",
+    "recovery": "8",
+    "block": "+3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGAC_Johnny_cS.png/185px-GGAC_Johnny_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/83/GGXXACPR_Johnny-cS-Hitbox.png/187px-GGXXACPR_Johnny-cS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "34",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "3",
+    "recovery": "21",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGAC_Johnny_fS.png/210px-GGAC_Johnny_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGXXACPR_Johnny-fS-Hitbox.png/210px-GGXXACPR_Johnny-fS-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5H",
+    "move": "5H",
+    "damage": "42",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "2",
+    "recovery": "33",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4f/GGAC_Johnny_5H.png/210px-GGAC_Johnny_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGXXACPR_Johnny-5H-1-Hitbox.png/210px-GGXXACPR_Johnny-5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGXXACPR_Johnny-5H-2-Hitbox.png/204px-GGXXACPR_Johnny-5H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5D",
+    "move": "5D",
+    "damage": "22",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "30",
+    "active": "8",
+    "recovery": "6",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGAC_Johnny_5D.png/210px-GGAC_Johnny_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGXXACPR_Johnny-5D-Hitbox.png/210px-GGXXACPR_Johnny-5D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6P",
+    "move": "6P",
+    "damage": "25",
+    "guard": "Mid",
+    "invincibility": "1-4F Upper Body, 5-16F Above Knees",
+    "startup": "11",
+    "active": "6",
+    "recovery": "10",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "10",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGAC_Johnny_6P.png/210px-GGAC_Johnny_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Johnny-6P-Hitbox.png/210px-GGXXACPR_Johnny-6P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6K",
+    "move": "6K",
+    "damage": "30",
+    "guard": "Mid",
+    "invincibility": "7-13F Upper Body",
+    "startup": "16",
+    "active": "4",
+    "recovery": "16",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "20",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGAC_Johnny_6K.png/141px-GGAC_Johnny_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGXXACPR_Johnny-6K-Hitbox.png/137px-GGXXACPR_Johnny-6K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6H",
+    "move": "6H",
+    "damage": "64",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "18",
+    "active": "2",
+    "recovery": "32",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/3e/GGAC_Johnny_6H.png/210px-GGAC_Johnny_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a7/GGXXACPR_Johnny-6H-1-Hitbox.png/210px-GGXXACPR_Johnny-6H-1-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "3H",
+    "move": "3H",
+    "damage": "28 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "8(2)2",
+    "recovery": "31",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Johnny_3H.png/210px-GGAC_Johnny_3H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGXXACPR_Johnny-3H-1-Hitbox.png/210px-GGXXACPR_Johnny-3H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3d/GGXXACPR_Johnny-3H-2-Hitbox.png/210px-GGXXACPR_Johnny-3H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2P",
+    "move": "2P",
+    "damage": "10",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "3",
+    "recovery": "6",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/95/GGAC_Johnny_2P.png/210px-GGAC_Johnny_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGXXACPR_Johnny-2P-Hitbox.png/210px-GGXXACPR_Johnny-2P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2K",
+    "move": "2K",
+    "damage": "12",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "4",
+    "recovery": "4",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2c/GGAC_Johnny_2K.png/210px-GGAC_Johnny_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGXXACPR_Johnny-2K-Hitbox.png/210px-GGXXACPR_Johnny-2K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "30",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "6",
+    "recovery": "12",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "75%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7b/GGAC_Johnny_2S.png/210px-GGAC_Johnny_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/63/GGXXACPR_Johnny-2S-1-Hitbox.png/210px-GGXXACPR_Johnny-2S-1-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2H",
+    "move": "2H",
+    "damage": "48",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6",
+    "recovery": "29",
+    "block": "-16",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGAC_Johnny_2H.png/210px-GGAC_Johnny_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGXXACPR_Johnny-2H-Hitbox.png/210px-GGXXACPR_Johnny-2H-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2D",
+    "move": "2D",
+    "damage": "25 x 2",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "2(3)3",
+    "recovery": "22",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "11 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGAC_Johnny_2D.png/210px-GGAC_Johnny_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGXXACPR_Johnny-2D-1-Hitbox.png/210px-GGXXACPR_Johnny-2D-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/17/GGXXACPR_Johnny-2D-2-Hitbox.png/210px-GGXXACPR_Johnny-2D-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.P",
+    "move": "JP",
+    "damage": "12",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "5",
+    "recovery": "9",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/02/GGAC_Johnny_jP.png/210px-GGAC_Johnny_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGXXACPR_Johnny-jP-Hitbox.png/196px-GGXXACPR_Johnny-jP-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.K",
+    "move": "JK",
+    "damage": "20",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "6",
+    "recovery": "8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGAC_Johnny_jK.png/210px-GGAC_Johnny_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2b/GGXXACPR_Johnny-jK-1-Hitbox.png/210px-GGXXACPR_Johnny-jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGXXACPR_Johnny-jK-2-Hitbox.png/210px-GGXXACPR_Johnny-jK-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.S",
+    "move": "JS",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "2",
+    "recovery": "23",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/13/GGAC_Johnny_jS.png/210px-GGAC_Johnny_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Johnny-jS-Hitbox.png/210px-GGXXACPR_Johnny-jS-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.H",
+    "move": "JH",
+    "damage": "40",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "5",
+    "recovery": "21",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGAC_Johnny_jH.png/210px-GGAC_Johnny_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/49/GGXXACPR_Johnny-jH-Hitbox.png/191px-GGXXACPR_Johnny-jH-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.D",
+    "move": "JD",
+    "damage": "44",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "7",
+    "recovery": "14 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGAC_Johnny_jD.png/210px-GGAC_Johnny_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e9/GGXXACPR_Johnny-jD-1-Hitbox.png/182px-GGXXACPR_Johnny-jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9d/GGXXACPR_Johnny-jD-2-Hitbox.png/169px-GGXXACPR_Johnny-jD-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "40",
+    "guard": "45 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "36-39F",
+    "proration": "Forced 40%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/78/GGAC_Johnny_throw.png/85px-GGAC_Johnny_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f3/GGAC_Johnny_airThrow.png/195px-GGAC_Johnny_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-13F All, 14-23F Above Knees, 14-28F Throw",
+    "startup": "14",
+    "active": "10",
+    "recovery": "10",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGAC_Johnny_6P.png/210px-GGAC_Johnny_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/41/GGXXACPR_Johnny-6P-Hitbox.png/210px-GGXXACPR_Johnny-6P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "66",
+    "move": "Dash",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "1-14F Feet",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 22",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "100%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGACR_Johnny_dash.png/210px-GGACR_Johnny_dash.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9c/GGXXACR_Johnny_Dash-1_Hitbox.png/195px-GGXXACR_Johnny_Dash-1_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/26/GGXXACR_Johnny_Dash-2_Hitbox.png/210px-GGXXACR_Johnny_Dash-2_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236[P/K/S]",
+    "move": "Mist Finer Stance",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Check Dustloop",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Johnny_MistStance.png/107px-GGAC_Johnny_MistStance.png"
+    ]
+  },
+  {    
+    "input": "236[P/K/S] > 66",
+    "move": "Mist Finer Stance Forwards Dash",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "14",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Johnny_MistStance.png/107px-GGAC_Johnny_MistStance.png"
+    ]
+  },
+  {    
+    "input": "236[P/K/S] > 44",
+    "move": "Mist Finer Stance Backwards Dash",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "14",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Johnny_MistStance.png/107px-GGAC_Johnny_MistStance.png"
+    ]
+  },
+  {    
+    "input": "236[P/K/S] > H",
+    "move": "Mist Finer Stance Cancel",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "3",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGAC_Johnny_MistStance.png/107px-GGAC_Johnny_MistStance.png"
+    ]
+  },
+  {    
+    "input": "236]P[",
+    "move": "Mist Finer Upper Level 1",
+    "damage": "35",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9 + 4",
+    "active": "4",
+    "recovery": "17",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/10/GGAC_Johnny_236P.png/210px-GGAC_Johnny_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGACR_Johnny_236P_Hitbox_1.png/210px-GGACR_Johnny_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGACR_Johnny_236P_Hitbox_2.png/210px-GGACR_Johnny_236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGACR_Johnny_236P_Hitbox_3.png/210px-GGACR_Johnny_236P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGACR_Johnny_236P_Hitbox_4.png/210px-GGACR_Johnny_236P_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "236]P[ Level 2",
+    "move": "Mist Finer Upper Level 2",
+    "damage": "38",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6 + 4",
+    "active": "4",
+    "recovery": "22",
+    "block": "-7",
+    "frc_window": "19-20F",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/10/GGAC_Johnny_236P.png/210px-GGAC_Johnny_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGACR_Johnny_236P_Hitbox_1.png/210px-GGACR_Johnny_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGACR_Johnny_236P_Hitbox_2.png/210px-GGACR_Johnny_236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGACR_Johnny_236P_Hitbox_3.png/210px-GGACR_Johnny_236P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGACR_Johnny_236P_Hitbox_4.png/210px-GGACR_Johnny_236P_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "236]P[ Level 3",
+    "move": "Mist Finer Upper Level 3",
+    "damage": "38",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6 + 4",
+    "active": "4",
+    "recovery": "22",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 9",
+    "guard_bar_minus": "3 x 9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/10/GGAC_Johnny_236P.png/210px-GGAC_Johnny_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGACR_Johnny_236P_Hitbox_1.png/210px-GGACR_Johnny_236P_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/28/GGACR_Johnny_236P_Hitbox_2.png/210px-GGACR_Johnny_236P_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8e/GGACR_Johnny_236P_Hitbox_3.png/210px-GGACR_Johnny_236P_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGACR_Johnny_236P_Hitbox_4.png/210px-GGACR_Johnny_236P_Hitbox_4.png"
+    ]
+  },
+  {    
+    "input": "236]K[",
+    "move": "Mist Finer Middle Level 1",
+    "damage": "32",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9 + 6",
+    "active": "3",
+    "recovery": "33",
+    "block": "-19",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d2/GGAC_Johnny_236K.png/210px-GGAC_Johnny_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGACR_Johnny_236K_Hitbox_1.png/210px-GGACR_Johnny_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGACR_Johnny_236K_Hitbox_2.png/210px-GGACR_Johnny_236K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGACR_Johnny_236K_Hitbox_3.png/210px-GGACR_Johnny_236K_Hitbox_3.png"
+    ]
+  },
+  {    
+    "input": "236]K[ Level 2",
+    "move": "Mist Finer Middle Level 2",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6 + 4",
+    "active": "3",
+    "recovery": "23",
+    "block": "-7",
+    "frc_window": "19-20F",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d2/GGAC_Johnny_236K.png/210px-GGAC_Johnny_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGACR_Johnny_236K_Hitbox_1.png/210px-GGACR_Johnny_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGACR_Johnny_236K_Hitbox_2.png/210px-GGACR_Johnny_236K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGACR_Johnny_236K_Hitbox_3.png/210px-GGACR_Johnny_236K_Hitbox_3.png"
+    ]
+  },
+  {    
+    "input": "236]K[ Level 3",
+    "move": "Mist Finer Middle Level 3",
+    "damage": "18 x 9",
+    "guard": "All x 2, Low, All, Low x 2, All x 2, Low",
+    "invincibility": "N/A",
+    "startup": "4 + 4",
+    "active": "3(4)4(4)2(4)3(5)2(4)3(4)3(5)2",
+    "recovery": "25",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2, 15, 20, 15 x 2, 20 x 2, 15",
+    "guard_bar_minus": "3 x 9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d2/GGAC_Johnny_236K.png/210px-GGAC_Johnny_236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/25/GGACR_Johnny_236K_Hitbox_1.png/210px-GGACR_Johnny_236K_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/69/GGACR_Johnny_236K_Hitbox_2.png/210px-GGACR_Johnny_236K_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGACR_Johnny_236K_Hitbox_3.png/210px-GGACR_Johnny_236K_Hitbox_3.png"
+    ]
+  },
+  {    
+    "input": "236]S[",
+    "move": "Mist Finer Lower Level 1",
+    "damage": "29",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "9 + 11",
+    "active": "2",
+    "recovery": "29",
+    "block": "-14",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGAC_Johnny_236S.png/210px-GGAC_Johnny_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c3/GGACR_Johnny_236S_Hitbox_1.png/210px-GGACR_Johnny_236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGACR_Johnny_236S_Hitbox_2.png/210px-GGACR_Johnny_236S_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236]S[ Level 2",
+    "move": "Mist Finer Lower Level 2",
+    "damage": "35",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "6 + 5",
+    "active": "2",
+    "recovery": "23",
+    "block": "-6",
+    "frc_window": "19-20F",
+    "proration": "85%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGAC_Johnny_236S.png/210px-GGAC_Johnny_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c3/GGACR_Johnny_236S_Hitbox_1.png/210px-GGACR_Johnny_236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGACR_Johnny_236S_Hitbox_2.png/210px-GGACR_Johnny_236S_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236]S[ Level 3",
+    "move": "Mist Finer Lower Level 3",
+    "damage": "17 x 9",
+    "guard": "Low x 6, All x 2, Low",
+    "invincibility": "N/A",
+    "startup": "4 + 5",
+    "active": "{2(5)} x 5, 2(4)3(4)3(5)2",
+    "recovery": "27",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15 x 6, 20 x 2, 15",
+    "guard_bar_minus": "3 x 9",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGAC_Johnny_236S.png/210px-GGAC_Johnny_236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c3/GGACR_Johnny_236S_Hitbox_1.png/210px-GGACR_Johnny_236S_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGACR_Johnny_236S_Hitbox_2.png/210px-GGACR_Johnny_236S_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236H",
+    "move": "Glitter Is Gold Towards",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "33",
+    "recovery": "Total 20",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGACR_Johnny_Glitter.png/210px-GGACR_Johnny_Glitter.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGACR_Johnny_236H_Hitbox.png/182px-GGACR_Johnny_236H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "214H",
+    "move": "Glitter Is Gold Up",
+    "damage": "10",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "65",
+    "recovery": "Total 20",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGACR_Johnny_Glitter.png/210px-GGACR_Johnny_Glitter.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGACR_Johnny_236H_Hitbox.png/182px-GGACR_Johnny_236H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "214P",
+    "move": "Bacchus Sigh",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "100",
+    "recovery": "Total 53",
+    "block": "N/A",
+    "frc_window": "41-46F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGAC_Johnny_214P.png/210px-GGAC_Johnny_214P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/75/GGACR_Johnny_214P_Hitbox.png/210px-GGACR_Johnny_214P_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.41236H",
+    "move": "Ensenga",
+    "damage": "6, 62",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "2(2)3",
+    "recovery": "Until Landing + 16",
+    "block": "-25",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a2/GGACR_Johnny_j41236H-1.png/176px-GGACR_Johnny_j41236H-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGACR_Johnny_j41236H-2.png/210px-GGACR_Johnny_j41236H-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cc/GGXXACPR_Johnny-j41236H-1-Hitbox.png/210px-GGXXACPR_Johnny-j41236H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/98/GGXXACPR_Johnny-j41236H-2-Hitbox.png/210px-GGXXACPR_Johnny-j41236H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "623S",
+    "move": "Divine Blade",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "3-4F Throw, 5-17F Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "35 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "8-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4d/GGAC_Johnny_623S.png/210px-GGAC_Johnny_623S.png"
+    ]
+  },
+  {    
+    "input": "623S > S",
+    "move": "Divine Blade Followup",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "3-4F Throw, 5-17F Strike",
+    "startup": "5 + 7",
+    "active": "10",
+    "recovery": "Until Landing + 7",
+    "block": "N/A",
+    "frc_window": "9-10F",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGAC_Johnny_623SS.png/112px-GGAC_Johnny_623SS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGACR_Johnny_623SS_Hitbox.png/143px-GGACR_Johnny_623SS_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.236S",
+    "move": "Air Divine Blade",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "10",
+    "recovery": "Until Landing + 13",
+    "block": "-7",
+    "frc_window": "15-16F",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "12",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/db/GGAC_Johnny_623SS.png/112px-GGAC_Johnny_623SS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e5/GGACR_Johnny_623SS_Hitbox.png/143px-GGACR_Johnny_623SS_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "421S",
+    "move": "Killer Joker",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "4-7F Throw",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "29 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "10-12F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/92/GGAC_Johnny_421S.png/210px-GGAC_Johnny_421S.png"
+    ]
+  },
+  {    
+    "input": "421S > S",
+    "move": "Killer Joker Followup",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "8 + 10",
+    "active": "3",
+    "recovery": "Until Landing + 14",
+    "block": "N/A",
+    "frc_window": "13-15F",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "9",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Johnny_421SS.png/178px-GGAC_Johnny_421SS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9b/GGACR_Johnny_421SS_Hitbox.png/170px-GGACR_Johnny_421SS_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.214S",
+    "move": "Air Killer Joker",
+    "damage": "32",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "3",
+    "recovery": "Until Landing + 13",
+    "block": "N/A",
+    "frc_window": "12-14F",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGAC_Johnny_421SS.png/178px-GGAC_Johnny_421SS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9b/GGACR_Johnny_421SS_Hitbox.png/170px-GGACR_Johnny_421SS_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214D",
+    "move": "Jackhound",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "13-15F Strike",
+    "startup": "13",
+    "active": "2",
+    "recovery": "35",
+    "block": "-20",
+    "frc_window": "N/A",
+    "proration": "60%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "8",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Johnny_214D.png/210px-GGAC_Johnny_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Johnny_214D_Hitbox.png/210px-GGACR_Johnny_214D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236[P/K/S] > 214D",
+    "move": "Stance Jackhound",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "6-8F Strike",
+    "startup": "6",
+    "active": "2",
+    "recovery": "35",
+    "block": "-20",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "8",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Johnny_214D.png/210px-GGAC_Johnny_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Johnny_214D_Hitbox.png/210px-GGACR_Johnny_214D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "236[P/K/S] > 66 > 214D",
+    "move": "Step Jackhound",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "3-5F Strike",
+    "startup": "3",
+    "active": "2",
+    "recovery": "35",
+    "block": "-20",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "8",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Johnny_214D.png/210px-GGAC_Johnny_214D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Johnny_214D_Hitbox.png/210px-GGACR_Johnny_214D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "214D > 236D",
+    "move": "Return Jack",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "14-23F Strike",
+    "startup": "13 + 5",
+    "active": "2",
+    "recovery": "65",
+    "block": "-48",
+    "frc_window": "N/A",
+    "proration": "Forced 60%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "11",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Johnny_236D.png/210px-GGAC_Johnny_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/76/GGACR_Johnny_214D_Hitbox.png/210px-GGACR_Johnny_214D_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "632146H",
+    "move": "That's My Name",
+    "damage": "20, 65 x 5",
+    "guard": "Mid",
+    "invincibility": "1-8F All, 9-10F Throw, 9-17F Above Knees",
+    "startup": "4 + 4",
+    "active": "3",
+    "recovery": "22",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6 x 3",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGAC_Johnny_632146H.png/170px-GGAC_Johnny_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8d/GGACR_Johnny_632146H_Hitbox.png/210px-GGACR_Johnny_632146H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.236236H",
+    "move": "Uncho's Iai",
+    "damage": "50 x 2",
+    "guard": "High/Air",
+    "invincibility": "1-9F All, 10-10F Throw",
+    "startup": "5 + 3",
+    "active": "3",
+    "recovery": "Until Landing + 24",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGACR_Johnny_j236236H-1.png/197px-GGACR_Johnny_j236236H-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/4b/GGACR_Johnny_j236236H-2.png/205px-GGACR_Johnny_j236236H-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGACR_Johnny_j236236H_Hitbox.png/180px-GGACR_Johnny_j236236H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236236H",
+    "move": "Joker Trick",
+    "damage": "Fatal",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7 + 10",
+    "active": "177",
+    "recovery": "9",
+    "block": "+4",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "N/A",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d7/GGAC_Johnny_IK1.png/210px-GGAC_Johnny_IK1.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGAC_Johnny_IK2.png/210px-GGAC_Johnny_IK2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGACR_Johnny_IK_Hitbox.png/210px-GGACR_Johnny_IK_Hitbox.png"
+    ]
+  }
+]

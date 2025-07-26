@@ -1,0 +1,801 @@
+[
+  {
+    "input": "5P",
+    "move": "5P",
+    "damage": "10 x 2",
+    "guard": "Mid, Low",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "3, 3",
+    "recovery": "9",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "100%, 80%",
+    "guard_bar_plus": "3 x 2",
+    "guard_bar_minus": "8 x 2",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5a/GGAC_Justice_5P.png/210px-GGAC_Justice_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5e/GGXXACPR_Justice-5P-1-Hitbox.png/210px-GGXXACPR_Justice-5P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c0/GGXXACPR_Justice-5P-2-Hitbox.png/210px-GGXXACPR_Justice-5P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5K",
+    "move": "5K",
+    "damage": "16",
+    "guard": "Mid, Low",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "3",
+    "recovery": "12",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_Justice_5K.png/210px-GGAC_Justice_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGXXACPR_Justice-5K-Hitbox.png/210px-GGXXACPR_Justice-5K-Hitbox.png"
+    ]
+  },
+  {
+    "input": "c.S",
+    "move": "CS",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "8",
+    "recovery": "11",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGAC_Justice_cS.png/187px-GGAC_Justice_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGXXACPR_Justice-cS-1-Hitbox.png/197px-GGXXACPR_Justice-cS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f1/GGXXACPR_Justice-cS-2-Hitbox.png/156px-GGXXACPR_Justice-cS-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "f.S",
+    "move": "FS",
+    "damage": "18 x 4",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "1, 1, 1, 3",
+    "recovery": "16",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/13/GGAC_Justice_fS.png/210px-GGAC_Justice_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGXXACPR_Justice-fS-Hitbox.png/210px-GGXXACPR_Justice-fS-Hitbox.png"
+    ]
+  },
+  {
+    "input": "5H",
+    "move": "5H",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "11-31F Above Chest",
+    "startup": "12",
+    "active": "6",
+    "recovery": "24",
+    "block": "-11",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGAC_Justice_5H.png/210px-GGAC_Justice_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2e/GGXXACPR_Justice-5H-Hitbox.png/210px-GGXXACPR_Justice-5H-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6P",
+    "move": "6P",
+    "damage": "20 x 2",
+    "guard": "High",
+    "invincibility": "1-17F Upper Body, 18-29F Above Knees",
+    "startup": "10",
+    "active": "2(6)6",
+    "recovery": "12",
+    "block": "-4",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/65/GGAC_Justice_6P.png/210px-GGAC_Justice_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGXXACPR_Justice-6P-1-Hitbox.png/210px-GGXXACPR_Justice-6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e9/GGXXACPR_Justice-6P-2-Hitbox.png/210px-GGXXACPR_Justice-6P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H",
+    "move": "6H",
+    "damage": "38 x 2",
+    "guard": "Mid",
+    "invincibility": "1-17F Upper Body, 18-29F Above Knees",
+    "startup": "17",
+    "active": "2(6)2",
+    "recovery": "26",
+    "block": "-9",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/19/GGAC_Justice_6H-1.png/210px-GGAC_Justice_6H-1.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e8/GGACR_Justice_6H-2.png/210px-GGACR_Justice_6H-2.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGXXACPR_Justice-6P-1-Hitbox.png/210px-GGXXACPR_Justice-6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e9/GGXXACPR_Justice-6P-2-Hitbox.png/210px-GGXXACPR_Justice-6P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2P",
+    "move": "2P",
+    "damage": "8",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "2",
+    "recovery": "7",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ed/GGAC_Justice_2P.png/210px-GGAC_Justice_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1f/GGXXACPR_Justice-2P-Hitbox.png/210px-GGXXACPR_Justice-2P-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2K",
+    "move": "2K",
+    "damage": "18",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "6",
+    "recovery": "10",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/dc/GGAC_Justice_2K.png/210px-GGAC_Justice_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/37/GGXXACPR_Justice-2K-1-Hitbox.png/210px-GGXXACPR_Justice-2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGXXACPR_Justice-2K-2-Hitbox.png/210px-GGXXACPR_Justice-2K-2-Hitbox.pngs"
+    ]
+  },
+  {
+    "input": "2S",
+    "move": "2S",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "4",
+    "recovery": "16",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c2/GGAC_Justice_2S.png/210px-GGAC_Justice_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a4/GGXXACPR_Justice-2S-Hitbox.png/210px-GGXXACPR_Justice-2S-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2H",
+    "move": "2H",
+    "damage": "32 x 2",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "6, 6",
+    "recovery": "18",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8f/GGAC_Justice_2H.png/210px-GGAC_Justice_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGXXACPR_Justice-2H-1-Hitbox.png/210px-GGXXACPR_Justice-2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2c/GGXXACPR_Justice-2H-2-Hitbox.png/210px-GGXXACPR_Justice-2H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGXXACPR_Justice-2H-3-Hitbox.png/210px-GGXXACPR_Justice-2H-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/60/GGXXACPR_Justice-2H-4-Hitbox.png/210px-GGXXACPR_Justice-2H-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3a/GGXXACPR_Justice-2H-5-Hitbox.png/210px-GGXXACPR_Justice-2H-5-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGXXACPR_Justice-2H-6-Hitbox.png/210px-GGXXACPR_Justice-2H-6-Hitbox.png"
+    ]
+  },
+  {
+    "input": "2D",
+    "move": "2D",
+    "damage": "40",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "5",
+    "recovery": "16",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGAC_Justice_2D.png/210px-GGAC_Justice_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGXXACPR_Justice-2D-Hitbox.png/210px-GGXXACPR_Justice-2D-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.P",
+    "move": "JP",
+    "damage": "14",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "4",
+    "recovery": "9",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGAC_Justice_jP.png/210px-GGAC_Justice_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGXXACPR_Justice-jP-1-Hitbox.png/210px-GGXXACPR_Justice-jP-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/75/GGXXACPR_Justice-jP-2-Hitbox.png/210px-GGXXACPR_Justice-jP-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.K",
+    "move": "JK",
+    "damage": "18",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "16",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0e/GGAC_Justice_jK.png/210px-GGAC_Justice_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGXXACPR_Justice-jK-Hitbox.png/210px-GGXXACPR_Justice-jK-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.S",
+    "move": "JS",
+    "damage": "18 x 2",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "4(2)6",
+    "recovery": "3",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGAC_Justice_jS.png/205px-GGAC_Justice_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4a/GGXXACPR_Justice-jS-1-Hitbox.png/210px-GGXXACPR_Justice-jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGXXACPR_Justice-jS-2-Hitbox.png/202px-GGXXACPR_Justice-jS-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8b/GGXXACPR_Justice-jS-3-Hitbox.png/209px-GGXXACPR_Justice-jS-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/cd/GGXXACPR_Justice-jS-4-Hitbox.png/209px-GGXXACPR_Justice-jS-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGXXACPR_Justice-jS-5-Hitbox.png/195px-GGXXACPR_Justice-jS-5-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.H",
+    "move": "JH",
+    "damage": "44",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "3",
+    "recovery": "24",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f8/GGAC_Justice_jH.png/184px-GGAC_Justice_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/50/GGXXACPR_Justice-jH-Hitbox.png/199px-GGXXACPR_Justice-jH-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.D",
+    "move": "JD",
+    "damage": "50",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "2",
+    "recovery": "18 + 3 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 90%",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/89/GGAC_Justice_jD.png/210px-GGAC_Justice_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ec/GGXXACPR_Justice-jD-Hitbox.png/210px-GGXXACPR_Justice-jD-Hitbox.png"
+    ]
+  },
+  {
+    "input": "4/6H",
+    "move": "Ground Throw",
+    "damage": "55",
+    "guard": "55 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Justice_throw.png/210px-GGAC_Justice_throw.png"
+    ]
+  },
+  {
+    "input": "j.4/6H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "91 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/aa/GGAC_Justice_throw.png/210px-GGAC_Justice_throw.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blockings",
+    "move": "Dead Angle Attack",
+    "damage": "22",
+    "guard": "All",
+    "invincibility": "1-5F All, 6-22F Strike",
+    "startup": "13",
+    "active": "10",
+    "recovery": "12",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/65/GGAC_Justice_6P.png/210px-GGAC_Justice_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d8/GGXXACPR_Justice-6P-1-Hitbox.png/210px-GGXXACPR_Justice-6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/e9/GGXXACPR_Justice-6P-2-Hitbox.png/210px-GGXXACPR_Justice-6P-2-Hitbox.png"
+    ]
+  },
+  {
+    "input": "D + X",
+    "move": "Blue Burst",
+    "damage": "0",
+    "guard": "All",
+    "invincibility": "1-37F Strike",
+    "startup": "19",
+    "active": "6",
+    "recovery": "27",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "25%",
+    "guard_bar_plus": "6",
+    "guard_bar_minus": "20",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a3/GGACR_Justice_Blue_Burst.png/207px-GGACR_Justice_Blue_Burst.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGACR_Justice_Blue_Burst-Hitbox.png/207px-GGACR_Justice_Blue_Burst-Hitbox.png"
+    ]
+  },
+  {
+    "input": "236P",
+    "move": "Valkyrie Arc",
+    "damage": "60",
+    "guard": "All",
+    "invincibility": "5-23F Guard High",
+    "startup": "5",
+    "active": "19",
+    "recovery": "15",
+    "block": "-15",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/43/GGAC_Justice_236P.png/138px-GGAC_Justice_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f2/GGACR_Justice_236P_Hitbox.png/133px-GGACR_Justice_236P_Hitbox.png"
+    ]
+  },
+  {
+    "input": "41236S",
+    "move": "Michael Sword S",
+    "damage": "40",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "11",
+    "active": "9",
+    "recovery": "15",
+    "block": "-5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGAC_Justice_41236H.png/210px-GGAC_Justice_41236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGXXACPR_Justice-41236SH-1-Hitbox.png/210px-GGXXACPR_Justice-41236SH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGXXACPR_Justice-41236SH-2-Hitbox.png/210px-GGXXACPR_Justice-41236SH-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGXXACPR_Justice-41236SH-3-Hitbox.png/210px-GGXXACPR_Justice-41236SH-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "41236H",
+    "move": "Michael Sword H",
+    "damage": "50",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "20",
+    "active": "9",
+    "recovery": "23",
+    "block": "-13",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ab/GGAC_Justice_41236H.png/210px-GGAC_Justice_41236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fb/GGXXACPR_Justice-41236SH-1-Hitbox.png/210px-GGXXACPR_Justice-41236SH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/d6/GGXXACPR_Justice-41236SH-2-Hitbox.png/210px-GGXXACPR_Justice-41236SH-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGXXACPR_Justice-41236SH-3-Hitbox.png/210px-GGXXACPR_Justice-41236SH-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.41236S",
+    "move": "Air Michael Sword S",
+    "damage": "30 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "10",
+    "active": "3, 6",
+    "recovery": "26 + 10 After Landing",
+    "block": "N/A",
+    "frc_window": "10-13F",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b1/GGACR_Justice_j41236X.png/210px-GGACR_Justice_j41236X.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR-Justice-Airsword1.png/210px-GGXXACPR-Justice-Airsword1.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGACR_Justice_j41236S_Hitbox.png/210px-GGACR_Justice_j41236S_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR-Justice-Airsword3.png/210px-GGXXACPR-Justice-Airsword3.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7e/GGXXACPR-Justice-Airsword4.png/210px-GGXXACPR-Justice-Airsword4.png"
+    ]
+  },
+  {
+    "input": "j.41236H",
+    "move": "Air Michael Sword H",
+    "damage": "40 x 2",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "21",
+    "active": "3, 6",
+    "recovery": "25 + 10 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b1/GGACR_Justice_j41236X.png/210px-GGACR_Justice_j41236X.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR-Justice-Airsword1.png/210px-GGXXACPR-Justice-Airsword1.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGXXACPR-Justice-Airsword2.png/210px-GGXXACPR-Justice-Airsword2.png",
+      "https://www.dustloop.com/wiki/images/thumb/e/eb/GGXXACPR-Justice-Airsword3.png/210px-GGXXACPR-Justice-Airsword3.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/7e/GGXXACPR-Justice-Airsword4.png/210px-GGXXACPR-Justice-Airsword4.png"
+    ]
+  },
+  {
+    "input": "623K",
+    "move": "Strike Back Tail",
+    "damage": "24, 32",
+    "guard": "Mid, All",
+    "invincibility": "1-24F Throw, 1-10F Lower Body, 11-18F Feet",
+    "startup": "7",
+    "active": "4, 8",
+    "recovery": "36",
+    "block": "-10",
+    "frc_window": "14-17F",
+    "proration": "80%",
+    "guard_bar_plus": "20 x 2",
+    "guard_bar_minus": "6 x 2",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGAC_Justice_421K.png/210px-GGAC_Justice_421K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1c/GGXXACPR_Justice-623K-1-Hitbox.png/210px-GGXXACPR_Justice-623K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGXXACPR_Justice-623K-2-Hitbox.png/210px-GGXXACPR_Justice-623K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGXXACPR_Justice-623K-3-Hitbox.png/210px-GGXXACPR_Justice-623K-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGXXACPR_Justice-623K-4-Hitbox.png/210px-GGXXACPR_Justice-623K-4-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0e/GGXXACPR_Justice-623K-5-Hitbox.png/210px-GGXXACPR_Justice-623K-5-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGXXACPR_Justice-623K-6-Hitbox.png/210px-GGXXACPR_Justice-623K-6-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/29/GGXXACPR_Justice-623K-7-Hitbox.png/210px-GGXXACPR_Justice-623K-7-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/6/68/GGXXACPR_Justice-623K-8-Hitbox.png/210px-GGXXACPR_Justice-623K-8-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/05/GGXXACPR_Justice-623K-9-Hitbox.png/210px-GGXXACPR_Justice-623K-9-Hitbox.png"
+    ]
+  },
+  {
+    "input": "22[X] > ]X[",
+    "move": "Nuclear Blast",
+    "damage": "8, 20 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "Until Detonation (3)8",
+    "recovery": "Total 51",
+    "block": "-13",
+    "frc_window": "7-10F",
+    "proration": "N/A",
+    "guard_bar_plus": "10, 6 x 3",
+    "guard_bar_minus": "7, 9 x 3",
+    "level": "3, 2 x 3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/23/GGACR_Justice_22X.png/210px-GGACR_Justice_22X.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/01/GGAC_Justice_421S-P.png/196px-GGAC_Justice_421S-P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Justice_22X_Hitbox_1.png/210px-GGACR_Justice_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3c/GGACR_Justice_22X_Hitbox_2.png/210px-GGACR_Justice_22X_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "236D",
+    "move": "Saperia Trance",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "6-11F Upper Body, 12-20F All",
+    "startup": "12",
+    "active": "9",
+    "recovery": "23",
+    "block": "-4~",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "40",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Justice_236D.png/210px-GGAC_Justice_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGACR_Justice_236D_Hitbox.png/210px-GGACR_Justice_236D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "j.236D",
+    "move": "Air Saperia Trance",
+    "damage": "50",
+    "guard": "All",
+    "invincibility": "8-14F All",
+    "startup": "11",
+    "active": "4",
+    "recovery": "14",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "40",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/85/GGAC_Justice_236D.png/210px-GGAC_Justice_236D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGACR_Justice_236D_Hitbox.png/210px-GGACR_Justice_236D_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146H",
+    "move": "Michael Blade",
+    "damage": "100",
+    "guard": "Mid",
+    "invincibility": "1-14F All, 15F Strike",
+    "startup": "9 + 4",
+    "active": "2",
+    "recovery": "46",
+    "block": "-14",
+    "frc_window": "54-57F During Superflash",
+    "proration": "60%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/61/GGAC_Justice_632146H.png/210px-GGAC_Justice_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/57/GGACR_Justice_632146H_Hitbox.png/210px-GGACR_Justice_632146H_Hitbox.png"
+    ]
+  },
+  {
+    "input": "632146S",
+    "move": "Imperial Ray",
+    "damage": "28 x 46",
+    "guard": "All",
+    "invincibility": "5-7F Strike",
+    "startup": "5 + 2",
+    "active": "63",
+    "recovery": "25",
+    "block": "+8",
+    "frc_window": "31-34F",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 46",
+    "guard_bar_minus": "20 x 46",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fe/GGAC_Justice_641236S.png/210px-GGAC_Justice_641236S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGACR_Justice_641236S_Hitbox.png/210px-GGACR_Justice_641236S_Hitbox.png"
+    ]
+  },
+  {
+    "input": "46463214H",
+    "move": "Gamma Ray",
+    "damage": "20, 30 x 52",
+    "guard": "All",
+    "invincibility": "10-11F Strike",
+    "startup": "10 + 1",
+    "active": "3(71)2 x 52",
+    "recovery": "36",
+    "block": "-5",
+    "frc_window": "11-14F",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 53",
+    "guard_bar_minus": "6 x 53",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGAC_Justice_46463214H.png/210px-GGAC_Justice_46463214H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGACR_Justice_46463214H_Hitbox_1.png/159px-GGACR_Justice_46463214H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/1/12/GGACR_Justice_46463214H_Hitbox_2.png/210px-GGACR_Justice_46463214H_Hitbox_2.png"
+    ]
+  },
+  {
+    "input": "46463214S",
+    "move": "Omega Shift",
+    "damage": "N/A",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "5 + 0",
+    "active": "N/A",
+    "recovery": "Total 5",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e4/GGAC_Justice_46463214S.png/176px-GGAC_Justice_46463214S.png"
+    ]
+  },
+  {
+    "input": "236236H",
+    "move": "X Laser",
+    "damage": "Fatal",
+    "guard": "All",
+    "invincibility": "1-25F Throw, 10-10F Strike",
+    "startup": "9 + 3",
+    "active": "18",
+    "recovery": "18",
+    "block": "-17",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "N/A",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/90/GGAC_Justice_236236H.png/210px-GGAC_Justice_236236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fa/GGACR_Justice_IK_Hitbox.png/210px-GGACR_Justice_IK_Hitbox.png"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "damage_received_mod": "1.15x",
+        "guts_rating": "1/5",
+        "guard_bar_gain_mod": "0.875x",
+        "guard_bar_recovery": "1/6F",
+        "gravity_mod": "1.05x",
+        "stun_resistance": "50",
+        "prejump": "3F",
+        "backdash": "16F (1-9F Strike Invuln)",
+        "wakeup_timing": "25F (Face Up) / 24F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "2",
+        "images": [
+            "https://www.dustloop.com/wiki/images/b/b7/GGAC_Dizzy_Portrait.png"
+        ]
+    }
+]

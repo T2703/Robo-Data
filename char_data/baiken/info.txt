@@ -1,0 +1,18 @@
+[
+    {
+        "damage_received_mod": "1.18x",
+        "guts_rating": "5/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1.1x",
+        "stun_resistance": "55",
+        "prejump": "3F",
+        "backdash": "16F (1-9F Strike Invuln)",
+        "wakeup_timing": "25F (Face Up) / 21F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "images": [
+            "https://www.dustloop.com/wiki/images/d/df/GGAC_Baiken_Portrait.png"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "1x",
+        "guts_rating": "2/5",
+        "guard_bar_gain_mod": "1x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1x",
+        "stun_resistance": "60",
+        "prejump": "3F",
+        "backdash": "11F (1-10F Strike Invuln)",
+        "wakeup_timing": "21F (Face Up) / 27F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "1",
+        "unique_movement": "Low Profile Run",
+        "images": [
+            "https://www.dustloop.com/wiki/images/a/aa/GGAC_Zappa_Portrait.png"
+        ]
+    }
+]

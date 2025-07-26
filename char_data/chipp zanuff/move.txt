@@ -1,0 +1,1078 @@
+[
+   {   
+    "input": "5P",
+    "move": "5P",
+    "damage": "6",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "2",
+    "recovery": "6",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/48/GGAC_Chipp_5P.png/210px-GGAC_Chipp_5P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/40/GGXXACPR_Chipp-5P-Hitbox.png/210px-GGXXACPR_Chipp-5P-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "5K",
+    "move": "5K",
+    "damage": "12",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "5",
+    "recovery": "8",
+    "block": "-3",
+    "frc_window": "N/A",
+    "proration": "85%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/9f/GGAC_Chipp_5K.png/210px-GGAC_Chipp_5K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/ea/GGXXACPR_Chipp-5K-1-Hitbox.png/210px-GGXXACPR_Chipp-5K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/80/GGXXACPR_Chipp-5K-2-Hitbox.png/210px-GGXXACPR_Chipp-5K-2-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "c.S",
+    "move": "CS",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "1",
+    "recovery": "11",
+    "block": "+2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a9/GGAC_Chipp_cS.png/210px-GGAC_Chipp_cS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGXXACPR_Chipp-cS-Hitbox.png/210px-GGXXACPR_Chipp-cS-Hitbox.png"
+    ]
+  },
+  {   
+    "input": "f.S",
+    "move": "FS",
+    "damage": "26",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "1",
+    "recovery": "19",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6c/GGAC_Chipp_fS.png/210px-GGAC_Chipp_fS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGXXACPR_Chipp-fS-Hitbox.png/210px-GGXXACPR_Chipp-fS-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5H",
+    "move": "5H",
+    "damage": "36",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "7",
+    "recovery": "12",
+    "block": "0",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/8a/GGAC_Chipp_5H.png/210px-GGAC_Chipp_5H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d4/GGXXACPR_Chipp-5H-1-Hitbox.png/210px-GGXXACPR_Chipp-5H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGXXACPR_Chipp-5H-2-Hitbox.png/210px-GGXXACPR_Chipp-5H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "5D",
+    "move": "5D",
+    "damage": "17",
+    "guard": "High",
+    "invincibility": "N/A",
+    "startup": "27",
+    "active": "4",
+    "recovery": "9",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0d/GGAC_Chipp_5D.png/210px-GGAC_Chipp_5D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Chipp-5D-Hitbox.png/210px-GGXXACPR_Chipp-5D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6P",
+    "move": "6P",
+    "damage": "18 x 2",
+    "guard": "Mid",
+    "invincibility": "1-11F Above Knees",
+    "startup": "9",
+    "active": "3(9)5",
+    "recovery": "10",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "10 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/52/GGAC_Chipp_6P.png/210px-GGAC_Chipp_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e7/GGXXACPR_Chipp-6P-1-Hitbox.png/210px-GGXXACPR_Chipp-6P-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/ff/GGXXACPR_Chipp-6P-2-Hitbox.png/210px-GGXXACPR_Chipp-6P-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6K",
+    "move": "6K",
+    "damage": "20",
+    "guard": "High/Air",
+    "invincibility": "1-4F Throw",
+    "startup": "19",
+    "active": "7",
+    "recovery": "3 + 3 After Landing",
+    "block": "-1",
+    "frc_window": "16-18F",
+    "proration": "75%",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/ad/GGAC_Chipp_6K.png/210px-GGAC_Chipp_6K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0f/GGXXACPR_Chipp-6K-Hitbox.png/210px-GGXXACPR_Chipp-6K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "6H",
+    "move": "6H",
+    "damage": "60",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "17",
+    "active": "6",
+    "recovery": "15",
+    "block": "-2",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/95/GGAC_Chipp_6H.png/205px-GGAC_Chipp_6H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/fd/GGXXACPR_Chipp-6H-1-Hitbox.png/181px-GGXXACPR_Chipp-6H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/9a/GGXXACPR_Chipp-6H-2-Hitbox.png/210px-GGXXACPR_Chipp-6H-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2P",
+    "move": "2P",
+    "damage": "6",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "4",
+    "active": "2",
+    "recovery": "7",
+    "block": "+1",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/9/93/GGAC_Chipp_2P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/1/1f/GGXXACPR_Chipp-2P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2K",
+    "move": "2K",
+    "damage": "8",
+    "guard": "Low",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "7",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "70%",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/07/GGAC_Chipp_2K.png/210px-GGAC_Chipp_2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6f/GGXXACPR_Chipp-2K-Hitbox.png/210px-GGXXACPR_Chipp-2K-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "28",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "4",
+    "recovery": "11",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGAC_Chipp_2S.png/210px-GGAC_Chipp_2S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/67/GGXXACPR_Chipp-2S-1-Hitbox.png/210px-GGXXACPR_Chipp-2S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/09/GGXXACPR_Chipp-2S-2-Hitbox.png/210px-GGXXACPR_Chipp-2S-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2S",
+    "move": "2S",
+    "damage": "34",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "7",
+    "active": "10",
+    "recovery": "19",
+    "block": "-10",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/94/GGAC_Chipp_2H.png/140px-GGAC_Chipp_2H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Chipp-2H-1-Hitbox.png/210px-GGXXACPR_Chipp-2H-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/36/GGXXACPR_Chipp-2H-2-Hitbox.png/182px-GGXXACPR_Chipp-2H-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/ca/GGXXACPR_Chipp-2H-3-Hitbox.png/167px-GGXXACPR_Chipp-2H-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "2D",
+    "move": "2D",
+    "damage": "26",
+    "guard": "Low",
+    "invincibility": "5-10F Feet",
+    "startup": "9",
+    "active": "2",
+    "recovery": "18",
+    "block": "-8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "5",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/a/a5/GGAC_Chipp_2D.png/210px-GGAC_Chipp_2D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5b/GGXXACPR_Chipp-2D-Hitbox.png/210px-GGXXACPR_Chipp-2D-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.P",
+    "move": "JP",
+    "damage": "8",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "4",
+    "recovery": "4",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "8",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/7d/GGAC_Chipp_jP.png/210px-GGAC_Chipp_jP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/52/GGXXACPR_Chipp-jP-Hitbox.png/193px-GGXXACPR_Chipp-jP-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.K",
+    "move": "JK",
+    "damage": "16 x 2",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "5",
+    "active": "6, 2",
+    "recovery": "8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 2",
+    "guard_bar_minus": "8 x 2",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/0/0d/GGAC_Chipp_jK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/32/GGXXACPR_Chipp-jK-1-Hitbox.png/203px-GGXXACPR_Chipp-jK-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Chipp-jK-2-Hitbox.png/210px-GGXXACPR_Chipp-jK-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/ae/GGXXACPR_Chipp-jK-3-Hitbox.png/210px-GGXXACPR_Chipp-jK-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/a/a6/GGXXACPR_Chipp-jK-4-Hitbox.png/210px-GGXXACPR_Chipp-jK-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.2K",
+    "move": "J2K",
+    "damage": "16 x 3",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "Until Landing",
+    "recovery": "0",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3 x 3",
+    "guard_bar_minus": "8 x 3",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1b/GGAC_Chipp_j2K.png/109px-GGAC_Chipp_j2K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/79/GGXXACPR_Chipp-j2K-1-Hitbox.png/84px-GGXXACPR_Chipp-j2K-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/5/53/GGXXACPR_Chipp-j2K-2-Hitbox.png/84px-GGXXACPR_Chipp-j2K-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/8/8c/GGXXACPR_Chipp-j2K-3-Hitbox.png/84px-GGXXACPR_Chipp-j2K-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/7/77/GGXXACPR_Chipp-j2K-4-Hitbox.png/84px-GGXXACPR_Chipp-j2K-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.S",
+    "move": "JS",
+    "damage": "28",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "9",
+    "active": "10",
+    "recovery": "18",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c7/GGAC_Chipp_jS.png/210px-GGAC_Chipp_jS.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/f/f4/GGXXACPR_Chipp-jS-1-Hitbox.png/210px-GGXXACPR_Chipp-jS-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/3d/GGXXACPR_Chipp-jS-2-Hitbox.png/210px-GGXXACPR_Chipp-jS-2-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.H",
+    "move": "JH",
+    "damage": "26 x 2",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "6, 6",
+    "recovery": "26",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "8 x 2",
+    "guard_bar_minus": "7 x 2",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/87/GGAC_Chipp_jH.png/111px-GGAC_Chipp_jH.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGXXACPR_Chipp-jH-1-Hitbox.png/210px-GGXXACPR_Chipp-jH-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Chipp-jH-2-Hitbox.png/210px-GGXXACPR_Chipp-jH-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/4/47/GGXXACPR_Chipp-jH-3-Hitbox.png/208px-GGXXACPR_Chipp-jH-3-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/f/f9/GGXXACPR_Chipp-jH-4-Hitbox.png/210px-GGXXACPR_Chipp-jH-4-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.D",
+    "move": "JD",
+    "damage": "32",
+    "guard": "High/Air",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "8",
+    "recovery": "18 + 5 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "8",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5e/GGAC_Chipp_jD.png/192px-GGAC_Chipp_jD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6b/GGXXACPR_Chipp-jD-1-Hitbox.png/203px-GGXXACPR_Chipp-jD-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/2/2f/GGXXACPR_Chipp-jD-2-Hitbox.png/187px-GGXXACPR_Chipp-jD-2-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/9/93/GGXXACPR_Chipp-jD-3-Hitbox.png/207px-GGXXACPR_Chipp-jD-3-Hitbox.png"
+    ]
+  },
+  {
+    "input": "6H or 4H",
+    "move": "Ground Throw",
+    "damage": "60",
+    "guard": "36 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/0c/GGAC_Chipp_throw.png/210px-GGAC_Chipp_throw.png"
+    ]
+  },
+  {
+    "input": "j.6H or j.4H",
+    "move": "Air Throw",
+    "damage": "60",
+    "guard": "88 Pixels",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4b/GGAC_Chipp_airThrow.png/170px-GGAC_Chipp_airThrow.png"
+    ]
+  },
+  {
+    "input": "6X + X While Blocking",
+    "move": "Dead Angle Attack",
+    "damage": "25",
+    "guard": "All",
+    "invincibility": "1-15F All, 16-25F Throw",
+    "startup": "11",
+    "active": "5",
+    "recovery": "15",
+    "block": "-6",
+    "frc_window": "N/A",
+    "proration": "50%",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/52/GGAC_Chipp_6P.png/210px-GGAC_Chipp_6P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/73/GGACR_Chipp_DAA_Hitbox.png/210px-GGACR_Chipp_DAA_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.46/64",
+    "move": "Sankaku Tobi",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "N/A",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/64/GGAC_Chipp_j46.png/210px-GGAC_Chipp_j46.png"
+    ]
+  },
+  {    
+    "input": "236P",
+    "move": "Alpha Blade",
+    "damage": "44",
+    "guard": "Mid",
+    "invincibility": "5-17F Low Profile",
+    "startup": "18",
+    "active": "15",
+    "recovery": "34 After Landing",
+    "block": "-32",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGAC_Chipp_236P.png/210px-GGAC_Chipp_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGXXACPR_Chipp-236P-Hitbox.png/210px-GGXXACPR_Chipp-236P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.236P",
+    "move": "Air Alpha Blade",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "4-13F Low Profile",
+    "startup": "14",
+    "active": "14",
+    "recovery": "Until Landing + 21",
+    "block": "-22",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/56/GGAC_Chipp_236P.png/210px-GGAC_Chipp_236P.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGXXACPR_Chipp-236P-Hitbox.png/210px-GGXXACPR_Chipp-236P-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236P > H",
+    "move": "Alpha Plus",
+    "damage": "38",
+    "guard": "Mid",
+    "invincibility": "5-17F Low Profile",
+    "startup": "8",
+    "active": "12",
+    "recovery": "12",
+    "block": "-7",
+    "frc_window": "6-7F",
+    "proration": "N/A",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/9/95/GGAC_Chipp_ABP.png/210px-GGAC_Chipp_ABP.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2b/GGXXACPR_Chipp-236PH-1-Hitbox.png/210px-GGXXACPR_Chipp-236PH-1-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "623S",
+    "move": "Beta Blade",
+    "damage": "45",
+    "guard": "Mid",
+    "invincibility": "1-8F All, 9-12F Strike",
+    "startup": "5",
+    "active": "22",
+    "recovery": "17 + 10 After Landing",
+    "block": "-35",
+    "frc_window": "29-30F",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/e/e4/GGAC_Chipp_623S.png/133px-GGAC_Chipp_623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGXXACPR_Chipp-623S-1-Hitbox.png/210px-GGXXACPR_Chipp-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGXXACPR_Chipp-623S-3-Hitbox.png/146px-GGXXACPR_Chipp-623S-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.623S",
+    "move": "Air Beta Blade",
+    "damage": "40",
+    "guard": "All",
+    "invincibility": "1-4F Strike",
+    "startup": "3",
+    "active": "18",
+    "recovery": "Until Landing + 8",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b2/GGAC_Chipp_j623S.png/135px-GGAC_Chipp_j623S.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGXXACPR_Chipp-623S-1-Hitbox.png/210px-GGXXACPR_Chipp-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGXXACPR_Chipp-623S-3-Hitbox.png/146px-GGXXACPR_Chipp-623S-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "41236H",
+    "move": "Gamma Blade",
+    "damage": "32",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "9",
+    "recovery": "29",
+    "block": "+5",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGAC_Chipp_41236H.png/210px-GGAC_Chipp_41236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGACR_Chipp_41236H_Hitbox.png/210px-GGACR_Chipp_41236H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "22P",
+    "move": "Tsuyoshi-shiki Ten'i P",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "9-11F Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 25",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGAC_Chipp_22PKS.png/210px-GGAC_Chipp_22PKS.png"
+    ]
+  },
+  {    
+    "input": "22K",
+    "move": "Tsuyoshi-shiki Ten'i K",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "10-12F Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 30",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGAC_Chipp_22PKS.png/210px-GGAC_Chipp_22PKS.png"
+    ]
+  },
+  {    
+    "input": "22S",
+    "move": "Tsuyoshi-shiki Ten'i S",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "10-15F Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 31",
+    "block": "N/A",
+    "frc_window": "16-18F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/c1/GGAC_Chipp_22PKS.png/210px-GGAC_Chipp_22PKS.png"
+    ]
+  },
+  {    
+    "input": "22H/D",
+    "move": "Tsuyoshi-shiki Ten'i H/D",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "10-12F Strike",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 20",
+    "block": "N/A",
+    "frc_window": "13-14F",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/8/84/GGAC_Chipp_22HD.png/210px-GGAC_Chipp_22HD.png"
+    ]
+  },
+  {    
+    "input": "214K",
+    "move": "Tsuyoshi-shiki Meisei",
+    "damage": "N/A",
+    "guard": "N/A",
+    "invincibility": "N/A",
+    "startup": "N/A",
+    "active": "N/A",
+    "recovery": "Total 29",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "N/A",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/45/GGAC_Chipp_214K.png/123px-GGAC_Chipp_214K.png"
+    ]
+  },
+  {    
+    "input": "41236K",
+    "move": "Genrou Zan",
+    "damage": "90",
+    "guard": "10 Pixels",
+    "invincibility": "12-13F, 17-41F Strike",
+    "startup": "29",
+    "active": "12",
+    "recovery": "10 After Landing",
+    "block": "N/A",
+    "frc_window": "35-36F On Hit",
+    "proration": "Forced 50%",
+    "guard_bar_plus": "N/A",
+    "guard_bar_minus": "6",
+    "level": "N/A",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/de/GGAC_Chipp_41236K.png/210px-GGAC_Chipp_41236K.png"
+    ]
+  },
+  {    
+    "input": "236S",
+    "move": "Resshou",
+    "damage": "18",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "13",
+    "active": "5",
+    "recovery": "10",
+    "block": "-1",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "10",
+    "guard_bar_minus": "7",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/b0/GGAC_Chipp_resshou.png/210px-GGAC_Chipp_resshou.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/54/GGACR_Chipp_236S_Hitbox.png/210px-GGACR_Chipp_236S_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236S > 236S",
+    "move": "Rokusai",
+    "damage": "22",
+    "guard": "Low",
+    "invincibility": "6-8F Feet",
+    "startup": "8",
+    "active": "1",
+    "recovery": "25",
+    "block": "-7",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "15",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bd/GGAC_Chipp_rokusai.png/210px-GGAC_Chipp_rokusai.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/27/GGACR_Chipp_236S236S_Hitbox.png/210px-GGACR_Chipp_236S236S_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236S > 236S > 236K or 236S > 236K",
+    "move": "Senshuu",
+    "damage": "30",
+    "guard": "High",
+    "invincibility": "9-10F Low Profile",
+    "startup": "25",
+    "active": "6",
+    "recovery": "10 + 12 After Landing",
+    "block": "-11",
+    "frc_window": "15-17F",
+    "proration": "N/A",
+    "guard_bar_plus": "11",
+    "guard_bar_minus": "6",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/c/cb/GGAC_Chipp_senshuu.png/152px-GGAC_Chipp_senshuu.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/55/GGACR_Chipp_236S236K_Hitbox.png/149px-GGACR_Chipp_236S236K_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.214P Slow",
+    "move": "Shuriken Slow",
+    "damage": "1",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "23",
+    "active": "N/A",
+    "recovery": "Until Landing + 6",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "0",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Chipp_j236K.png/167px-GGAC_Chipp_j236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_Chipp_j214P_Hitbox.png/149px-GGACR_Chipp_j214P_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.214P Fast",
+    "move": "Shuriken Fast",
+    "damage": "1",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "8",
+    "active": "N/A",
+    "recovery": "16 + 3 After Landing",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "80%",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "0",
+    "level": "2",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/06/GGAC_Chipp_j236K.png/167px-GGAC_Chipp_j236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/4e/GGACR_Chipp_j214P_Hitbox.png/149px-GGACR_Chipp_j214P_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "41236K > D",
+    "move": "Genrou Zan You",
+    "damage": "70",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "1",
+    "active": "10",
+    "recovery": "29 + 3 After Landing",
+    "block": "-17",
+    "frc_window": "N/A",
+    "proration": "Forced 85%",
+    "guard_bar_plus": "20",
+    "guard_bar_minus": "6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/0/00/GGAC_Chipp_41236KD.png/210px-GGAC_Chipp_41236KD.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/20/GGACR_Chipp_41236KD_Hitbox_1.png/210px-GGACR_Chipp_41236KD_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/c/c4/GGACR_Chipp_41236KD_Hitbox_2.png/210px-GGACR_Chipp_41236KD_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236P > D",
+    "move": "FB Alpha Blade Plus",
+    "damage": "44",
+    "guard": "Mid",
+    "invincibility": "5-27F Low Profile",
+    "startup": "27",
+    "active": "15",
+    "recovery": "25",
+    "block": "-23",
+    "frc_window": "N/A",
+    "proration": "90%",
+    "guard_bar_plus": "14",
+    "guard_bar_minus": "10",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d9/GGACR_Chipp_FBAB.png/210px-GGACR_Chipp_FBAB.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/4/46/GGXXACPR_Chipp-236PD-Hitbox.png/210px-GGXXACPR_Chipp-236PD-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "623D",
+    "move": "FB Beta Blade",
+    "damage": "30, 20 x 3",
+    "guard": "All",
+    "invincibility": "1-6F All, 7-26F Strike",
+    "startup": "4",
+    "active": "13(7)3, 5, 5",
+    "recovery": "30 + 5 After Landing",
+    "block": "-28",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 4",
+    "guard_bar_minus": "6 x 4",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Chipp_623D.png/158px-GGACR_Chipp_623D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGXXACPR_Chipp-623S-1-Hitbox.png/210px-GGXXACPR_Chipp-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGXXACPR_Chipp-623S-3-Hitbox.png/146px-GGXXACPR_Chipp-623S-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "j.623D",
+    "move": "Air FB Beta Blade",
+    "damage": "30, 20 x 3",
+    "guard": "All",
+    "invincibility": "1-24F Strike",
+    "startup": "2",
+    "active": "13(7)3, 5, 5",
+    "recovery": "Until Landing + 5",
+    "block": "N/A",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "14 x 4",
+    "guard_bar_minus": "6 x 4",
+    "level": "4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGACR_Chipp_623D.png/158px-GGACR_Chipp_623D.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/3/35/GGXXACPR_Chipp-623S-1-Hitbox.png/210px-GGXXACPR_Chipp-623S-1-Hitbox.png",
+      "https://www.dustloop.com/wiki/images/thumb/0/0a/GGXXACPR_Chipp-623S-3-Hitbox.png/146px-GGXXACPR_Chipp-623S-3-Hitbox.png"
+    ]
+  },
+  {    
+    "input": "41236D",
+    "move": "FB Gamma Blade",
+    "damage": "32",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "15",
+    "active": "9",
+    "recovery": "19",
+    "block": "+15",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "20",
+    "level": "3",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/d/d3/GGAC_Chipp_41236H.png/210px-GGAC_Chipp_41236H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/5c/GGACR_Chipp_41236H_Hitbox.png/210px-GGACR_Chipp_41236H_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "632146H",
+    "move": "Zansei Rouga",
+    "damage": "30 x 5, 110",
+    "guard": "Mid",
+    "invincibility": "1-30F All, 31-33F Strike",
+    "startup": "21 + 4",
+    "active": "N/A",
+    "recovery": "Until Landing + 32",
+    "block": "+15",
+    "frc_window": "25-28F, First 4F Active Of 3rd Hit",
+    "proration": "N/A",
+    "guard_bar_plus": "20 x 6",
+    "guard_bar_minus": "6 x 6",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2d/GGAC_Chipp_632146H.png/210px-GGAC_Chipp_632146H.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/2/2b/GGACR_Chipp_632146H_Hitbox_1.png/210px-GGACR_Chipp_632146H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/thumb/3/38/GGACR_Chipp_632146H_Hitbox_2.png/99px-GGACR_Chipp_632146H_Hitbox_2.png"
+    ]
+  },
+  {    
+    "input": "236236K",
+    "move": "Banki Messai",
+    "damage": "7 x 26, 30 x 4",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "1 + 2-19",
+    "active": "Check Dustloop",
+    "recovery": "47 + 10 After Landing",
+    "block": "-48",
+    "frc_window": "25-28F, First 4F Active Of 3rd Hit",
+    "proration": "N/A",
+    "guard_bar_plus": "10 x 26, 20 x 4",
+    "guard_bar_minus": "2 x 26, 6 x 4",
+    "level": "3 x 26, 5 x 4",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/ba/GGAC_Chipp_236236K.png/210px-GGAC_Chipp_236236K.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/7/72/GGACR_Chipp_236236K_Hitbox.png/210px-GGACR_Chipp_236236K_Hitbox.png"
+    ]
+  },
+  {    
+    "input": "236236H",
+    "move": "Delta End",
+    "damage": "Fatal",
+    "guard": "Mid",
+    "invincibility": "N/A",
+    "startup": "59 + 0",
+    "active": "119",
+    "recovery": "43 + 16 After Landing",
+    "block": "N/a",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "3",
+    "guard_bar_minus": "N/A",
+    "level": "1",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/1/1a/GGAC_Chipp_IK.png/210px-GGAC_Chipp_IK.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/6/6e/GGACR_Chipp_IK_Hitbox.png/210px-GGACR_Chipp_IK_Hitbox.png"
+    ]
+  }
+]

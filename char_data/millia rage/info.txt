@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "1.21x",
+        "guts_rating": "3/5",
+        "guard_bar_gain_mod": "1.25x",
+        "guard_bar_recovery": "1/6F",
+        "gravity_mod": "1.05x",
+        "stun_resistance": "55",
+        "prejump": "3F",
+        "backdash": "11F (1-5F Strike Invuln)",
+        "wakeup_timing": "25F (Face Up) / 23F (Face Down)",
+        "number_of_jumps": "2",
+        "number_of_air_dashes": "2",
+        "unique_movement": "Forward Roll, Turbo Fall",
+        "images": [
+            "https://www.dustloop.com/wiki/images/7/73/GGAC_Millia_Portrait.png"
+        ]
+    }
+]

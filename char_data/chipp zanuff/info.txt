@@ -1,0 +1,19 @@
+[
+    {
+        "damage_received_mod": "1.3x",
+        "guts_rating": "4/5",
+        "guard_bar_gain_mod": "1.125x",
+        "guard_bar_recovery": "1/5F",
+        "gravity_mod": "1x",
+        "stun_resistance": "50",
+        "prejump": "3F",
+        "backdash": "21F (1-9F Strike Invuln)",
+        "wakeup_timing": "30F (Face Up) / 21F (Face Down)",
+        "number_of_jumps": "3",
+        "number_of_air_dashes": "1",
+        "unique_movement": "Tsuyoshi-shiki Ten'i, Sankaku Tobi",
+        "images": [
+            "https://www.dustloop.com/wiki/images/1/10/GGAC_Chipp_Portrait.png"
+        ]
+    }
+]

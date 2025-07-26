@@ -30,7 +30,7 @@ Visualize startup active, and recovery frames.
 
 ---
 ### `/info`
-Get detailed info/stats for a character.
+Get detailed info or stats for a character.
 <img width="425" height="531" alt="image" src="https://github.com/user-attachments/assets/a1abcc65-98eb-446f-9d3c-cd0bd59ca032" />
 
 ---

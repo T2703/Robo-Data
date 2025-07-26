@@ -25,8 +25,24 @@ Show hitboxes for a move.
 
 ---
 ### `/meter`
-Visualize startup active, and recovery frames./
-<img width="512" height="402" alt="image" src="https://github.com/user-attachments/assets/e3269b6f-7a3a-4892-8038-7c400858081a" />
+Visualize startup active, and recovery frames.
+<img width="611" height="504" alt="image" src="https://github.com/user-attachments/assets/3ab56291-3c35-4cd3-a50a-e2d445f43c8b" />
+
+---
+### `/meter`
+Visualize startup active, and recovery frames.
+<img width="611" height="504" alt="image" src="https://github.com/user-attachments/assets/3ab56291-3c35-4cd3-a50a-e2d445f43c8b" />
+
+---
+### `/info`
+Get detailed info/stats for a character.
+<img width="425" height="531" alt="image" src="https://github.com/user-attachments/assets/a1abcc65-98eb-446f-9d3c-cd0bd59ca032" />
+
+---
+### `/report`
+Submit a bug, feature, or feedback report.
+<img width="687" height="184" alt="image" src="https://github.com/user-attachments/assets/da738097-519d-4d59-82dd-1a11547f1904" />
+
 
 _________________________
 

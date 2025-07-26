@@ -17,6 +17,10 @@ load_dotenv()
 TOKEN: Final[str] = os.getenv('DISCORD_TOKEN')
 APP_ID = int(os.getenv("APP_ID"))
 
+# TEST
+TOKEN = "MTM3NjY0MDExMjc5NjEwNjk4Mw.GDVd8A.2SMN6rsrqiafyFtn0BHLqUX-fCyNPhYv35KNVE"
+APP_ID = "1376640112796106983"
+
 # Setup Discord bot
 intents: Intents = Intents.default()
 intents.message_content = True

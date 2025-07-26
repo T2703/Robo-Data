@@ -16,13 +16,17 @@ _________________________
 
 ### `/frames`
 Show frame data for a move.  
-<img width="397" height="488" alt="Frame Data Example" src="https://github.com/user-attachments/assets/45f191fb-5e5b-4a15-8fef-3ab900f2410e" />
+<img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/8928999e-d3ec-4258-a273-f408a2416ad8" />
 
 ---
-
 ### `/hitboxes`
 Show hitboxes for a move.  
-<img width="593" height="330" alt="Hitbox Example" src="https://github.com/user-attachments/assets/83f5ad93-b94c-4f79-8e17-2e376ed1bd2f" />
+<img width="512" height="402" alt="image" src="https://github.com/user-attachments/assets/e3269b6f-7a3a-4892-8038-7c400858081a" />
+
+---
+### `/meter`
+Visualize startup active, and recovery frames./
+<img width="512" height="402" alt="image" src="https://github.com/user-attachments/assets/e3269b6f-7a3a-4892-8038-7c400858081a" />
 
 _________________________
 

@@ -10,6 +10,7 @@ import asyncio
 import smtplib
 from email.message import EmailMessage
 
+
 # BE WARNED THIS CODE IS VERY SPAGHETTI! IT SUCKS!
 
 # Load environment variables
@@ -1765,10 +1766,23 @@ def move_aliases(character: str, move_name: str) -> str:
     character = character.lower()
     move_name = move_name.strip().lower()
 
+    # Remove spacing
+    move_name_no_spaces = move_name.replace(" ", "")
+
     if character in move_alias_map:
         for canonical, aliases in move_alias_map[character].items():
-            if move_name in [alias.lower() for alias in aliases]:
+
+            # Check without spaces for canonical name
+            canonical_no_spaces = canonical.replace(" ", "").lower()
+            if move_name_no_spaces == canonical_no_spaces:
                 return canonical
+            
+            # Check all aliases without spaces
+            for alias in aliases:
+                alias_no_spaces = alias.replace(" ", "").lower()
+                if move_name_no_spaces == alias_no_spaces:
+                    return canonical
+                
     return move_name
 
 # This one is for the frame meter function
@@ -1776,11 +1790,23 @@ def resolve_move_alias(char_key: str, move_name: str) -> str:
     char_key = char_key.lower()
     move_name = move_name.lower().strip()  
 
+    # Remove spacing
+    move_name_no_spaces = move_name.replace(" ", "")
+
     if char_key in move_alias_map:
         for canonical, aliases in move_alias_map[char_key].items():
-            if (move_name in [alias.lower().strip() for alias in aliases] or
-                move_name.replace(".", "") in [alias.lower().replace(".", "").strip() for alias in aliases]):
+
+            # Check without spaces for canonical name
+            canonical_no_spaces = canonical.replace(" ", "").lower()
+            if move_name_no_spaces == canonical_no_spaces:
                 return canonical
+            
+            # Check all aliases without spaces
+            for alias in aliases:
+                alias_no_spaces = alias.replace(" ", "").lower()
+                if move_name_no_spaces == alias_no_spaces:
+                    return canonical
+                
     return move_name
 
 def send_email_report(subject: str, body: str):

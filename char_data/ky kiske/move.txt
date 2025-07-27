@@ -525,7 +525,7 @@
     "guard_bar_minus": "7",
     "level": "3",
     "images": [
-      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGAC_Ky_3H.png/210px-GGAC_Ky_3H.png"
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGAC_Ky_StunEdge.png/210px-GGAC_Ky_StunEdge.png"
     ],
     "hitboxes_images": [
       "https://www.dustloop.com/wiki/images/0/0a/GGACR_Ky_236S_Hitbox.png"
@@ -547,7 +547,7 @@
     "guard_bar_minus": "6",
     "level": "4",
     "images": [
-      "https://www.dustloop.com/wiki/images/thumb/6/6d/GGAC_Ky_3H.png/210px-GGAC_Ky_3H.png"
+      "https://www.dustloop.com/wiki/images/thumb/5/59/GGAC_Ky_StunEdge.png/210px-GGAC_Ky_StunEdge.png"
     ],
     "hitboxes_images": [
       "https://www.dustloop.com/wiki/images/0/0a/GGACR_Ky_236S_Hitbox.png"

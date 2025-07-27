@@ -46,11 +46,16 @@ Get detailed info or stats for a character.
 ### `/report`
 Submit a bug, feature, or feedback report.
 <img width="687" height="184" alt="image" src="https://github.com/user-attachments/assets/da738097-519d-4d59-82dd-1a11547f1904" />
-
-
 _________________________
 
-# Technologies:
+# Usage Notes
+- Searching is case insensitive.
+  - Example: /frame CHipp 2p
+- Character specifics.
+  - Specials with levels.
+_________________________
+
+# Technologies
 - Python
 - Discord
 _________________________

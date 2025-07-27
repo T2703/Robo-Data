@@ -6,6 +6,15 @@ P.S. If you want to take a look at the code well uh have fun it is very spghaett
 _________________________
 
 # Table Of Contents
+- [Invitation](#invitation)
+- [Commands](#commands)
+  - [/frames](#frames)
+  - [/hitboxes](#hitboxes)
+  - [/meter](#meter)
+  - [/info](#info)
+  - [/report](#report)
+- [Technologies](#technologies)
+- [Credits](#credits)
 _________________________
 
 # Invitation 

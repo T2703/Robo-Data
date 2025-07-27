@@ -943,7 +943,7 @@
     ]
   },
   {
-    "input": "66X",
+    "input": "66P/K/S/H",
     "move": "Spi-KY",
     "damage": "50",
     "guard": "Mid",

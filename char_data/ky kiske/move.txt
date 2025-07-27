@@ -824,6 +824,28 @@
     ]
   },
   {    
+    "input": "236D > 4D",
+    "move": "Lightning Sphere",
+    "damage": "24 x 3",
+    "guard": "All",
+    "invincibility": "N/A",
+    "startup": "6",
+    "active": "34",
+    "recovery": "4",
+    "block": "+8",
+    "frc_window": "N/A",
+    "proration": "N/A",
+    "guard_bar_plus": "0",
+    "guard_bar_minus": "6 x 3",
+    "level": "5",
+    "images": [
+      "https://www.dustloop.com/wiki/images/thumb/b/bb/GGAC_Ky_Orb.png/210px-GGAC_Ky_Orb.png"
+    ],
+    "hitboxes_images": [
+      "https://www.dustloop.com/wiki/images/thumb/5/52/GGACR_Ky_4D_Hitbox.png/210px-GGACR_Ky_4D_Hitbox.png"
+    ]
+  },
+  {    
     "input": "236D > 4D > 46D",
     "move": "Charge Drive",
     "damage": "130",

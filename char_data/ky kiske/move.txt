@@ -726,7 +726,7 @@
       "https://www.dustloop.com/wiki/images/thumb/7/78/GGAC_Ky_LightningJavelin.png/210px-GGAC_Ky_LightningJavelin.png"
     ],
     "hitboxes_images": [
-      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGACR_Ky_623SS_Hitbox_1.png/210px-GGACR_Ky_623SS_Hitbox_1.pngs",
+      "https://www.dustloop.com/wiki/images/thumb/9/9e/GGACR_Ky_623SS_Hitbox_1.png/210px-GGACR_Ky_623SS_Hitbox_1.png",
       "https://www.dustloop.com/wiki/images/thumb/9/95/GGACR_Ky_623SS_Hitbox_2.png/210px-GGACR_Ky_623SS_Hitbox_2.png"
     ]
   },

@@ -1955,10 +1955,18 @@ def char_aliases(character_name: str) -> str:
     }
         
     character_name = character_name.strip().lower()
+    character_name_no_spaces = character_name.replace(" ", "")
 
     for canonical_name, alias_list in characters.items():
-        if character_name == canonical_name.lower() or character_name in [alias.lower() for alias in alias_list]:
+
+        canonical_no_spaces = canonical_name.replace(" ", "").lower()
+        if character_name_no_spaces == canonical_no_spaces:
             return canonical_name
+        
+        for alias in alias_list:
+            alias_no_spaces = alias.replace(" ", "").lower()
+            if character_name_no_spaces == alias_no_spaces:
+                return canonical_name
 
     return character_name
 

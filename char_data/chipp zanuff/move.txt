@@ -459,7 +459,7 @@
     ]
   },
   {
-    "input": "6H or 4H",
+    "input": "4/6[t]H",
     "move": "Ground Throw",
     "damage": "60",
     "guard": "36 Pixels",
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "input": "j.6H or j.4H",
+    "input": "j.4/6H",
     "move": "Air Throw",
     "damage": "60",
     "guard": "88 Pixels",

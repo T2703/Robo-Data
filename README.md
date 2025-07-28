@@ -13,7 +13,8 @@ _________________________
   - [/meter](#meter)
   - [/info](#info)
   - [/report](#report)
-- [Technologies](#technologies)
+- [Usage Notes](#technologies)
+- [Technologies](#UsageNotes)
 - [Credits](#credits)
 _________________________
 

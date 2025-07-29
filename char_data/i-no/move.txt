@@ -411,7 +411,7 @@
     ]
   },
   {
-    "input": "4/6H",
+    "input": "4/6[t]H",
     "move": "Ground Throw",
     "damage": "60",
     "guard": "45 Pixels",

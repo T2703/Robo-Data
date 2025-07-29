@@ -1078,7 +1078,7 @@
     "startup": "10 + 12",
     "active": "N/A",
     "recovery": "N/A",
-    "block": "-9",
+    "block": "N/A",
     "frc_window": "N/A",
     "proration": "N/A",
     "guard_bar_plus": "N/A",

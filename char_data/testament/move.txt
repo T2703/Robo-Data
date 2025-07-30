@@ -456,7 +456,7 @@
     ]
   },
   {
-    "input": "4/6H",
+    "input": "4/6[t]H",
     "move": "Ground Throw",
     "damage": "60",
     "guard": "45 Pixels",
@@ -1091,7 +1091,7 @@
     ]
   },
   {   
-    "input": "236236H",
+    "input": "236236H[ik]",
     "move": "Seventh Sign",
     "damage": "Fatal",
     "guard": "Mid",

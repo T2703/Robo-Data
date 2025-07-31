@@ -455,7 +455,7 @@
     ]
   },
   {
-    "input": "4/6H",
+    "input": "4/6[t]H",
     "move": "Ground Throw",
     "damage": "60",
     "guard": "45 Pixels",
@@ -493,7 +493,7 @@
     ]
   },
   {
-    "input": "6 + Two Attack Buttons",
+    "input": "6X + X While Blocking",
     "move": "Dead Angle Attack",
     "damage": "25",
     "guard": "All",
@@ -909,7 +909,7 @@
   },
   {
     "input": "Pogo H",
-    "move": "Going My Way",
+    "move": "Going My Way Pogo",
     "damage": "16 x 4",
     "guard": "All",
     "invincibility": "N/A",

@@ -436,7 +436,7 @@
     ]
   },
   {
-    "input": "4/6H",
+    "input": "4/6[t]H",
     "move": "Ground Throw",
     "damage": "50",
     "guard": "45 Pixels",
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "input": "6D[d]",
+    "input": "6D",
     "move": "6D[d]",
     "damage": "20",
     "guard": "All",
@@ -582,7 +582,7 @@
     ]
   },
   {
-    "input": "8D[d]",
+    "input": "8D",
     "move": "8D[d]",
     "damage": "20",
     "guard": "All",
@@ -628,7 +628,7 @@
     ]
   },
   {
-    "input": "4D[d]",
+    "input": "4D",
     "move": "4D[d]",
     "damage": "N/A",
     "guard": "N/A",
@@ -647,7 +647,7 @@
     ]
   },
   {
-    "input": "4DD[d]",
+    "input": "4DD",
     "move": "4DD[d]",
     "damage": "20",
     "guard": "High/Air",
@@ -1062,8 +1062,8 @@
     ]
   },
   {
-    "input": "JS[t]",
-    "move": "j.S[t]",
+    "input": "j.S[t]",
+    "move": "JS[t]",
     "damage": "25",
     "guard": "All",
     "invincibility": "N/A",
@@ -1085,8 +1085,8 @@
     ]
   },
   {
-    "input": "J2S",
-    "move": "j.2S",
+    "input": "j.2S",
+    "move": "J2S",
     "damage": "18",
     "guard": "All",
     "invincibility": "N/A",
@@ -1750,8 +1750,8 @@
     ]
   },
   {
-    "input": "JS[r]",
-    "move": "j.S[r]",
+    "input": "j.S[r]",
+    "move": "JS[r]",
     "damage": "35",
     "guard": "High/Air",
     "invincibility": "N/A",
@@ -1772,8 +1772,8 @@
     ]
   },
   {
-    "input": "JH[r]",
-    "move": "j.H[r]",
+    "input": "j.H[r]",
+    "move": "JH[r]",
     "damage": "45",
     "guard": "High/Air",
     "invincibility": "N/A",
@@ -1818,7 +1818,7 @@
   },
   {
     "input": "j.236S[r]",
-    "move": "Darkness Anthem Air",
+    "move": "Air Darkness Anthem",
     "damage": "35 x 2",
     "guard": "Mid",
     "invincibility": "N/A",
@@ -1887,7 +1887,7 @@
   },
   {
     "input": "j.214S[r]",
-    "move": "Last Edguy Air",
+    "move": "Air Last Edguy",
     "damage": "80",
     "guard": "Mid",
     "invincibility": "1-4F All, 5-7F Strike",

@@ -60,7 +60,7 @@ _________________________
  - []
    - Means hold or charge unless it is specific version of that move such as Zappa's c.S[t] being close slash for triplets.
  - ][
-  - Means release after a hold or charge attack.
+    - Means release after a hold or charge attack.
 - Searching is case insensitive:
   - Example: /frame CHipp 2p
 - Character Specifics:

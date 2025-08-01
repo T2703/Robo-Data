@@ -69,11 +69,11 @@ _________________________
 # Usage Notes
 
 - Symbols:
- - `[]`
+ - []
    - Means hold or charge unless it is specific version of that move such as Zappa's c.S[t] being close slash for triplets.
- - `][`
+ - ][
     - Means release after a hold or charge attack.
- - `>`
+ - \>
     - Means the next input for a move, something you would see in a rekka.
 - Searching is case insensitive:
   - Example: `/frame CHipp 2p`

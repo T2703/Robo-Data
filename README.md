@@ -31,27 +31,27 @@ Show frame data for a move.
 ---
 ### `/hitboxes`
 Show hitboxes for a move.  
-<img width="512" height="402" alt="image" src="https://github.com/user-attachments/assets/e3269b6f-7a3a-4892-8038-7c400858081a" />
+<img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/e3269b6f-7a3a-4892-8038-7c400858081a" />
 
 ---
 ### `/meter`
 Visualize startup active, and recovery frames.
-<img width="611" height="504" alt="image" src="https://github.com/user-attachments/assets/3ab56291-3c35-4cd3-a50a-e2d445f43c8b" />
+<img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/3ab56291-3c35-4cd3-a50a-e2d445f43c8b" />
 
 ---
 ### `/info`
 Get detailed info or stats for a character.
-<img width="425" height="531" alt="image" src="https://github.com/user-attachments/assets/a1abcc65-98eb-446f-9d3c-cd0bd59ca032" />
+<img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/a1abcc65-98eb-446f-9d3c-cd0bd59ca032" />
 
 ---
 ### `/movelist`
 Get a character's movelist.
-<img width="383" height="522" alt="image" src="https://github.com/user-attachments/assets/4e864ed6-afda-4710-bf58-50fc585253b5" />
+<img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/4e864ed6-afda-4710-bf58-50fc585253b5" />
 
 ---
 ### `/report`
 Submit a bug, feature, or feedback report.
-<img width="687" height="184" alt="image" src="https://github.com/user-attachments/assets/da738097-519d-4d59-82dd-1a11547f1904" />
+<img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/da738097-519d-4d59-82dd-1a11547f1904" />
 _________________________
 
 # Usage Notes

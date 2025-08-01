@@ -26,6 +26,7 @@ _________________________
 
 ### `/frames`
 Show frame data for a move.
+
 <img width="507" height="582" alt="image" src="https://github.com/user-attachments/assets/8928999e-d3ec-4258-a273-f408a2416ad8" />
 
 ---

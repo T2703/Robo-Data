@@ -49,6 +49,11 @@ Get a character's movelist.
 <img width="383" height="522" alt="image" src="https://github.com/user-attachments/assets/4e864ed6-afda-4710-bf58-50fc585253b5" />
 
 ---
+### `/characters`
+List all characters
+<img width="525" height="1084" alt="image" src="https://github.com/user-attachments/assets/da678db2-4df1-410e-9115-0d9152384c27" />
+
+---
 ### `/report`
 Submit a bug, feature, or feedback report.
 <img width="687" height="184" alt="image" src="https://github.com/user-attachments/assets/da738097-519d-4d59-82dd-1a11547f1904" />
@@ -70,6 +75,14 @@ _________________________
    - Example: `/frame Johnny 236]P[ 3`
    - Example: `/meter aba j41236S[gm]`
    - Example: `/frame za c.ss`
+ - Character Nicknames:
+   - Characters can be named with various nicknames as shown from `/characters`
+    - Example: `/hitboxes ed 5P`
+    - Example: `/meter brisket Kick Start My Heart`
+ - Move Nicknames:
+   - Moves have nicknames to them, you can either use the numpad notation for nicknames
+    - Example: `/frame ky dp`
+    - Example: `/frame pot HPB`
 _________________________
 
 # Technologies

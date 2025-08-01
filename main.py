@@ -2564,21 +2564,6 @@ async def on_ready() -> None:
 
 # ========== SLASH COMMAND LIST ==========
 
-# Commands List
-@bot.tree.command(name="commands", description="List all available robo commands.")
-async def robo_commands(interaction: discord.Interaction):
-    commands = [
-        "/commands", "/characters", "/character info", "/movelist", "/frame",
-        "/hitboxes", "/meter"
-    ]
-    embed = Embed(
-        title="Command List",
-        description="\n".join(commands),
-        color=discord.Color.blue()
-    )
-    await interaction.response.send_message(embed=embed)
-
-
 # Character List
 @bot.tree.command(name="characters", description="List all characters.")
 async def robo_chars(interaction: discord.Interaction):

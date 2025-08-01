@@ -62,14 +62,14 @@ _________________________
  - ][
     - Means release after a hold or charge attack.
 - Searching is case insensitive:
-  - Example: ### `/frame CHipp 2p`
+  - Example: `/frame CHipp 2p`
 - Character Specifics:
   - Specials with levels or specifics:
-   - Example: /hitboxes Robo Ky 6H Level 1
-   - Example: /meter Robo Hun-KY Homerun Lvl2
-   - Example: /frame Johnny 236]P[ 3
-   - Example: /meter aba j41236S[gm]
-   - Example: /frame za c.ss
+   - Example: `/hitboxes Robo Ky 6H Level 1`
+   - Example: `/meter Robo Hun-KY Homerun Lvl2`
+   - Example: `/frame Johnny 236]P[ 3`
+   - Example: `/meter aba j41236S[gm]`
+   - Example: `/frame za c.ss`
 _________________________
 
 # Technologies

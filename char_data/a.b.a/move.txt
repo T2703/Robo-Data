@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "input": "4/6H",
+    "input": "4/6[t]H",
     "move": "Ground Throw",
     "damage": "40",
     "guard": "45 Pixels",
@@ -1239,7 +1239,7 @@
     ]
   },
   {
-    "input": "4/6H[m]",
+    "input": "4/6[t]H[m]",
     "move": "Ground Throw Moroha",
     "damage": "40",
     "guard": "45 Pixels",

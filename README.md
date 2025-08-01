@@ -44,16 +44,32 @@ Get detailed info or stats for a character.
 <img width="425" height="531" alt="image" src="https://github.com/user-attachments/assets/a1abcc65-98eb-446f-9d3c-cd0bd59ca032" />
 
 ---
+### `/movelist`
+Get a character's movelist.
+<img width="383" height="522" alt="image" src="https://github.com/user-attachments/assets/4e864ed6-afda-4710-bf58-50fc585253b5" />
+
+---
 ### `/report`
 Submit a bug, feature, or feedback report.
 <img width="687" height="184" alt="image" src="https://github.com/user-attachments/assets/da738097-519d-4d59-82dd-1a11547f1904" />
 _________________________
 
 # Usage Notes
-- Searching is case insensitive.
+
+- Symbols:
+ - []
+   - Means hold or charge unless it is specific version of that move such as Zappa's c.S[t] being close slash for triplets.
+ - ][
+  - Means release after a hold or charge attack.
+- Searching is case insensitive:
   - Example: /frame CHipp 2p
-- Character specifics.
-  - Specials with levels.
+- Character Specifics:
+  - Specials with levels or specifics:
+   - Example: /hitboxes Robo Ky 6H Level 1
+   - Example: /meter Robo Hun-KY Homerun Lvl2
+   - Example: /frame Johnny 236]P[ 3
+   - Example: /meter aba j41236S[gm]
+   - Example: /frame za c.ss
 _________________________
 
 # Technologies

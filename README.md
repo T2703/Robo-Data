@@ -98,6 +98,11 @@ _________________________
 - Python
 - Discord
 _________________________
+
+# Support
+Feel free to support me and or this project through this link [here](https://buymeacoffee.com/nono_t27) if you want.
+_________________________
+
 # Credits
 - [Dustloop](https://www.dustloop.com/w/Main_Page) for providing the character data.
 - [yakiimoninja's](https://github.com/yakiimoninja) [baiken](https://github.com/yakiimoninja/baiken?tab=readme-ov-file) for the inspiration.  

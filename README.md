@@ -14,7 +14,9 @@ _________________________
   - [/info](#info)
   - [/report](#report)
 - [Usage Notes](#technologies)
+- [Video Showcase](#VideoShowcase)
 - [Technologies](#UsageNotes)
+- [Support](#Support)
 - [Credits](#credits)
 _________________________
 

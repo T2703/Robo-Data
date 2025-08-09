@@ -765,7 +765,7 @@
   },
   {
     "input": "632146H",
-    "move": "Aerial Potemkin Buster",
+    "move": "Giganter",
     "damage": "45",
     "guard": "All",
     "invincibility": "1-9F All, 10-15F Strike",
